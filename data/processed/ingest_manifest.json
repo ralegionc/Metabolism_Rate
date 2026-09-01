@@ -1,0 +1,20 @@
+{
+  "dolphin_betas": {
+    "cpgs": 37554,
+    "samples": 50
+  },
+  "dolphin_age_range_y": [
+    0.572210815,
+    57.87
+  ],
+  "universal_clocks": {
+    "clock1": 335,
+    "clock2": 816,
+    "clock3": 760
+  },
+  "species_with_arocm": 126,
+  "species_tissue_records": 229,
+  "chromatin_states": 54,
+  "orders": 15,
+  "annotated_clock_cpgs": 1303
+}

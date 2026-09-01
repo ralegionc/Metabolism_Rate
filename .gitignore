@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Derived from data/raw/mydata_GitHub.Rds by src/01_ingest.py.
+# 18 MB and fully regenerable, so it is not worth versioning.
+data/processed/dolphin_betas.parquet
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

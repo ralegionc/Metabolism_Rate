@@ -1,0 +1,1304 @@
+CGid,SYMBOL,seqnames,start,annotation,distanceToTSS,GENENAME,genic,Promoter,main_Categories
+cg00098422,WDR26,chr1,224389815.0,3' UTR,44978.0,WD repeat domain 26,True,False,threeUTR
+cg00258262,LINC02609,chr1,90828767.0,"Exon (ENST00000658618.1/105378853, exon 2 of 2)",22760.0,long intergenic non-protein coding RNA 2609,True,False,Exon
+cg00493843,MYCL,chr1,39898349.0,"Intron (ENST00000418255.1/ENST00000418255.1, intron 1 of 1)",3663.0,"MYCL proto-oncogene, bHLH transcription factor",True,False,Intron
+cg00694357,ZBTB7B,chr1,155004171.0,"Intron (ENST00000417934.6/51043, intron 1 of 4)",1541.0,zinc finger and BTB domain containing 7B,True,False,Intron
+cg00864083,FOXJ3,chr1,42205807.0,"Exon (ENST00000372572.5/22887, exon 8 of 15)",129157.0,forkhead box J3,True,False,Exon
+cg00935831,RNF220,chr1,44603247.0,"Intron (ENST00000355387.6/55182, intron 2 of 14)",198053.0,ring finger protein 220,True,False,Intron
+cg01136078,FOXO6,chr1,41383526.0,"Exon (ENST00000372591.1/100132074, exon 2 of 2)",21604.0,forkhead box O6,True,False,Exon
+cg01169686,GORAB,chr1,170564460.0,Distal Intergenic,19820.0,"golgin, RAB6 interacting",False,False,Intergenic_downstream
+cg01328716,RNF19B,chr1,32938452.0,"Exon (ENST00000373456.11/127544, exon 8 of 9)",26232.0,ring finger protein 19B,True,False,Exon
+cg01534197,CAMTA1,chr1,7041502.0,"Intron (ENST00000303635.12/23261, intron 3 of 22)",256048.0,calmodulin binding transcription activator 1,True,False,Intron
+cg01550545,NFIA,chr1,61447809.0,"Intron (ENST00000371191.5/4774, intron 10 of 10)",582550.0,nuclear factor I A,True,False,Intron
+cg01648457,CCNL2,chr1,1393454.0,3' UTR,5880.0,cyclin L2,True,False,threeUTR
+cg02034779,CAMK2N1,chr1,20482558.0,3' UTR,3651.0,calcium/calmodulin dependent protein kinase II inhibitor 1,True,False,threeUTR
+cg02172466,CASZ1,chr1,10647946.0,"Exon (ENST00000606802.1/ENST00000606802.1, exon 2 of 2)",148699.0,castor zinc finger 1,True,False,Exon
+cg02270238,RPL11,chr1,23696379.0,3' UTR,4637.0,ribosomal protein L11,True,False,threeUTR
+cg02456804,FAM78B,chr1,166070621.0,"Exon (ENST00000435676.2/149297, exon 2 of 3)",95603.0,family with sequence similarity 78 member B,True,False,Exon
+cg02551294,LINC01739,chr1,62999399.0,"Intron (ENST00000641890.1/105378769, intron 1 of 1)",11797.0,long intergenic non-protein coding RNA 1739,True,False,Intron
+cg02681015,PRDM16,chr1,3069253.0,Promoter (<=1kb),85.0,PR/SET domain 16,True,True,fiveUTR
+cg02800363,AHDC1,chr1,27561568.0,"Intron (ENST00000247087.10/27245, intron 1 of 5)",42023.0,AT-hook DNA binding motif containing 1,True,False,Intron
+cg03420509,FAF1,chr1,50570234.0,"Intron (ENST00000396153.7/11124, intron 12 of 18)",390032.0,Fas associated factor 1,True,False,Intron
+cg03521797,PHC2,chr1,33368611.0,"Exon (ENST00000257118.5/1912, exon 5 of 14)",6981.0,polyhomeotic homolog 2,True,False,Exon
+cg03564272,CASZ1,chr1,10673616.0,"Intron (ENST00000377022.8/54897, intron 4 of 20)",123029.0,castor zinc finger 1,True,False,Intron
+cg03905052,DPYD,chr1,97536915.0,"Intron (ENST00000370192.7/1806, intron 12 of 22)",384107.0,dihydropyrimidine dehydrogenase,True,False,Intron
+cg04584281,ELAVL4,chr1,50197459.0,"Exon (ENST00000448907.7/1996, exon 6 of 7)",149445.0,ELAV like RNA binding protein 4,True,False,Exon
+cg04996684,DENND1B,chr1,197675972.0,"Intron (ENST00000620048.6/163486, intron 3 of 22)",99507.0,DENN domain containing 1B,True,False,Intron
+cg05033071,FOXO6,chr1,41362275.0,Promoter (<=1kb),353.0,forkhead box O6,True,True,Exon
+cg05551621,FOXD3-AS1,chr1,63323562.0,Promoter (<=1kb),19.0,FOXD3 antisense RNA 1,True,True,Exon
+cg05675373,KCNC4,chr1,110211635.0,Promoter (<=1kb),292.0,potassium voltage-gated channel subfamily C member 4,True,True,Exon
+cg05817746,ERI3,chr1,44296999.0,"Intron (ENST00000456170.6/79033, intron 3 of 6)",22744.0,ERI1 exoribonuclease family member 3,True,False,Intron
+cg05866252,FOXO6,chr1,41381046.0,"Intron (ENST00000372591.1/100132074, intron 1 of 1)",19124.0,forkhead box O6,True,False,Intron
+cg05933505,WASF2,chr1,27428840.0,"Exon (ENST00000618852.5/10163, exon 2 of 9)",61278.0,WASP family member 2,True,False,Exon
+cg06004718,POU2F1,chr1,167398080.0,3' UTR,177194.0,POU class 2 homeobox 1,True,False,threeUTR
+cg06244551,SFPQ,chr1,35184683.0,"Intron (ENST00000460428.5/6421, intron 3 of 5)",3358.0,splicing factor proline and glutamine rich,True,False,Intron
+cg06333141,PPP2R5A,chr1,212329287.0,"Exon (ENST00000261461.7/5525, exon 2 of 13)",43877.0,protein phosphatase 2 regulatory subunit B'alpha,True,False,Exon
+cg06392591,PBX1,chr1,164651460.0,"Intron (ENST00000340699.7/5087, intron 3 of 3)",92053.0,PBX homeobox 1,True,False,Intron
+cg06413694,RPS6KC1,chr1,213340471.0,Distal Intergenic,98411.0,ribosomal protein S6 kinase C1,False,False,Intergenic_downstream
+cg06607996,ZBTB7B,chr1,155005126.0,"Intron (ENST00000417934.6/51043, intron 1 of 4)",2496.0,zinc finger and BTB domain containing 7B,True,False,Intron
+cg06655463,USH2A,chr1,216041211.0,"Intron (ENST00000307340.8/7399, intron 32 of 71)",382236.0,usherin,True,False,Intron
+cg06828322,ERI3,chr1,44326509.0,"Intron (ENST00000372257.7/79033, intron 3 of 8)",28747.0,ERI1 exoribonuclease family member 3,True,False,Intron
+cg07069838,PSMB2,chr1,35659780.0,Distal Intergenic,-18255.0,proteasome 20S subunit beta 2,False,False,Intergenic_upstream
+cg07081182,RPS6KC1,chr1,213159525.0,"Intron (ENST00000543354.5/26750, intron 5 of 13)",108292.0,ribosomal protein S6 kinase C1,True,False,Intron
+cg07265990,MIER1,chr1,66946224.0,"Exon (ENST00000371018.7/57708, exon 5 of 16)",21329.0,MIER1 transcriptional regulator,True,False,Exon
+cg07388493,NDUFS5,chr1,39025787.0,Promoter (<=1kb),-530.0,NADH:ubiquinone oxidoreductase subunit S5,False,True,Promoter
+cg07601141,MIR137HG,chr1,98046153.0,"Exon (ENST00000424528.2/400765, exon 3 of 5)",3709.0,MIR137 host gene,True,False,Exon
+cg07727941,FAM78B,chr1,166166176.0,Promoter (<=1kb),48.0,family with sequence similarity 78 member B,True,True,Exon
+cg07774376,ERI3,chr1,44326598.0,"Intron (ENST00000372257.7/79033, intron 3 of 8)",28658.0,ERI1 exoribonuclease family member 3,True,False,Intron
+cg07881279,PEX14,chr1,10533813.0,"Intron (ENST00000472851.1/5195, intron 3 of 3)",61525.0,peroxisomal biogenesis factor 14,True,False,Intron
+cg07991826,CLK2,chr1,155268734.0,"Exon (ENST00000361168.9/1196, exon 4 of 13)",4504.0,CDC like kinase 2,True,False,Exon
+cg08040307,ZZZ3,chr1,77633377.0,5' UTR,49280.0,zinc finger ZZ-type containing 3,True,False,fiveUTR
+cg08216101,ID3,chr1,23562470.0,Promoter (2-3kb),-2969.0,"inhibitor of DNA binding 3, HLH protein",False,True,Promoter
+cg08402704,LINC01763,chr1,90851824.0,Promoter (<=1kb),702.0,long intergenic non-protein coding RNA 1763,True,True,Exon
+cg09023627,SPEN,chr1,15872997.0,"Exon (ENST00000375759.8/23013, exon 2 of 15)",25290.0,spen family transcriptional repressor,True,False,Exon
+cg09025625,SHC1,chr1,154970033.0,Promoter (<=1kb),707.0,SHC adaptor protein 1,True,True,Exon
+cg09169719,SRRM1,chr1,24647166.0,3' UTR,14100.0,serine and arginine repetitive matrix 1,True,False,threeUTR
+cg09316860,PEX14,chr1,10598780.0,"Intron (ENST00000356607.9/5195, intron 3 of 8)",123830.0,peroxisomal biogenesis factor 14,True,False,Intron
+cg09360996,PROX1,chr1,213996654.0,"Exon (ENST00000471129.1/5629, exon 2 of 2)",13473.0,prospero homeobox 1,True,False,Exon
+cg09576428,UBE2Q1,chr1,154550324.0,3' UTR,8337.0,ubiquitin conjugating enzyme E2 Q1,True,False,threeUTR
+cg09642734,ZBTB7B,chr1,155007795.0,"Intron (ENST00000417934.6/51043, intron 1 of 4)",5165.0,zinc finger and BTB domain containing 7B,True,False,Intron
+cg09809672,EDARADD,chr1,236394382.0,5' UTR,46125.0,EDAR associated death domain,True,False,fiveUTR
+cg10045881,CHI3L2,chr1,111227669.0,5' UTR,26898.0,chitinase 3 like 2,True,False,fiveUTR
+cg10061379,POU2F1,chr1,167222434.0,"Intron (ENST00000559038.5/5451, intron 1 of 4)",1558.0,POU class 2 homeobox 1,True,False,Intron
+cg10235290,RNF220,chr1,44581211.0,"Intron (ENST00000355387.6/55182, intron 2 of 14)",176017.0,ring finger protein 220,True,False,Intron
+cg10501210,MIR29B2CHG,chr1,207823675.0,"Intron (ENST00000608023.5/100128537, intron 2 of 4)",45474.0,MIR29B2 and MIR29C host gene,True,False,Intron
+cg10559644,NFASC,chr1,204968962.0,"Exon (ENST00000404977.6/23114, exon 11 of 26)",140311.0,neurofascin,True,False,Exon
+cg11025714,KIRREL1,chr1,158089480.0,"Exon (ENST00000368172.1/55243, exon 5 of 11)",96207.0,kirre like nephrin family adhesion molecule 1,True,False,Exon
+cg11254527,ZMYM4,chr1,35408094.0,"Exon (ENST00000314607.11/9202, exon 26 of 30)",139385.0,zinc finger MYM-type containing 4,True,False,Exon
+cg11276577,HIVEP3,chr1,41524866.0,"Exon (ENST00000643665.1/59269, exon 5 of 8)",137458.0,HIVEP zinc finger 3,True,False,Exon
+cg11480265,MAGI3,chr1,113682225.0,"Exon (ENST00000369617.8/260425, exon 22 of 22)",291710.0,"membrane associated guanylate kinase, WW and PDZ domain containing 3",True,False,Exon
+cg11672180,LINC00466,chr1,63317732.0,Promoter (<=1kb),-459.0,long intergenic non-protein coding RNA 466,False,True,Promoter
+cg12338698,PHC2,chr1,33334138.0,"Exon (ENST00000431992.5/1912, exon 8 of 13)",41454.0,polyhomeotic homolog 2,True,False,Exon
+cg12421693,ESRRG,chr1,216518256.0,"Intron (ENST00000616180.4/2104, intron 6 of 6)",196996.0,estrogen related receptor gamma,True,False,Intron
+cg12425327,LINC01739,chr1,62928845.0,Distal Intergenic,82269.0,long intergenic non-protein coding RNA 1739,False,False,Intergenic_downstream
+cg12460432,FOXO6,chr1,41315165.0,"Intron (ENST00000657314.1/ENST00000657314.1, intron 1 of 1)",-46708.0,forkhead box O6,True,False,Intron
+cg12651099,KCNC4,chr1,110211650.0,Promoter (<=1kb),307.0,potassium voltage-gated channel subfamily C member 4,True,True,Exon
+cg12721805,SLC22A15,chr1,116031406.0,"Exon (ENST00000369503.9/55356, exon 6 of 12)",54893.0,solute carrier family 22 member 15,True,False,Exon
+cg12733826,PROX1-AS1,chr1,213892396.0,"Intron (ENST00000433082.6/100505832, intron 4 of 5)",95985.0,PROX1 antisense RNA 1,True,False,Intron
+cg12923877,SRSF11,chr1,70230602.0,"Exon (ENST00000463116.1/9295, exon 1 of 2)",24920.0,serine and arginine rich splicing factor 11,True,False,Exon
+cg13057591,BEND5,chr1,48776789.0,Promoter (<=1kb),101.0,BEN domain containing 5,True,True,Exon
+cg13275239,UBAP2L,chr1,154261012.0,"Exon (ENST00000343815.10/9898, exon 23 of 25)",40833.0,ubiquitin associated protein 2 like,True,False,Exon
+cg13401299,CDKN2C,chr1,50968722.0,5' UTR,7977.0,cyclin dependent kinase inhibitor 2C,True,False,fiveUTR
+cg13581054,MIR3659,chr1,38134567.0,"Intron (ENST00000641212.1/ENST00000641212.1, intron 2 of 4)",45337.0,microRNA 3659,True,False,Intron
+cg13705955,SSBP3,chr1,54258201.0,"Intron (ENST00000326956.11/23648, intron 2 of 13)",98616.0,single stranded DNA binding protein 3,True,False,Intron
+cg13753818,WDR26,chr1,224431495.0,"Exon (ENST00000414423.8/80232, exon 3 of 14)",3298.0,WD repeat domain 26,True,False,Exon
+cg14002724,TBX15,chr1,118992974.0,Promoter (3-4kb),-3419.0,T-box transcription factor 15,False,True,Promoter
+cg14258341,LINC01398,chr1,46448351.0,"Intron (ENST00000635298.1/729041, intron 1 of 3)",2965.0,long intergenic non-protein coding RNA 1398,True,False,Intron
+cg14565725,TBX15,chr1,118989421.0,Promoter (<=1kb),134.0,T-box transcription factor 15,True,True,fiveUTR
+cg14668921,RNF220,chr1,44619490.0,"Intron (ENST00000355387.6/55182, intron 3 of 14)",214296.0,ring finger protein 220,True,False,Intron
+cg14676280,SRRM1,chr1,24647108.0,3' UTR,14042.0,serine and arginine repetitive matrix 1,True,False,threeUTR
+cg14738500,GFI1,chr1,92486763.0,Promoter (<=1kb),161.0,growth factor independent 1 transcriptional repressor,True,True,fiveUTR
+cg14988489,CASZ1,chr1,10856467.0,Distal Intergenic,-59817.0,castor zinc finger 1,False,False,Intergenic_upstream
+cg15343536,NFIA,chr1,61152215.0,"Intron (ENST00000371191.5/4774, intron 2 of 10)",286956.0,nuclear factor I A,True,False,Intron
+cg15403305,LINC01343,chr1,38207517.0,"Intron (ENST00000671301.1/ENST00000671301.1, intron 1 of 1)",7249.0,long intergenic non-protein coding RNA 1343,True,False,Intron
+cg15444935,POU2F1,chr1,167389738.0,3' UTR,168852.0,POU class 2 homeobox 1,True,False,threeUTR
+cg15726426,KCNA3,chr1,110674217.0,Promoter (<=1kb),722.0,potassium voltage-gated channel subfamily A member 3,True,True,Exon
+cg15991909,ZBTB8A,chr1,32539339.0,"Intron (ENST00000480336.1/653121, intron 6 of 9)",74282.0,zinc finger and BTB domain containing 8A,True,False,Intron
+cg16390944,SSBP3,chr1,54407686.0,"Intron (ENST00000525990.1/23648, intron 1 of 8)",5792.0,single stranded DNA binding protein 3,True,False,Intron
+cg16486681,ZBTB7B,chr1,155005813.0,"Intron (ENST00000417934.6/51043, intron 1 of 4)",3183.0,zinc finger and BTB domain containing 7B,True,False,Intron
+cg16545804,MIR3659,chr1,38095514.0,"Intron (ENST00000432922.5/ENST00000432922.5, intron 1 of 3)",6283.0,microRNA 3659,True,False,Intron
+cg16599143,FMO3,chr1,171089531.0,Promoter (1-2kb),-1370.0,flavin containing dimethylaniline monoxygenase 3,True,True,Promoter
+cg16717607,PHC2,chr1,33368598.0,"Exon (ENST00000257118.5/1912, exon 5 of 14)",6994.0,polyhomeotic homolog 2,True,False,Exon
+cg16816020,TRABD2B,chr1,47978738.0,"Intron (ENST00000606738.3/388630, intron 2 of 6)",18646.0,TraB domain containing 2B,True,False,Intron
+cg16853731,POU3F1,chr1,38044783.0,3' UTR,2009.0,POU class 3 homeobox 1,True,False,threeUTR
+cg16960327,ZNF326,chr1,90007481.0,"Exon (ENST00000340281.9/284695, exon 5 of 12)",12371.0,zinc finger protein 326,True,False,Exon
+cg17267107,CASZ1,chr1,10669966.0,"Intron (ENST00000377022.8/54897, intron 4 of 20)",126679.0,castor zinc finger 1,True,False,Intron
+cg17504468,SDCCAG8,chr1,243476144.0,"Exon (ENST00000463042.1/10806, exon 3 of 3)",220103.0,serologically defined colon cancer antigen 8,True,False,Exon
+cg17718834,PEX14,chr1,10623271.0,3' UTR,148321.0,peroxisomal biogenesis factor 14,True,False,threeUTR
+cg17818266,AMPD1,chr1,114688723.0,"Exon (ENST00000637080.1/270, exon 2 of 14)",6749.0,adenosine monophosphate deaminase 1,True,False,Exon
+cg18481180,HIPK1,chr1,113963552.0,"Intron (ENST00000426820.7/204851, intron 10 of 15)",34228.0,homeodomain interacting protein kinase 1,True,False,Intron
+cg18543660,LINC02609,chr1,90834002.0,"Intron (ENST00000671059.1/105378853, intron 1 of 2)",17525.0,long intergenic non-protein coding RNA 2609,True,False,Intron
+cg19291010,BCL9,chr1,147612914.0,"Exon (ENST00000234739.8/607, exon 5 of 10)",71413.0,BCL9 transcription coactivator,True,False,Exon
+cg19411464,SRSF11,chr1,70231873.0,5' UTR,26191.0,serine and arginine rich splicing factor 11,True,False,fiveUTR
+cg19573972,RPS6KC1,chr1,213232174.0,"Exon (ENST00000543354.5/26750, exon 9 of 14)",180941.0,ribosomal protein S6 kinase C1,True,False,Exon
+cg19707231,IPO9-AS1,chr1,201788630.0,3' UTR,40928.0,IPO9 antisense RNA 1,True,False,threeUTR
+cg19719141,MKNK1-AS1,chr1,46526544.0,Distal Intergenic,-12067.0,MKNK1 antisense RNA 1,False,False,Intergenic_upstream
+cg19912994,KCNC4,chr1,110211633.0,Promoter (<=1kb),290.0,potassium voltage-gated channel subfamily C member 4,True,True,Exon
+cg20146241,RCAN3AS,chr1,24535114.0,Promoter (<=1kb),285.0,RCAN3 antisense RNA,True,True,Exon
+cg21102110,LINC01739,chr1,62994313.0,"Intron (ENST00000641890.1/105378769, intron 1 of 1)",16835.0,long intergenic non-protein coding RNA 1739,True,False,Intron
+cg21102477,CSMD2,chr1,34165243.0,Promoter (<=1kb),30.0,CUB and Sushi multiple domains 2,True,True,fiveUTR
+cg21180487,TPM3,chr1,154171419.0,3' UTR,11829.0,tropomyosin 3,True,False,threeUTR
+cg21197642,TTC34,chr1,2892405.0,Distal Intergenic,-90689.0,tetratricopeptide repeat domain 34,False,False,Intergenic_upstream
+cg21278764,UTP11,chr1,38016093.0,"Intron (ENST00000483182.5/51118, intron 2 of 5)",6835.0,UTP11 small subunit processome component,True,False,Intron
+cg21673805,POU2F1,chr1,167220917.0,Promoter (<=1kb),41.0,POU class 2 homeobox 1,True,True,fiveUTR
+cg21847954,RNF220,chr1,44536751.0,"Intron (ENST00000355387.6/55182, intron 2 of 14)",131557.0,ring finger protein 220,True,False,Intron
+cg22354333,CDKN2C,chr1,50977563.0,Distal Intergenic,7318.0,cyclin dependent kinase inhibitor 2C,False,False,Intergenic_downstream
+cg22398409,PKN2-AS1,chr1,88150788.0,"Intron (ENST00000642677.1/ENST00000642677.1, intron 1 of 6)",420072.0,PKN2 antisense RNA 1,True,False,Intron
+cg22409694,LMO4,chr1,87338099.0,"Intron (ENST00000370544.10/8543, intron 2 of 4)",9219.0,LIM domain only 4,True,False,Intron
+cg22432362,LMO4,chr1,87329763.0,Promoter (<=1kb),883.0,LIM domain only 4,True,True,Promoter
+cg22621796,RNF220,chr1,44565975.0,"Intron (ENST00000355387.6/55182, intron 2 of 14)",160781.0,ring finger protein 220,True,False,Intron
+cg22673296,PLXNA2,chr1,208268218.0,"Exon (ENST00000652300.1/ENST00000652300.1, exon 2 of 2)",-23835.0,plexin A2,True,False,Exon
+cg22805522,LINC00466,chr1,63318178.0,Promoter (<=1kb),-905.0,long intergenic non-protein coding RNA 466,False,True,Promoter
+cg22903204,CASZ1,chr1,10672589.0,"Intron (ENST00000377022.8/54897, intron 4 of 20)",124056.0,castor zinc finger 1,True,False,Intron
+cg23088328,PRRX1,chr1,170661790.0,Promoter (<=1kb),-937.0,paired related homeobox 1,False,True,Promoter
+cg23287176,CASZ1,chr1,10672330.0,"Intron (ENST00000377022.8/54897, intron 4 of 20)",124315.0,castor zinc finger 1,True,False,Intron
+cg23298936,CASZ1,chr1,10713154.0,"Intron (ENST00000377022.8/54897, intron 2 of 20)",83491.0,castor zinc finger 1,True,False,Intron
+cg23337318,NFIA,chr1,61157563.0,"Intron (ENST00000371191.5/4774, intron 2 of 10)",292304.0,nuclear factor I A,True,False,Intron
+cg23405931,CDC7,chr1,91513975.0,"Exon (ENST00000234626.11/8317, exon 8 of 12)",13124.0,cell division cycle 7,True,False,Exon
+cg23692250,NFIA-AS2,chr1,60936285.0,"Intron (ENST00000371191.5/4774, intron 1 of 10)",34459.0,NFIA antisense RNA 2,True,False,Intron
+cg23778391,CASZ1,chr1,10698402.0,"Intron (ENST00000377022.8/54897, intron 3 of 20)",98243.0,castor zinc finger 1,True,False,Intron
+cg24148137,FAM78B,chr1,166166208.0,Promoter (<=1kb),16.0,family with sequence similarity 78 member B,True,True,Exon
+cg24315421,MIR29B2CHG,chr1,207866908.0,"Intron (ENST00000608023.5/100128537, intron 2 of 4)",2241.0,MIR29B2 and MIR29C host gene,True,False,Intron
+cg24434315,USH2A,chr1,215963874.0,"Intron (ENST00000307340.8/7399, intron 37 of 71)",459573.0,usherin,True,False,Intron
+cg25019875,MIR4255,chr1,37275026.0,"Intron (ENST00000657513.1/ENST00000657513.1, intron 1 of 3)",113464.0,microRNA 4255,True,False,Intron
+cg25139325,POU2F1,chr1,167222453.0,"Intron (ENST00000559038.5/5451, intron 1 of 4)",1577.0,POU class 2 homeobox 1,True,False,Intron
+cg25278124,AHDC1,chr1,27552111.0,"Exon (ENST00000247087.10/27245, exon 5 of 6)",51480.0,AT-hook DNA binding motif containing 1,True,False,Exon
+cg25323457,ARID1A,chr1,26723984.0,"Intron (ENST00000430799.7/8289, intron 1 of 19)",30748.0,AT-rich interaction domain 1A,True,False,Intron
+cg25603344,MIR3659,chr1,38114450.0,"Intron (ENST00000428151.1/ENST00000428151.1, intron 4 of 4)",25219.0,microRNA 3659,True,False,Intron
+cg25687751,SFPQ,chr1,35181211.0,"Exon (ENST00000490668.5/6421, exon 1 of 4)",6830.0,splicing factor proline and glutamine rich,True,False,Exon
+cg27228973,FOXO6-AS1,chr1,41404380.0,Distal Intergenic,-28760.0,FOXO6 antisense RNA 1,False,False,Intergenic_upstream
+cg27245416,ARID1A,chr1,26772876.0,"Exon (ENST00000430799.7/8289, exon 14 of 20)",79640.0,AT-rich interaction domain 1A,True,False,Exon
+cg27581159,ESRRG,chr1,217089866.0,"Intron (ENST00000366940.6/2104, intron 1 of 8)",47888.0,estrogen related receptor gamma,True,False,Intron
+cg27662445,PEX14,chr1,10593869.0,"Intron (ENST00000356607.9/5195, intron 3 of 8)",118919.0,peroxisomal biogenesis factor 14,True,False,Intron
+cg00020468,ANK3,chr10,60070043.0,"Exon (ENST00000280772.7/288, exon 37 of 44)",319831.0,ankyrin 3,True,False,Exon
+cg00900734,DOCK1,chr10,127012247.0,"Exon (ENST00000623213.1/1793, exon 12 of 52)",106838.0,dedicator of cytokinesis 1,True,False,Exon
+cg01009870,EBF3,chr10,129869867.0,"Intron (ENST00000368648.7/253738, intron 8 of 15)",93973.0,EBF transcription factor 3,True,False,Intron
+cg01063757,TCF7L2,chr10,113119965.0,"Intron (ENST00000627217.3/6934, intron 5 of 13)",169718.0,transcription factor 7 like 2,True,False,Intron
+cg01429475,BTRC,chr10,101451718.0,"Intron (ENST00000393441.8/8945, intron 2 of 13)",97685.0,beta-transducin repeat containing E3 ubiquitin protein ligase,True,False,Intron
+cg01486146,PAX2,chr10,100655554.0,Distal Intergenic,-80049.0,paired box 2,False,False,Intergenic_upstream
+cg01656216,ZNF438,chr10,30984781.0,"Intron (ENST00000413025.5/220929, intron 1 of 5)",47155.0,zinc finger protein 438,True,False,Intron
+cg01990759,SPOCK2,chr10,72088232.0,Promoter (<=1kb),318.0,"SPARC (osteonectin), cwcv and kazal like domains proteoglycan 2",True,True,Exon
+cg02360445,MIR1915HG,chr10,21509328.0,Distal Intergenic,-12069.0,MIR1915 host gene,False,False,Intergenic_upstream
+cg02553441,HECTD2,chr10,91493494.0,"Exon (ENST00000446394.5/143279, exon 15 of 22)",83209.0,HECT domain E3 ubiquitin protein ligase 2,True,False,Exon
+cg04368876,LCOR,chr10,96833840.0,"Intron (ENST00000371103.8/84458, intron 2 of 7)",1558.0,ligand dependent nuclear receptor corepressor,True,False,Intron
+cg04706544,DRGX,chr10,49396706.0,Promoter (<=1kb),-691.0,dorsal root ganglia homeobox,False,True,Promoter
+cg05575054,ADRB1,chr10,114045209.0,"Exon (ENST00000369295.4/153, exon 1 of 1)",1343.0,adrenoceptor beta 1,True,False,Exon
+cg05601676,NKX2-3,chr10,99537299.0,Distal Intergenic,4346.0,NK2 homeobox 3,False,False,Intergenic_downstream
+cg05801021,DRGX,chr10,49396212.0,Promoter (<=1kb),-197.0,dorsal root ganglia homeobox,False,True,Promoter
+cg06098215,NCOA4,chr10,46020119.0,"Intron (ENST00000585132.5/8031, intron 1 of 9)",3335.0,nuclear receptor coactivator 4,True,False,Intron
+cg06571003,PAX2,chr10,100655668.0,Distal Intergenic,-79935.0,paired box 2,False,False,Intergenic_upstream
+cg06721611,BTRC,chr10,101507443.0,"Intron (ENST00000393441.8/8945, intron 3 of 13)",153410.0,beta-transducin repeat containing E3 ubiquitin protein ligase,True,False,Intron
+cg07782608,CCAR1,chr10,68756514.0,"Intron (ENST00000630771.2/55749, intron 13 of 23)",35370.0,cell division cycle and apoptosis regulator 1,True,False,Intron
+cg07906193,ZRANB1,chr10,124911397.0,Distal Intergenic,-30725.0,zinc finger RANBP2-type containing 1,False,False,Intergenic_upstream
+cg07938388,DRGX,chr10,49396731.0,Promoter (<=1kb),-716.0,dorsal root ganglia homeobox,False,True,Promoter
+cg07978738,ABLIM1,chr10,114538580.0,"Intron (ENST00000392955.7/3983, intron 6 of 22)",145876.0,actin binding LIM protein 1,True,False,Intron
+cg09161688,EBF3,chr10,129873560.0,"Exon (ENST00000368648.7/253738, exon 8 of 16)",90280.0,EBF transcription factor 3,True,False,Exon
+cg09622673,BTRC,chr10,101452071.0,"Intron (ENST00000393441.8/8945, intron 2 of 13)",98038.0,beta-transducin repeat containing E3 ubiquitin protein ligase,True,False,Intron
+cg10491556,HMX3,chr10,123136370.0,Promoter (<=1kb),400.0,H6 family homeobox 3,True,True,Exon
+cg11352386,ZRANB1,chr10,124981719.0,"Exon (ENST00000359653.4/54764, exon 6 of 9)",39596.0,zinc finger RANBP2-type containing 1,True,False,Exon
+cg11488183,PRKG1,chr10,51397876.0,"Intron (ENST00000401604.8/5592, intron 2 of 17)",406988.0,protein kinase cGMP-dependent 1,True,False,Intron
+cg11541320,LINC02681,chr10,101292826.0,Distal Intergenic,-29276.0,long intergenic non-protein coding RNA 2681,False,False,Intergenic_upstream
+cg12314723,BTRC,chr10,101430403.0,"Exon (ENST00000393441.8/8945, exon 2 of 14)",76370.0,beta-transducin repeat containing E3 ubiquitin protein ligase,True,False,Exon
+cg12756474,TCF7L2,chr10,113120001.0,"Intron (ENST00000627217.3/6934, intron 5 of 13)",169754.0,transcription factor 7 like 2,True,False,Intron
+cg12969847,NT5C2,chr10,103139465.0,"Exon (ENST00000404739.7/22978, exon 2 of 17)",35516.0,"5'-nucleotidase, cytosolic II",True,False,Exon
+cg13285426,CPEB3,chr10,92091835.0,"Exon (ENST00000412050.8/22849, exon 8 of 10)",151410.0,cytoplasmic polyadenylation element binding protein 3,True,False,Exon
+cg13935834,EBF3,chr10,129849719.0,"Intron (ENST00000368648.7/253738, intron 10 of 15)",114121.0,EBF transcription factor 3,True,False,Intron
+cg14517144,HNRNPH3,chr10,68338663.0,"Exon (ENST00000469172.5/3189, exon 2 of 8)",7489.0,heterogeneous nuclear ribonucleoprotein H3,True,False,Exon
+cg15330117,GATA3,chr10,8054706.0,5' UTR,9328.0,GATA binding protein 3,True,False,fiveUTR
+cg15597031,CRTAC1,chr10,97982587.0,"Intron (ENST00000370597.8/55118, intron 2 of 14)",48033.0,cartilage acidic protein 1,True,False,Intron
+cg15686078,PAX2,chr10,100668277.0,Distal Intergenic,-67326.0,paired box 2,False,False,Intergenic_upstream
+cg16011662,BUB3,chr10,123305174.0,Distal Intergenic,142921.0,BUB3 mitotic checkpoint protein,False,False,Intergenic_downstream
+cg16100840,PAX2,chr10,100707267.0,Distal Intergenic,-28335.0,paired box 2,False,False,Intergenic_upstream
+cg16391501,PAX2,chr10,100654689.0,Distal Intergenic,-80914.0,paired box 2,False,False,Intergenic_upstream
+cg16423684,LRMDA,chr10,75693577.0,"Intron (ENST00000611255.5/83938, intron 2 of 6)",261953.0,leucine rich melanocyte differentiation associated,True,False,Intron
+cg16671190,KCNMA1-AS1,chr10,76944864.0,3' UTR,56788.0,KCNMA1 antisense RNA 1,True,False,threeUTR
+cg17143801,MGMT,chr10,129648217.0,"Intron (ENST00000306010.8/4255, intron 2 of 4)",181027.0,O-6-methylguanine-DNA methyltransferase,True,False,Intron
+cg17201550,KCNMA1,chr10,77637409.0,Promoter (<=1kb),348.0,potassium calcium-activated channel subfamily M alpha 1,True,True,Exon
+cg17357006,VTI1A,chr10,112538434.0,"Exon (ENST00000496445.5/143187, exon 5 of 5)",91176.0,vesicle transport through interaction with t-SNAREs 1A,True,False,Exon
+cg17425418,KAT6B,chr10,74975634.0,"Exon (ENST00000648725.1/23522, exon 8 of 18)",150698.0,lysine acetyltransferase 6B,True,False,Exon
+cg17499466,ZNF503,chr10,75379424.0,"Intron (ENST00000418818.6/84858, intron 1 of 3)",21821.0,zinc finger protein 503,True,False,Intron
+cg17850367,ABI1,chr10,26861569.0,Promoter (<=1kb),-483.0,abl interactor 1,False,True,Promoter
+cg18573296,LRMDA,chr10,75693591.0,"Intron (ENST00000611255.5/83938, intron 2 of 6)",261967.0,leucine rich melanocyte differentiation associated,True,False,Intron
+cg18738190,CHST3,chr10,71980533.0,"Intron (ENST00000373115.5/9469, intron 1 of 2)",16138.0,carbohydrate sulfotransferase 3,True,False,Intron
+cg18974733,HNRNPH3,chr10,68337928.0,"Exon (ENST00000469172.5/3189, exon 2 of 8)",6754.0,heterogeneous nuclear ribonucleoprotein H3,True,False,Exon
+cg19090691,NKX2-3,chr10,99537359.0,Distal Intergenic,4406.0,NK2 homeobox 3,False,False,Intergenic_downstream
+cg19275555,LRMDA,chr10,75613828.0,"Intron (ENST00000611255.5/83938, intron 2 of 6)",182204.0,leucine rich melanocyte differentiation associated,True,False,Intron
+cg19425332,VAX1,chr10,117139358.0,Promoter (1-2kb),-1058.0,ventral anterior homeobox 1,False,True,Promoter
+cg19891210,CREM,chr10,35211273.0,3' UTR,84482.0,cAMP responsive element modulator,True,False,threeUTR
+cg21509426,RHOBTB1,chr10,60892897.0,"Exon (ENST00000337910.10/9886, exon 5 of 11)",51287.0,Rho related BTB domain containing 1,True,False,Exon
+cg21510166,PAX2,chr10,100787461.0,"Intron (ENST00000553492.5/5076, intron 3 of 3)",51858.0,paired box 2,True,False,Intron
+cg22063749,PPP3CB-AS1,chr10,73519952.0,"Exon (ENST00000600206.5/101929145, exon 4 of 4)",23665.0,PPP3CB antisense RNA 1 (head to head),True,False,Exon
+cg22113843,KAT6B,chr10,74826606.0,Promoter (<=1kb),0.0,lysine acetyltransferase 6B,True,True,fiveUTR
+cg22204849,FGFR2,chr10,121517380.0,3' UTR,76586.0,fibroblast growth factor receptor 2,True,False,threeUTR
+cg22414596,PAX2,chr10,100788017.0,"Intron (ENST00000553492.5/5076, intron 3 of 3)",52414.0,paired box 2,True,False,Intron
+cg22667099,SHTN1,chr10,116962125.0,"Intron (ENST00000355371.9/57698, intron 3 of 16)",43061.0,shootin 1,True,False,Intron
+cg23272565,MGMT,chr10,129571632.0,"Intron (ENST00000306010.8/4255, intron 2 of 4)",104442.0,O-6-methylguanine-DNA methyltransferase,True,False,Intron
+cg23754860,LDB3,chr10,86699297.0,3' UTR,30848.0,LIM domain binding 3,True,False,threeUTR
+cg25195795,SKIDA1,chr10,21518323.0,5' UTR,7358.0,SKI/DACH domain containing 1,True,False,fiveUTR
+cg25210084,DNAJB12,chr10,72354911.0,Promoter (<=1kb),237.0,DnaJ heat shock protein family (Hsp40) member B12,True,True,fiveUTR
+cg25368206,LRMDA,chr10,75703821.0,"Intron (ENST00000611255.5/83938, intron 2 of 6)",272197.0,leucine rich melanocyte differentiation associated,True,False,Intron
+cg25615279,HMX2,chr10,123144477.0,Promoter (3-4kb),-3644.0,H6 family homeobox 2,False,True,Promoter
+cg25805807,BTRC,chr10,101430388.0,"Exon (ENST00000393441.8/8945, exon 2 of 14)",76355.0,beta-transducin repeat containing E3 ubiquitin protein ligase,True,False,Exon
+cg25824158,CAMK2G,chr10,73839578.0,"Exon (ENST00000322635.7/818, exon 13 of 21)",34940.0,calcium/calmodulin dependent protein kinase II gamma,True,False,Exon
+cg25950871,PAX2,chr10,100655672.0,Distal Intergenic,-79931.0,paired box 2,False,False,Intergenic_upstream
+cg26102159,CAMK2G,chr10,73839584.0,"Exon (ENST00000322635.7/818, exon 13 of 21)",34934.0,calcium/calmodulin dependent protein kinase II gamma,True,False,Exon
+cg26120306,FGF8,chr10,101767676.0,Distal Intergenic,8224.0,fibroblast growth factor 8,False,False,Intergenic_downstream
+cg26474314,HMX2,chr10,123144411.0,Promoter (3-4kb),-3710.0,H6 family homeobox 2,False,True,Promoter
+cg26594414,SH3PXD2A,chr10,103622472.0,"Exon (ENST00000369774.8/9644, exon 10 of 15)",233070.0,SH3 and PX domains 2A,True,False,Exon
+cg26662324,CTBP2,chr10,125057293.0,"Intron (ENST00000337195.9/1488, intron 2 of 10)",103219.0,C-terminal binding protein 2,True,False,Intron
+cg26845017,PAX2,chr10,100655556.0,Distal Intergenic,-80047.0,paired box 2,False,False,Intergenic_upstream
+cg00467357,PICALM,chr11,85978069.0,"Exon (ENST00000532317.5/8301, exon 17 of 20)",91014.0,phosphatidylinositol binding clathrin assembly protein,True,False,Exon
+cg00513357,EIF4G2,chr11,10806046.0,"Exon (ENST00000526148.5/1982, exon 4 of 22)",1926.0,eukaryotic translation initiation factor 4 gamma 2,True,False,Exon
+cg00929113,PAX6,chr11,31799549.0,"Intron (ENST00000606377.6/5080, intron 7 of 12)",11584.0,paired box 6,True,False,Intron
+cg01038105,TMX2-CTNND1,chr11,57794027.0,5' UTR,40737.0,TMX2-CTNND1 readthrough (NMD candidate),True,False,fiveUTR
+cg01137681,TEAD1,chr11,12764208.0,5' UTR,89787.0,TEA domain transcription factor 1,True,False,fiveUTR
+cg01759800,CADM1,chr11,115525626.0,Distal Intergenic,-20670.0,cell adhesion molecule 1,False,False,Intergenic_upstream
+cg01975510,KDM2A,chr11,67250350.0,"Exon (ENST00000529006.7/22992, exon 17 of 21)",131087.0,lysine demethylase 2A,True,False,Exon
+cg02040823,OPCML,chr11,132692006.0,"Intron (ENST00000331898.11/4978, intron 1 of 6)",251664.0,opioid binding protein/cell adhesion molecule like,True,False,Intron
+cg02073955,LINC00900,chr11,116129526.0,Distal Intergenic,-368881.0,long intergenic non-protein coding RNA 900,False,False,Intergenic_upstream
+cg02322553,BACE1,chr11,117295238.0,5' UTR,21017.0,beta-secretase 1,True,False,fiveUTR
+cg02946452,NELL1,chr11,21534465.0,"Exon (ENST00000325319.9/4745, exon 15 of 19)",864914.0,neural EGFL like 1,True,False,Exon
+cg02968236,TENM4,chr11,78786107.0,"Intron (ENST00000278550.12/26011, intron 16 of 33)",654922.0,teneurin transmembrane protein 4,True,False,Intron
+cg03747401,MIR8068,chr11,28566925.0,Distal Intergenic,-89377.0,microRNA 8068,False,False,Intergenic_upstream
+cg04725401,DPF2,chr11,65344604.0,"Exon (ENST00000530993.5/5977, exon 6 of 7)",10752.0,double PHD fingers 2,True,False,Exon
+cg05052242,OPCML,chr11,132920729.0,"Intron (ENST00000331898.11/4978, intron 1 of 6)",22941.0,opioid binding protein/cell adhesion molecule like,True,False,Intron
+cg05401971,KDM2A,chr11,67250713.0,"Exon (ENST00000529006.7/22992, exon 17 of 21)",131450.0,lysine demethylase 2A,True,False,Exon
+cg06059859,ARNTL,chr11,13277797.0,Promoter (<=1kb),0.0,aryl hydrocarbon receptor nuclear translocator like,True,True,fiveUTR
+cg07014363,NTM,chr11,131562171.0,"Intron (ENST00000374791.7/50863, intron 1 of 7)",191693.0,neurotrimin,True,False,Intron
+cg07987507,DLG2,chr11,83484266.0,"Intron (ENST00000280241.12/1740, intron 15 of 21)",833072.0,discs large MAGUK scaffold protein 2,True,False,Intron
+cg08933909,ZBTB16,chr11,114163920.0,"Intron (ENST00000335953.9/7704, intron 3 of 6)",104209.0,zinc finger and BTB domain containing 16,True,False,Intron
+cg08965235,LTBP3,chr11,65557687.0,Promoter (<=1kb),271.0,latent transforming growth factor beta binding protein 3,True,True,Exon
+cg08981150,EIF4G2,chr11,10804357.0,3' UTR,3615.0,eukaryotic translation initiation factor 4 gamma 2,True,False,threeUTR
+cg09374953,NTM,chr11,131370514.0,Promoter (<=1kb),36.0,neurotrimin,True,True,fiveUTR
+cg09661809,TPBGL,chr11,75242037.0,"Exon (ENST00000562197.3/100507050, exon 1 of 1)",1263.0,trophoblast glycoprotein like,True,False,Exon
+cg09716123,NAV2,chr11,19596536.0,"Intron (ENST00000360655.8/89797, intron 1 of 37)",245812.0,neuron navigator 2,True,False,Intron
+cg10739250,MPPED2,chr11,30535950.0,"Intron (ENST00000448418.6/744, intron 3 of 6)",50330.0,metallophosphoesterase domain containing 2,True,False,Intron
+cg11124915,EIF4G2,chr11,10806872.0,"Exon (ENST00000526148.5/1982, exon 3 of 22)",1100.0,eukaryotic translation initiation factor 4 gamma 2,True,False,Exon
+cg11251514,LMO1,chr11,8283204.0,Distal Intergenic,-14489.0,LIM domain only 1,False,False,Intergenic_upstream
+cg11290280,MADD,chr11,47289008.0,"Exon (ENST00000311027.9/8567, exon 16 of 36)",19632.0,MAP kinase activating death domain,True,False,Exon
+cg11742933,APBB1,chr11,6401629.0,"Exon (ENST00000621678.4/322, exon 8 of 13)",3061.0,amyloid beta precursor protein binding family B member 1,True,False,Exon
+cg12591580,RBM14-RBM4,chr11,66626657.0,3' UTR,10031.0,RBM14-RBM4 readthrough,True,False,threeUTR
+cg14498322,SORL1,chr11,121656306.0,Distal Intergenic,30105.0,sortilin related receptor 1,False,False,Intergenic_downstream
+cg15298634,SOX6,chr11,16055889.0,"Exon (ENST00000316399.10/55553, exon 9 of 15)",285379.0,SRY-box transcription factor 6,True,False,Exon
+cg15496507,CREBZF,chr11,85660576.0,3' UTR,4525.0,CREB/ATF bZIP transcription factor,True,False,threeUTR
+cg15546160,BTBD10,chr11,13445066.0,"Exon (ENST00000278174.9/84280, exon 2 of 9)",18213.0,BTB domain containing 10,True,False,Exon
+cg15719056,CLPB,chr11,72369854.0,"Intron (ENST00000294053.9/81570, intron 5 of 16)",64676.0,"ClpB homolog, mitochondrial AAA ATPase chaperonin",True,False,Intron
+cg15913680,PDE2A,chr11,72642299.0,5' UTR,32122.0,phosphodiesterase 2A,True,False,fiveUTR
+cg16925789,NRXN2,chr11,64632811.0,"Intron (ENST00000301894.6/9379, intron 2 of 6)",10503.0,neurexin 2,True,False,Intron
+cg17139066,MIR6073,chr11,15842246.0,Distal Intergenic,127374.0,microRNA 6073,False,False,Intergenic_downstream
+cg17656607,DSCAML1,chr11,117776889.0,"Exon (ENST00000651296.2/57453, exon 3 of 33)",20326.0,DS cell adhesion molecule like 1,True,False,Exon
+cg17876669,CELF1,chr11,47466510.0,3' UTR,86606.0,CUGBP Elav-like family member 1,True,False,threeUTR
+cg18535797,LOC102724957,chr11,15507804.0,Distal Intergenic,-97680.0,uncharacterized LOC102724957,False,False,Intergenic_upstream
+cg19414994,GRIA4,chr11,105974317.0,3' UTR,364244.0,glutamate ionotropic receptor AMPA type subunit 4,True,False,threeUTR
+cg20221627,STIM1,chr11,4091328.0,3' UTR,235626.0,stromal interaction molecule 1,True,False,threeUTR
+cg20483513,LOC100130987,chr11,67365224.0,"Exon (ENST00000312438.8/23529, exon 3 of 3)",47353.0,uncharacterized LOC100130987,True,False,Exon
+cg20635820,CREBZF,chr11,85662429.0,3' UTR,2672.0,CREB/ATF bZIP transcription factor,True,False,threeUTR
+cg23128382,OSBP,chr11,59615345.0,Promoter (<=1kb),428.0,oxysterol binding protein,True,True,Exon
+cg23501051,NAV2,chr11,19715366.0,"Intron (ENST00000360655.8/89797, intron 1 of 37)",364642.0,neuron navigator 2,True,False,Intron
+cg24191230,MARK2,chr11,63839503.0,Promoter (<=1kb),575.0,microtubule affinity regulating kinase 2,True,True,fiveUTR
+cg24653269,BCL9L,chr11,118916022.0,"Intron (ENST00000526143.2/283149, intron 1 of 7)",9585.0,BCL9 like,True,False,Intron
+cg25072946,MARK2,chr11,63910494.0,3' UTR,71566.0,microtubule affinity regulating kinase 2,True,False,threeUTR
+cg25172570,NUP98,chr11,3760548.0,"Exon (ENST00000359171.8/4928, exon 10 of 33)",37243.0,nucleoporin 98,True,False,Exon
+cg25184118,NRXN2,chr11,64690444.0,"Exon (ENST00000377551.5/9379, exon 4 of 22)",23466.0,neurexin 2,True,False,Exon
+cg25649550,SLC1A2,chr11,35261714.0,3' UTR,157843.0,solute carrier family 1 member 2,True,False,threeUTR
+cg27201382,BDNF,chr11,27720483.0,Promoter (<=1kb),239.0,brain derived neurotrophic factor,True,True,fiveUTR
+cg27300575,YAP1,chr11,102209523.0,"Exon (ENST00000282441.10/10413, exon 6 of 9)",99076.0,Yes associated protein 1,True,False,Exon
+cg27507315,SOX6,chr11,16356733.0,"Intron (ENST00000655819.1/55553, intron 1 of 14)",46133.0,SRY-box transcription factor 6,True,False,Intron
+cg01150494,CIT,chr12,119718845.0,"Exon (ENST00000261833.11/11113, exon 30 of 47)",158442.0,citron rho-interacting serine/threonine kinase,True,False,Exon
+cg01246498,LINC01234,chr12,113673544.0,"Intron (ENST00000661760.1/100506465, intron 3 of 3)",100141.0,long intergenic non-protein coding RNA 1234,True,False,Intron
+cg01772613,HECTD4,chr12,112252429.0,"Exon (ENST00000550722.5/283450, exon 23 of 76)",129662.0,HECT domain E3 ubiquitin protein ligase 4,True,False,Exon
+cg01946200,DNAJC22,chr12,49342274.0,Promoter (4-5kb),-4613.0,DnaJ heat shock protein family (Hsp40) member C22,False,True,Promoter
+cg03163184,LMO3,chr12,16610213.0,Promoter (<=1kb),312.0,LIM domain only 3,True,True,Promoter
+cg03190580,LHX5,chr12,113471913.0,Promoter (<=1kb),-43.0,LIM homeobox 5,True,True,Exon
+cg04097289,SMUG1,chr12,54161252.0,"Intron (ENST00000634429.1/ENST00000634429.1, intron 4 of 5)",27682.0,single-strand-selective monofunctional uracil-DNA glycosylase 1,True,False,Intron
+cg04204168,ATF7IP,chr12,14257734.0,Distal Intergenic,-107897.0,activating transcription factor 7 interacting protein,False,False,Intergenic_upstream
+cg04366185,CISTR,chr12,53839038.0,"Intron (ENST00000663306.1/ENST00000663306.1, intron 1 of 4)",-81811.0,chondrogenesis-associated transcript,True,False,Intron
+cg04889095,RIMKLB,chr12,8773554.0,"Exon (ENST00000357529.7/57494, exon 7 of 7)",91863.0,ribosomal modification protein rimK like family member B,True,False,Exon
+cg05039938,SSPN,chr12,26278064.0,"Intron (ENST00000534829.5/ENST00000534829.5, intron 2 of 3)",82708.0,sarcospan,True,False,Intron
+cg05537515,MBD6,chr12,57529196.0,"Exon (ENST00000355673.8/114785, exon 13 of 13)",6372.0,methyl-CpG binding domain protein 6,True,False,Exon
+cg05684493,PLEKHA5,chr12,19314749.0,"Intron (ENST00000429027.6/54477, intron 15 of 31)",184981.0,pleckstrin homology domain containing A5,True,False,Intron
+cg05916870,CHD4,chr12,6613214.0,Promoter (4-5kb),-4785.0,chromodomain helicase DNA binding protein 4,True,True,Promoter
+cg06102298,SMARCC2,chr12,56164375.0,"Exon (ENST00000550164.6/6601, exon 28 of 29)",25107.0,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2",True,False,Exon
+cg08522676,HOXC12,chr12,53949918.0,Promoter (4-5kb),-4984.0,homeobox C12,False,True,Promoter
+cg08563010,SOX5,chr12,23921603.0,"Intron (ENST00000451604.7/6660, intron 1 of 14)",28066.0,SRY-box transcription factor 5,True,False,Intron
+cg09008979,SP7,chr12,53336382.0,"Intron (ENST00000547755.1/121340, intron 1 of 1)",8932.0,Sp7 transcription factor,True,False,Intron
+cg09010707,SSPN,chr12,26239634.0,"Intron (ENST00000534829.5/ENST00000534829.5, intron 1 of 3)",44278.0,sarcospan,True,False,Intron
+cg09362546,HOTAIR,chr12,53973240.0,5' UTR,1715.0,HOX transcript antisense RNA,True,False,fiveUTR
+cg10278760,KCNA1,chr12,4909870.0,Promoter (<=1kb),3.0,potassium voltage-gated channel subfamily A member 1,True,True,Exon
+cg10466667,CALCOCO1,chr12,53710077.0,3' UTR,17374.0,calcium binding and coiled-coil domain 1,True,False,threeUTR
+cg10711876,CALCOCO1,chr12,53712389.0,3' UTR,15062.0,calcium binding and coiled-coil domain 1,True,False,threeUTR
+cg12713245,MBD6,chr12,57529187.0,"Exon (ENST00000355673.8/114785, exon 13 of 13)",6363.0,methyl-CpG binding domain protein 6,True,False,Exon
+cg13058338,SMUG1,chr12,54173598.0,"Intron (ENST00000635234.1/23583, intron 2 of 4)",15384.0,single-strand-selective monofunctional uracil-DNA glycosylase 1,True,False,Intron
+cg13343102,CISTR,chr12,53739920.0,"Intron (ENST00000663306.1/ENST00000663306.1, intron 1 of 4)",12081.0,chondrogenesis-associated transcript,True,False,Intron
+cg13532184,ESYT1,chr12,56118310.0,Promoter (<=1kb),60.0,extended synaptotagmin 1,True,True,fiveUTR
+cg13935553,BHLHE41,chr12,26120667.0,3' UTR,4369.0,basic helix-loop-helix family member e41,True,False,threeUTR
+cg14237002,CPSF6,chr12,69258067.0,3' UTR,18498.0,cleavage and polyadenylation specific factor 6,True,False,threeUTR
+cg14334315,PPFIA2,chr12,81759503.0,Promoter (<=1kb),49.0,PTPRF interacting protein alpha 2,True,True,fiveUTR
+cg14381350,STX2,chr12,130826483.0,"Intron (ENST00000392373.7/2054, intron 2 of 10)",12766.0,syntaxin 2,True,False,Intron
+cg14903956,GRIN2B,chr12,13562916.0,"Exon (ENST00000609686.3/2904, exon 13 of 13)",45754.0,glutamate ionotropic receptor NMDA type subunit 2B,True,False,Exon
+cg15166827,CACNA1C,chr12,2504459.0,3' UTR,451472.0,calcium voltage-gated channel subunit alpha1 C,True,False,threeUTR
+cg15168457,ATXN2,chr12,111516347.0,"Exon (ENST00000642389.2/6311, exon 10 of 27)",82774.0,ataxin 2,True,False,Exon
+cg15229894,HOXC4,chr12,54033435.0,"Exon (ENST00000312492.2/3222, exon 1 of 2)",16504.0,homeobox C4,True,False,Exon
+cg15405572,NAV3,chr12,77830772.0,"Intron (ENST00000550042.2/89795, intron 2 of 8)",506131.0,neuron navigator 3,True,False,Intron
+cg16159306,ZDHHC17,chr12,76821110.0,3' UTR,57522.0,zinc finger DHHC-type containing 17,True,False,threeUTR
+cg16278638,FAM222A,chr12,109718594.0,"Intron (ENST00000538780.1/84915, intron 1 of 2)",4366.0,family with sequence similarity 222 member A,True,False,Intron
+cg16756969,LINC01234,chr12,113649565.0,"Intron (ENST00000661760.1/100506465, intron 3 of 3)",124120.0,long intergenic non-protein coding RNA 1234,True,False,Intron
+cg16986738,CACNA1C,chr12,2633643.0,"Exon (ENST00000347598.9/775, exon 31 of 49)",580656.0,calcium voltage-gated channel subunit alpha1 C,True,False,Exon
+cg17116410,HOXC4,chr12,54037896.0,"Exon (ENST00000507650.1/3221, exon 1 of 3)",20965.0,homeobox C4,True,False,Exon
+cg18094982,SLCO1C1,chr12,20695438.0,Promoter (<=1kb),83.0,solute carrier organic anion transporter family member 1C1,True,True,fiveUTR
+cg18368305,ATXN2,chr12,111453780.0,3' UTR,145341.0,ataxin 2,True,False,threeUTR
+cg18473521.2,HOXC4,chr12,54054481.0,"Intron (ENST00000303406.4/3221, intron 3 of 3)",37550.0,homeobox C4,True,False,Intron
+cg19368807,KDM2B,chr12,121443749.0,"Exon (ENST00000377071.9/84678, exon 17 of 23)",137273.0,lysine demethylase 2B,True,False,Exon
+cg19927064,CACNB3,chr12,48818919.0,5' UTR,5125.0,calcium voltage-gated channel auxiliary subunit beta 3,True,False,fiveUTR
+cg20023049,CLSTN3,chr12,7142946.0,"Exon (ENST00000266546.11/9746, exon 11 of 18)",12575.0,calsyntenin 3,True,False,Exon
+cg21006686,NOS1,chr12,117362435.0,"Intron (ENST00000549189.1/4842, intron 1 of 1)",89734.0,nitric oxide synthase 1,True,False,Intron
+cg21345677,LINC01234,chr12,113664715.0,"Intron (ENST00000661760.1/100506465, intron 3 of 3)",108970.0,long intergenic non-protein coding RNA 1234,True,False,Intron
+cg21650436,ADCY6,chr12,48768661.0,"Exon (ENST00000547260.5/112, exon 7 of 7)",5834.0,adenylate cyclase 6,True,False,Exon
+cg22866580,HOXC5,chr12,53990504.0,"Intron (ENST00000513209.1/3222, intron 1 of 1)",4659.0,homeobox C5,True,False,Intron
+cg23053149,RIC8B,chr12,106874532.0,3' UTR,99892.0,RIC8 guanine nucleotide exchange factor B,True,False,threeUTR
+cg23931487,ATP5MC2,chr12,53677480.0,Promoter (<=1kb),-73.0,ATP synthase membrane subunit c locus 2,False,True,Promoter
+cg24551749,ATP5MC2,chr12,53677516.0,Promoter (<=1kb),-109.0,ATP synthase membrane subunit c locus 2,False,True,Promoter
+cg24580312,CAND1,chr12,67302478.0,"Exon (ENST00000545606.6/55832, exon 8 of 15)",33120.0,cullin associated and neddylation dissociated 1,True,False,Exon
+cg24655241,GDF11,chr12,55749684.0,"Exon (ENST00000257868.10/10220, exon 3 of 3)",6562.0,growth differentiation factor 11,True,False,Exon
+cg24856447,PHLDA1,chr12,75848675.0,"Intron (ENST00000552856.1/ENST00000552856.1, intron 1 of 4)",182929.0,pleckstrin homology like domain family A member 1,True,False,Intron
+cg25034090,KMT2D,chr12,49021334.0,3' UTR,33989.0,lysine methyltransferase 2D,True,False,threeUTR
+cg25943666,SP7,chr12,53339083.0,"Intron (ENST00000547755.1/121340, intron 1 of 1)",6231.0,Sp7 transcription factor,True,False,Intron
+cg26311454,TUBA1B,chr12,49126865.0,Distal Intergenic,3248.0,tubulin alpha 1b,False,False,Intergenic_downstream
+cg26653463,SOX5,chr12,23771429.0,"Intron (ENST00000451604.7/6660, intron 3 of 14)",178240.0,SRY-box transcription factor 5,True,False,Intron
+cg26781330,ATF7,chr12,53600991.0,5' UTR,25378.0,activating transcription factor 7,True,False,fiveUTR
+cg00593462,COL4A1,chr13,110116146.0,"Intron (ENST00000670698.1/ENST00000670698.1, intron 1 of 1)",47344.0,collagen type IV alpha 1 chain,True,False,Intron
+cg01409964,LINC00331,chr13,78998527.0,Distal Intergenic,-158476.0,long intergenic non-protein coding RNA 331,False,False,Intergenic_upstream
+cg04080945,DACH1,chr13,72197548.0,Distal Intergenic,-330345.0,dachshund family transcription factor 1,False,False,Intergenic_upstream
+cg05292023,PLUT,chr13,27822774.0,"Exon (ENST00000499662.3/100861550, exon 4 of 5)",94523.0,"PDX1 associated lncRNA, upregulator of transcription",True,False,Exon
+cg08587692,SLITRK1,chr13,83881293.0,"Exon (ENST00000377084.3/114798, exon 1 of 1)",1099.0,SLIT and NTRK like family member 1,True,False,Exon
+cg09497746,CDX2,chr13,27969373.0,Promoter (<=1kb),-59.0,caudal type homeobox 2,False,True,Promoter
+cg09605634,DCLK1,chr13,35947401.0,"Exon (ENST00000360631.7/9201, exon 4 of 17)",183904.0,doublecortin like kinase 1,True,False,Exon
+cg09646392,TNFSF13B,chr13,108268704.0,Promoter (<=1kb),-924.0,TNF superfamily member 13b,True,True,Promoter
+cg09807427,FAM155A,chr13,107866400.0,"Exon (ENST00000375915.4/728215, exon 1 of 3)",1095.0,family with sequence similarity 155 member A,True,False,Exon
+cg10718271,SLITRK1,chr13,83882766.0,Promoter (<=1kb),-373.0,SLIT and NTRK like family member 1,True,True,Exon
+cg10945667,MIR17HG,chr13,91347608.0,Promoter (<=1kb),-211.0,miR-17-92a-1 cluster host gene,False,True,Promoter
+cg12973326,PCDH17,chr13,57632930.0,"Exon (ENST00000377918.8/27253, exon 1 of 4)",1186.0,protocadherin 17,True,False,Exon
+cg13294690,SLITRK1,chr13,83881566.0,Promoter (<=1kb),826.0,SLIT and NTRK like family member 1,True,True,fiveUTR
+cg13943045,PCDH17,chr13,57666442.0,"Intron (ENST00000377918.8/27253, intron 1 of 3)",34698.0,protocadherin 17,True,False,Intron
+cg15006148,LOC101927284,chr13,94662152.0,Distal Intergenic,-41302.0,uncharacterized LOC101927284,False,False,Intergenic_upstream
+cg15425194,NBEA,chr13,35470857.0,"Intron (ENST00000400445.7/26960, intron 40 of 57)",528570.0,neurobeachin,True,False,Intron
+cg15682828,ZIC2,chr13,99982907.0,"Exon (ENST00000376335.8/7546, exon 1 of 3)",1123.0,Zic family member 2,True,False,Exon
+cg18894136,LINC00676,chr13,109667928.0,"Intron (ENST00000650264.1/ENST00000650264.1, intron 1 of 3)",-60354.0,long intergenic non-protein coding RNA 676,True,False,Intron
+cg19051359,MIR1297,chr13,54394457.0,Distal Intergenic,-82410.0,microRNA 1297,False,False,Intergenic_upstream
+cg21030623,ZIC5,chr13,99970165.0,"Exon (ENST00000267294.4/85416, exon 1 of 2)",1743.0,Zic family member 5,True,False,Exon
+cg21513836,FGF14,chr13,102402510.0,Promoter (<=1kb),-54.0,fibroblast growth factor 14,False,True,Promoter
+cg21815434,KCTD12,chr13,76885221.0,"Exon (ENST00000377474.4/115207, exon 1 of 1)",1183.0,potassium channel tetramerization domain containing 12,True,False,Exon
+cg22069272,PCDH9,chr13,66631276.0,3' UTR,599059.0,protocadherin 9,True,False,threeUTR
+cg22338839,FAM155A,chr13,107866521.0,Promoter (<=1kb),974.0,family with sequence similarity 155 member A,True,True,Exon
+cg22844979,SLITRK1,chr13,83878293.0,3' UTR,4099.0,SLIT and NTRK like family member 1,True,False,threeUTR
+cg23415880,GSX1,chr13,27792287.0,Promoter (<=1kb),-195.0,GS homeobox 1,False,True,Promoter
+cg23985931,OBI1-AS1,chr13,78594976.0,"Intron (ENST00000607205.5/100874222, intron 2 of 3)",540121.0,OBI1 antisense RNA 1,True,False,Intron
+cg24393114,FAM216B,chr13,42720528.0,Distal Intergenic,-61021.0,family with sequence similarity 216 member B,False,False,Intergenic_upstream
+cg25639084,TNFRSF19,chr13,23559374.0,Distal Intergenic,-10995.0,TNF receptor superfamily member 19,False,False,Intergenic_upstream
+cg26062663,PLUT,chr13,27823129.0,"Exon (ENST00000499662.3/100861550, exon 4 of 5)",94168.0,"PDX1 associated lncRNA, upregulator of transcription",True,False,Exon
+cg27299745,SLITRK1,chr13,83881256.0,"Exon (ENST00000377084.3/114798, exon 1 of 1)",1136.0,SLIT and NTRK like family member 1,True,False,Exon
+cg00101675,PPP2R5E,chr14,63453806.0,"Exon (ENST00000337537.8/5529, exon 3 of 14)",89570.0,protein phosphatase 2 regulatory subunit B'epsilon,True,False,Exon
+cg00114412,RGS6,chr14,72553316.0,3' UTR,620887.0,regulator of G protein signaling 6,True,False,threeUTR
+cg00650422,SIX4,chr14,60723254.0,"Exon (ENST00000216513.5/51804, exon 1 of 3)",1096.0,SIX homeobox 4,True,False,Exon
+cg00975350,NFKBIA,chr14,35403912.0,Promoter (<=1kb),833.0,NFKB inhibitor alpha,True,True,fiveUTR
+cg01566077,METTL3,chr14,21500663.0,3' UTR,3165.0,methyltransferase like 3,True,False,threeUTR
+cg01782227,NKX2-1-AS1,chr14,36519573.0,Promoter (<=1kb),295.0,NKX2-1 antisense RNA 1,True,True,fiveUTR
+cg01794235,PRKD1,chr14,29219197.0,"Intron (ENST00000652140.1/ENST00000652140.1, intron 1 of 4)",378471.0,protein kinase D1,True,False,Intron
+cg02864622,TRIP11,chr14,91983784.0,"Intron (ENST00000267622.8/9321, intron 16 of 20)",56274.0,thyroid hormone receptor interactor 11,True,False,Intron
+cg03098892,KCNK10,chr14,88322804.0,5' UTR,4102.0,potassium two pore domain channel subfamily K member 10,True,False,fiveUTR
+cg05136138,NRXN3,chr14,79853592.0,"Exon (ENST00000554738.5/9369, exon 19 of 20)",1683219.0,neurexin 3,True,False,Exon
+cg05332360,NPAS3,chr14,33567287.0,"Intron (ENST00000551634.5/64067, intron 4 of 10)",632354.0,neuronal PAS domain protein 3,True,False,Intron
+cg05456580,HECTD1,chr14,31135533.0,"Exon (ENST00000399332.6/25831, exon 21 of 43)",72259.0,HECT domain E3 ubiquitin protein ligase 1,True,False,Exon
+cg06787049,NPAS3,chr14,33733629.0,"Intron (ENST00000551634.5/64067, intron 5 of 10)",798696.0,neuronal PAS domain protein 3,True,False,Intron
+cg06790494,ACIN1,chr14,23068647.0,3' UTR,2917.0,apoptotic chromatin condensation inducer 1,True,False,threeUTR
+cg07299823,UNC79,chr14,93430776.0,5' UTR,97557.0,"unc-79 homolog, NALCN channel complex subunit",True,False,fiveUTR
+cg07800922,LINC02325,chr14,97311079.0,Distal Intergenic,-115991.0,long intergenic non-protein coding RNA 2325,False,False,Intergenic_upstream
+cg08092317,NPAS3,chr14,33530508.0,"Intron (ENST00000551634.5/64067, intron 3 of 10)",595575.0,neuronal PAS domain protein 3,True,False,Intron
+cg09200783,TMEM260,chr14,56590439.0,"Intron (ENST00000556422.5/54916, intron 3 of 14)",10819.0,transmembrane protein 260,True,False,Intron
+cg09363187,HSPA2,chr14,64541630.0,"Exon (ENST00000394709.2/ENST00000394709.2, exon 2 of 2)",1162.0,heat shock protein family A (Hsp70) member 2,True,False,Exon
+cg09750164,NPAS3,chr14,33800872.0,"Exon (ENST00000551634.5/64067, exon 11 of 11)",865939.0,neuronal PAS domain protein 3,True,False,Exon
+cg10211907,UNC79,chr14,93430756.0,5' UTR,97537.0,"unc-79 homolog, NALCN channel complex subunit",True,False,fiveUTR
+cg10707234,ARID4A,chr14,58298515.0,Promoter (<=1kb),11.0,AT-rich interaction domain 4A,True,True,fiveUTR
+cg11275232,GPHN,chr14,66985695.0,"Exon (ENST00000543237.5/10243, exon 10 of 25)",478288.0,gephyrin,True,False,Exon
+cg11690941,UNC79,chr14,93474290.0,5' UTR,141071.0,"unc-79 homolog, NALCN channel complex subunit",True,False,fiveUTR
+cg12449245,DPF3,chr14,72619953.0,"Exon (ENST00000556509.5/8110, exon 10 of 11)",274134.0,double PHD fingers 3,True,False,Exon
+cg12879445,UNC79,chr14,93431016.0,Promoter (<=1kb),0.0,"unc-79 homolog, NALCN channel complex subunit",True,True,fiveUTR
+cg12967137,LINC01551,chr14,28778399.0,"Exon (ENST00000552957.5/387978, exon 4 of 4)",6723.0,long intergenic non-protein coding RNA 1551,True,False,Exon
+cg13313332,HNRNPC,chr14,21263267.0,5' UTR,6226.0,heterogeneous nuclear ribonucleoprotein C,True,False,fiveUTR
+cg13609316,AP4S1,chr14,31129356.0,3' UTR,103718.0,adaptor related protein complex 4 subunit sigma 1,True,False,threeUTR
+cg14006844,TMEM229B,chr14,67473650.0,"Exon (ENST00000555638.5/161145, exon 3 of 9)",41834.0,transmembrane protein 229B,True,False,Exon
+cg14472711,ACIN1,chr14,23068659.0,3' UTR,2905.0,apoptotic chromatin condensation inducer 1,True,False,threeUTR
+cg15089111,NPAS3,chr14,33800907.0,"Exon (ENST00000551634.5/64067, exon 11 of 11)",865974.0,neuronal PAS domain protein 3,True,False,Exon
+cg15408728,DICER1,chr14,95008596.0,Distal Intergenic,82725.0,"dicer 1, ribonuclease III",False,False,Intergenic_downstream
+cg15511156,NPAS3,chr14,33566321.0,"Intron (ENST00000551634.5/64067, intron 4 of 10)",631388.0,neuronal PAS domain protein 3,True,False,Intron
+cg16550733,NOVA1,chr14,26444770.0,3' UTR,153262.0,NOVA alternative splicing regulator 1,True,False,threeUTR
+cg16671155,ACTN1,chr14,68879077.0,"Intron (ENST00000193403.10/87, intron 18 of 20)",100362.0,actinin alpha 1,True,False,Intron
+cg17458251,ACIN1,chr14,23068651.0,3' UTR,2913.0,apoptotic chromatin condensation inducer 1,True,False,threeUTR
+cg19622303,MIR6764,chr14,100278219.0,3' UTR,2490.0,microRNA 6764,True,False,threeUTR
+cg20100200,PPP2R5E,chr14,63375966.0,3' UTR,167410.0,protein phosphatase 2 regulatory subunit B'epsilon,True,False,threeUTR
+cg20422755,RGS6,chr14,72553332.0,3' UTR,620903.0,regulator of G protein signaling 6,True,False,threeUTR
+cg20896439,GALNT16,chr14,69260375.0,Promoter (<=1kb),733.0,polypeptide N-acetylgalactosaminyltransferase 16,True,True,Exon
+cg21126148,ARF6,chr14,49894096.0,"Exon (ENST00000298316.7/382, exon 2 of 2)",1014.0,ADP ribosylation factor 6,True,False,Exon
+cg21390586,FLRT2,chr14,85621699.0,"Exon (ENST00000330753.6/23768, exon 2 of 2)",91555.0,fibronectin leucine rich transmembrane protein 2,True,False,Exon
+cg22588813,PNN,chr14,39176528.0,"Exon (ENST00000553331.5/5411, exon 3 of 6)",1345.0,"pinin, desmosome associated protein",True,False,Exon
+cg24058132,GALC,chr14,87993522.0,Promoter (<=1kb),142.0,galactosylceramidase,True,True,fiveUTR
+cg24787338,FERMT2,chr14,52950527.0,Promoter (<=1kb),507.0,fermitin family member 2,True,True,Exon
+cg24805210,ACIN1,chr14,23068755.0,"Intron (ENST00000557515.5/22985, intron 2 of 11)",2809.0,apoptotic chromatin condensation inducer 1,True,False,Intron
+cg25047480,ACIN1,chr14,23095052.0,Promoter (<=1kb),100.0,apoptotic chromatin condensation inducer 1,True,True,Exon
+cg25184464,NPAS3,chr14,32941510.0,"Intron (ENST00000551634.5/64067, intron 1 of 10)",6577.0,neuronal PAS domain protein 3,True,False,Intron
+cg25430489,ESRRB,chr14,76462595.0,"Exon (ENST00000512784.6/2103, exon 3 of 7)",151883.0,estrogen related receptor beta,True,False,Exon
+cg26148010,LINC01550,chr14,97946851.0,"Intron (ENST00000499006.7/388011, intron 2 of 2)",31272.0,long intergenic non-protein coding RNA 1550,True,False,Intron
+cg26476447,IFT43,chr14,76075669.0,"Intron (ENST00000314067.10/112752, intron 5 of 8)",89916.0,intraflagellar transport 43,True,False,Intron
+cg26957053,NPAS3,chr14,33800281.0,"Exon (ENST00000551634.5/64067, exon 11 of 11)",865348.0,neuronal PAS domain protein 3,True,False,Exon
+cg27291660,PRMT5,chr14,22928580.0,Promoter (<=1kb),820.0,protein arginine methyltransferase 5,True,True,Exon
+cg00687674,EWSAT1,chr15,69080920.0,"Exon (ENST00000558147.1/283673, exon 1 of 3)",7994.0,Ewing sarcoma associated transcript 1,True,False,Exon
+cg01153166,NR2F2,chr15,96331473.0,5' UTR,5535.0,nuclear receptor subfamily 2 group F member 2,True,False,fiveUTR
+cg01910711,DLL4,chr15,40930850.0,Promoter (<=1kb),0.0,delta like canonical Notch ligand 4,True,True,Exon
+cg03668418,C15orf41,chr15,36357037.0,Distal Intergenic,-222588.0,chromosome 15 open reading frame 41,False,False,Intergenic_upstream
+cg04211240,MIR9-3HG,chr15,89372943.0,"Intron (ENST00000536780.6/254559, intron 1 of 6)",11364.0,MIR9-3 host gene,True,False,Intron
+cg06147321,MEIS2,chr15,36889356.0,3' UTR,211192.0,Meis homeobox 2,True,False,threeUTR
+cg06997801,NR2F2,chr15,96331522.0,5' UTR,5584.0,nuclear receptor subfamily 2 group F member 2,True,False,fiveUTR
+cg07172031,ARIH1,chr15,72544887.0,"Exon (ENST00000379887.9/25820, exon 3 of 14)",70557.0,ariadne RBR E3 ubiquitin protein ligase 1,True,False,Exon
+cg07564343,RORA,chr15,61227291.0,"Intron (ENST00000335670.11/6095, intron 1 of 10)",2010.0,RAR related orphan receptor A,True,False,Intron
+cg07932605,MEIS2,chr15,37102437.0,Promoter (1-2kb),-1139.0,Meis homeobox 2,False,True,Promoter
+cg08180952,SIN3A,chr15,75451661.0,Promoter (<=1kb),28.0,SIN3 transcription regulator family member A,True,True,fiveUTR
+cg08651129,TJP1,chr15,29720658.0,"Exon (ENST00000346128.10/7082, exon 19 of 28)",101796.0,tight junction protein 1,True,False,Exon
+cg08676748,DLL4,chr15,40925729.0,Promoter (3-4kb),-3610.0,delta like canonical Notch ligand 4,False,True,Promoter
+cg09973880,RORA,chr15,61226775.0,"Intron (ENST00000335670.11/6095, intron 1 of 10)",2526.0,RAR related orphan receptor A,True,False,Intron
+cg09989727,TCF12,chr15,57252447.0,"Exon (ENST00000438423.6/6938, exon 15 of 21)",333824.0,transcription factor 12,True,False,Exon
+cg10040836,NR2F2,chr15,96332460.0,"Exon (ENST00000394166.8/7026, exon 1 of 3)",6522.0,nuclear receptor subfamily 2 group F member 2,True,False,Exon
+cg11677981,MIR9-3HG,chr15,89360535.0,Promoter (1-2kb),-1043.0,MIR9-3 host gene,False,True,Promoter
+cg11686722,MEIS2,chr15,37099520.0,5' UTR,1028.0,Meis homeobox 2,True,False,fiveUTR
+cg11978813,TUBGCP4,chr15,43409690.0,3' UTR,38575.0,tubulin gamma complex associated protein 4,True,False,threeUTR
+cg12156848,RORA,chr15,60677183.0,"Exon (ENST00000551975.5/6095, exon 3 of 6)",552118.0,RAR related orphan receptor A,True,False,Exon
+cg12896068,MAP2K5,chr15,67748056.0,"Intron (ENST00000178640.10/5607, intron 17 of 21)",205353.0,mitogen-activated protein kinase kinase 5,True,False,Intron
+cg13301933,RORA,chr15,61229240.0,Promoter (<=1kb),61.0,RAR related orphan receptor A,True,True,fiveUTR
+cg13761591,TLN2,chr15,62838857.0,"Exon (ENST00000561311.5/83660, exon 57 of 58)",277492.0,talin 2,True,False,Exon
+cg13953571,TLE3,chr15,70099807.0,Promoter (1-2kb),-1632.0,"TLE family member 3, transcriptional corepressor",False,True,Promoter
+cg14056866,POLG,chr15,89335140.0,Promoter (<=1kb),-279.0,"DNA polymerase gamma, catalytic subunit",True,True,Exon
+cg15296094,NPTN,chr15,73597169.0,"Exon (ENST00000345330.9/27020, exon 2 of 9)",36219.0,neuroplastin,True,False,Exon
+cg15804249,MAP2K5,chr15,67595330.0,"Intron (ENST00000178640.10/5607, intron 7 of 21)",52627.0,mitogen-activated protein kinase kinase 5,True,False,Intron
+cg16154416,RASGRF1,chr15,79090425.0,Promoter (<=1kb),338.0,Ras protein specific guanine nucleotide releasing factor 1,True,True,Exon
+cg16554811,TLE3,chr15,70097877.0,Promoter (<=1kb),298.0,"TLE family member 3, transcriptional corepressor",True,True,fiveUTR
+cg16697952,FOXB1,chr15,60004267.0,Promoter (<=1kb),33.0,forkhead box B1,True,True,Exon
+cg18821963,CELF6,chr15,72319683.0,Promoter (<=1kb),262.0,CUGBP Elav-like family member 6,True,True,threeUTR
+cg19134574,CTDSPL2,chr15,44427655.0,Promoter (<=1kb),33.0,CTD small phosphatase like 2,True,True,fiveUTR
+cg19296119,INSYN1-AS1,chr15,73774908.0,Distal Intergenic,6694.0,INSYN1 antisense RNA 1,False,False,Intergenic_downstream
+cg19635507,TP53BP1,chr15,43421061.0,3' UTR,72109.0,tumor protein p53 binding protein 1,True,False,threeUTR
+cg19821183,MIR1469,chr15,96416128.0,Distal Intergenic,82867.0,microRNA 1469,False,False,Intergenic_downstream
+cg20083419,FOXB1,chr15,59994745.0,Promoter (9-10kb),-9488.0,forkhead box B1,False,True,Promoter
+cg21883915,RNF111,chr15,58890390.0,3' UTR,25215.0,ring finger protein 111,True,False,threeUTR
+cg22122198,C15orf41,chr15,36756841.0,"Intron (ENST00000566621.6/84529, intron 10 of 10)",177215.0,chromosome 15 open reading frame 41,True,False,Intron
+cg23087015,CELF6,chr15,72319625.0,Promoter (<=1kb),320.0,CUGBP Elav-like family member 6,True,True,threeUTR
+cg24504442,MEIS2,chr15,37099474.0,5' UTR,1074.0,Meis homeobox 2,True,False,fiveUTR
+cg24866378,TRIP4,chr15,64462037.0,"Intron (ENST00000416172.1/ENST00000416172.1, intron 1 of 1)",17378.0,thyroid hormone receptor interactor 4,True,False,Intron
+cg24888049,FURIN,chr15,90883437.0,3' UTR,14849.0,"furin, paired basic amino acid cleaving enzyme",True,False,threeUTR
+cg25381383,MEIS2,chr15,37102429.0,Promoter (1-2kb),-1131.0,Meis homeobox 2,False,True,Promoter
+cg25771548,OAZ2,chr15,64688789.0,3' UTR,14491.0,ornithine decarboxylase antizyme 2,True,False,threeUTR
+cg26869371,FAM227B,chr15,49424281.0,5' UTR,196536.0,family with sequence similarity 227 member B,True,False,fiveUTR
+cg00310215,SALL1,chr16,51151435.0,Promoter (<=1kb),-68.0,spalt like transcription factor 1,True,True,Promoter
+cg00454305,UNKL,chr16,1379904.0,"Intron (ENST00000389221.8/64718, intron 10 of 14)",34815.0,unk like zinc finger,True,False,Intron
+cg00954002,WWOX,chr16,78610201.0,"Intron (ENST00000569332.5/51741, intron 7 of 7)",510575.0,WW domain containing oxidoreductase,True,False,Intron
+cg01938132,LINC01572,chr16,72427771.0,"Exon (ENST00000564508.2/ENST00000564508.2, exon 1 of 1)",237175.0,long intergenic non-protein coding RNA 1572,True,False,Exon
+cg02734933,ZFHX3,chr16,73058998.0,Promoter (<=1kb),699.0,zinc finger homeobox 3,True,True,fiveUTR
+cg03247467,CASC22,chr16,52351779.0,Distal Intergenic,73495.0,cancer susceptibility 22,False,False,Intergenic_downstream
+cg03626038,C16orf72,chr16,9116780.0,"Exon (ENST00000327827.12/29035, exon 4 of 4)",25136.0,chromosome 16 open reading frame 72,True,False,Exon
+cg03898602,JPH3,chr16,87603438.0,"Exon (ENST00000284262.3/57338, exon 1 of 5)",1603.0,junctophilin 3,True,False,Exon
+cg03909491,SALL1,chr16,51245157.0,"Intron (ENST00000642450.1/ENST00000642450.1, intron 2 of 3)",-93791.0,spalt like transcription factor 1,True,False,Intron
+cg03917360,LINC02140,chr16,54543200.0,"Exon (ENST00000637822.1/ENST00000637822.1, exon 6 of 6)",-172407.0,long intergenic non-protein coding RNA 2140,True,False,Exon
+cg04025518,CORO1A,chr16,30188053.0,"Exon (ENST00000219150.9/11151, exon 8 of 11)",4631.0,coronin 1A,True,False,Exon
+cg04817453,ZFHX3,chr16,73053847.0,"Intron (ENST00000397992.5/463, intron 1 of 8)",5850.0,zinc finger homeobox 3,True,False,Intron
+cg06283779,MMP2,chr16,55489739.0,"Exon (ENST00000570308.5/4313, exon 8 of 14)",100039.0,matrix metallopeptidase 2,True,False,Exon
+cg06736685,GSE1,chr16,85555743.0,"Intron (ENST00000637419.1/23199, intron 2 of 2)",386218.0,Gse1 coiled-coil protein,True,False,Intron
+cg06779064,TNRC6A,chr16,24818649.0,3' UTR,88998.0,trinucleotide repeat containing adaptor 6A,True,False,threeUTR
+cg08378313,ZFHX3,chr16,73167435.0,"Intron (ENST00000641206.2/463, intron 5 of 17)",724435.0,zinc finger homeobox 3,True,False,Intron
+cg08747377,CDH13,chr16,82627065.0,Promoter (<=1kb),100.0,cadherin 13,True,True,fiveUTR
+cg09176584,LINC01568,chr16,73483724.0,"Intron (ENST00000641790.1/100506172, intron 2 of 3)",96900.0,long intergenic non-protein coding RNA 1568,True,False,Intron
+cg09453226,WDR59,chr16,74899729.0,"Exon (ENST00000569229.5/79726, exon 6 of 9)",85393.0,WD repeat domain 59,True,False,Exon
+cg09461098,TNRC6A,chr16,24815270.0,3' UTR,85619.0,trinucleotide repeat containing adaptor 6A,True,False,threeUTR
+cg09661817,NFATC3,chr16,68123120.0,"Exon (ENST00000553077.5/4775, exon 2 of 9)",38369.0,nuclear factor of activated T cells 3,True,False,Exon
+cg11215098,CASC16,chr16,52629817.0,"Intron (ENST00000659170.1/ENST00000659170.1, intron 1 of 3)",22314.0,cancer susceptibility 16,True,False,Intron
+cg11610869,CRNDE,chr16,54890798.0,"Intron (ENST00000613942.2/643911, intron 4 of 5)",34345.0,colorectal neoplasia differentially expressed,True,False,Intron
+cg11948733,YPEL3,chr16,30095371.0,Promoter (<=1kb),833.0,yippee like 3,True,True,fiveUTR
+cg13084522,AP1G1,chr16,71808851.0,Promoter (<=1kb),349.0,adaptor related protein complex 1 subunit gamma 1,True,True,fiveUTR
+cg13379618,PRKCB,chr16,24123922.0,"Exon (ENST00000321728.12/5579, exon 9 of 17)",287939.0,protein kinase C beta,True,False,Exon
+cg13802785,FUS,chr16,31186802.0,"Exon (ENST00000254108.11/2521, exon 7 of 15)",6692.0,FUS RNA binding protein,True,False,Exon
+cg13909487,SALL1,chr16,51151546.0,Promoter (<=1kb),-179.0,spalt like transcription factor 1,True,True,Promoter
+cg14023941,ZFHX3,chr16,73505145.0,"Intron (ENST00000641206.2/463, intron 2 of 17)",386725.0,zinc finger homeobox 3,True,False,Intron
+cg15340018,AP1G1,chr16,71756157.0,3' UTR,53043.0,adaptor related protein complex 1 subunit gamma 1,True,False,threeUTR
+cg16118197,MRPL28,chr16,361668.0,Distal Intergenic,8557.0,mitochondrial ribosomal protein L28,False,False,Intergenic_downstream
+cg16475558,GNAO1,chr16,56355033.0,3' UTR,163544.0,G protein subunit alpha o1,True,False,threeUTR
+cg16582309,PRKCB,chr16,24214762.0,"Exon (ENST00000643927.1/5579, exon 17 of 17)",378779.0,protein kinase C beta,True,False,Exon
+cg17776554,ZFHX3,chr16,73048252.0,"Intron (ENST00000397992.5/463, intron 1 of 8)",11445.0,zinc finger homeobox 3,True,False,Intron
+cg19591642,TNRC6A,chr16,24815260.0,3' UTR,85609.0,trinucleotide repeat containing adaptor 6A,True,False,threeUTR
+cg19812206,ZFHX3,chr16,72902223.0,"Intron (ENST00000268489.10/463, intron 3 of 9)",145904.0,zinc finger homeobox 3,True,False,Intron
+cg20424997,CNOT1,chr16,58588863.0,"Exon (ENST00000317147.10/23019, exon 3 of 49)",40962.0,CCR4-NOT transcription complex subunit 1,True,False,Exon
+cg22914193,ZFHX3,chr16,72978361.0,"Intron (ENST00000268489.10/463, intron 1 of 9)",69766.0,zinc finger homeobox 3,True,False,Intron
+cg23869573,RBFOX1,chr16,7710713.0,3' UTR,2470911.0,RNA binding fox-1 homolog 1,True,False,threeUTR
+cg26709300,YPEL3,chr16,30095361.0,Promoter (<=1kb),843.0,yippee like 3,True,True,Exon
+cg26922708,C16orf78,chr16,49416200.0,Distal Intergenic,42396.0,chromosome 16 open reading frame 78,False,False,Intergenic_downstream
+cg00362836,LINC00670,chr17,12473058.0,Distal Intergenic,-76705.0,long intergenic non-protein coding RNA 670,False,False,Intergenic_upstream
+cg00411555,UBTF,chr17,44206588.0,3' UTR,14374.0,upstream binding transcription factor,True,False,threeUTR
+cg00489428,FAM222B,chr17,28759267.0,3' UTR,17903.0,family with sequence similarity 222 member B,True,False,threeUTR
+cg00871371,SEPTIN9,chr17,77375394.0,"Exon (ENST00000588701.1/ENST00000588701.1, exon 1 of 1)",94825.0,septin 9,True,False,Exon
+cg01209550,HOXB7,chr17,48615964.0,"Intron (ENST00000567101.2/3217, intron 1 of 1)",17607.0,homeobox B7,True,False,Intron
+cg01293647,NEUROD2,chr17,39608011.0,Promoter (<=1kb),-92.0,neuronal differentiation 2,True,True,Exon
+cg02532525,MIR212,chr17,2050353.0,Promoter (<=1kb),26.0,microRNA 212,True,True,Exon
+cg02909927,RAI1,chr17,17784078.0,"Intron (ENST00000353383.6/10743, intron 2 of 5)",102620.0,retinoic acid induced 1,True,False,Intron
+cg03370924,DERL2,chr17,5481375.0,3' UTR,4802.0,derlin 2,True,False,threeUTR
+cg03679521,NEUROD2,chr17,39607900.0,Promoter (<=1kb),19.0,neuronal differentiation 2,True,True,fiveUTR
+cg04228573,MAP2K6,chr17,69414658.0,Promoter (<=1kb),-38.0,mitogen-activated protein kinase kinase 6,False,True,Promoter
+cg04267101,EPN3,chr17,50541676.0,3' UTR,8941.0,epsin 3,True,False,threeUTR
+cg04353319,MNT,chr17,2400859.0,Promoter (<=1kb),200.0,MAX network transcriptional repressor,True,True,fiveUTR
+cg04404159,FBXL20,chr17,39299038.0,"Exon (ENST00000264658.11/84961, exon 5 of 15)",102587.0,F-box and leucine rich repeat protein 20,True,False,Exon
+cg04414148,HOXB7,chr17,48614620.0,"Exon (ENST00000239144.5/3218, exon 1 of 2)",18951.0,homeobox B7,True,False,Exon
+cg04539386,DCAF7,chr17,63589000.0,"Exon (ENST00000614556.5/10238, exon 7 of 7)",38523.0,DDB1 and CUL4 associated factor 7,True,False,Exon
+cg05008190,MNT,chr17,2401760.0,Promoter (<=1kb),-657.0,MAX network transcriptional repressor,False,True,Promoter
+cg05506474,FAM222B,chr17,28759735.0,5' UTR,17435.0,family with sequence similarity 222 member B,True,False,fiveUTR
+cg05793328,FAM222B,chr17,28759747.0,5' UTR,17423.0,family with sequence similarity 222 member B,True,False,fiveUTR
+cg06386724,SPAG9,chr17,51120410.0,Promoter (<=1kb),454.0,sperm associated antigen 9,True,True,Exon
+cg06391468,SOX9-AS1,chr17,72121389.0,5' UTR,52193.0,SOX9 antisense RNA 1,True,False,fiveUTR
+cg06493080,HOXB7,chr17,48610948.0,Promoter (<=1kb),68.0,homeobox B7,True,True,fiveUTR
+cg07005811,PHF12,chr17,28912612.0,"Exon (ENST00000332830.9/57649, exon 9 of 15)",38905.0,PHD finger protein 12,True,False,Exon
+cg07026794,HOXB7,chr17,48615048.0,5' UTR,18523.0,homeobox B7,True,False,fiveUTR
+cg07373156,HOXB7,chr17,48615626.0,"Intron (ENST00000567101.2/3217, intron 1 of 1)",17945.0,homeobox B7,True,False,Intron
+cg07493901,MED13,chr17,62065181.0,Promoter (<=1kb),96.0,mediator complex subunit 13,True,True,Exon
+cg07600647,CRK,chr17,1436749.0,"Exon (ENST00000398970.5/1398, exon 2 of 3)",19425.0,"CRK proto-oncogene, adaptor protein",True,False,Exon
+cg08007722,NR1D1,chr17,40100677.0,Promoter (<=1kb),-89.0,nuclear receptor subfamily 1 group D member 1,False,True,Promoter
+cg08343834,PMP22,chr17,15265341.0,Promoter (<=1kb),-15.0,peripheral myelin protein 22,True,True,Promoter
+cg08446005,SOCS3,chr17,78359055.0,"Exon (ENST00000330871.3/9021, exon 2 of 2)",1021.0,suppressor of cytokine signaling 3,True,False,Exon
+cg08510667,SOCS3,chr17,78359068.0,"Exon (ENST00000330871.3/9021, exon 2 of 2)",1008.0,suppressor of cytokine signaling 3,True,False,Exon
+cg08666298,DDX5,chr17,64501369.0,"Exon (ENST00000581230.5/1655, exon 11 of 12)",4919.0,DEAD-box helicase 5,True,False,Exon
+cg08797870,TRPV1,chr17,3577641.0,3' UTR,18189.0,transient receptor potential cation channel subfamily V member 1,True,False,threeUTR
+cg09313705,HOXB-AS1,chr17,48545129.0,"Exon (ENST00000435312.5/100874362, exon 2 of 7)",1578.0,HOXB cluster antisense RNA 1,True,False,Exon
+cg09568652,DDX5,chr17,64505527.0,Promoter (<=1kb),761.0,DEAD-box helicase 5,True,True,Exon
+cg09606114,SMG6,chr17,2085784.0,"Exon (ENST00000263073.11/23293, exon 14 of 19)",218000.0,SMG6 nonsense mediated mRNA decay factor,True,False,Exon
+cg10183248,UBTF,chr17,44218223.0,"Exon (ENST00000343638.9/7343, exon 2 of 20)",2739.0,upstream binding transcription factor,True,False,Exon
+cg10381180,THRA,chr17,40092513.0,3' UTR,30320.0,thyroid hormone receptor alpha,True,False,threeUTR
+cg10810311,GGNBP2,chr17,36589265.0,"Exon (ENST00000613102.5/79893, exon 14 of 14)",44346.0,gametogenetin binding protein 2,True,False,Exon
+cg10916192,NLGN2,chr17,7406550.0,"Intron (ENST00000575301.5/57555, intron 1 of 7)",1676.0,neuroligin 2,True,False,Intron
+cg10930156,LOC101927855,chr17,61399785.0,Promoter (<=1kb),457.0,uncharacterized LOC101927855,True,True,Promoter
+cg11082761,KDM6B,chr17,7838401.0,Promoter (1-2kb),-1502.0,lysine demethylase 6B,False,True,Promoter
+cg11214667,HOXB7,chr17,48615968.0,"Intron (ENST00000567101.2/3217, intron 1 of 1)",17603.0,homeobox B7,True,False,Intron
+cg11407867,NLK,chr17,28191075.0,"Exon (ENST00000407008.8/51701, exon 9 of 11)",148398.0,nemo like kinase,True,False,Exon
+cg11498355,LINC00482,chr17,81342389.0,"Exon (ENST00000665286.1/ENST00000665286.1, exon 1 of 1)",-33142.0,long intergenic non-protein coding RNA 482,True,False,Exon
+cg11857072,THRA,chr17,40093075.0,3' UTR,30882.0,thyroid hormone receptor alpha,True,False,threeUTR
+cg12501063,TANC2,chr17,63412706.0,"Exon (ENST00000389520.8/26115, exon 22 of 26)",403150.0,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",True,False,Exon
+cg12509499,SMG6,chr17,2191885.0,"Intron (ENST00000263073.11/23293, intron 10 of 18)",111899.0,SMG6 nonsense mediated mRNA decay factor,True,False,Intron
+cg12564910,SOCS3,chr17,78358987.0,"Exon (ENST00000330871.3/9021, exon 2 of 2)",1089.0,suppressor of cytokine signaling 3,True,False,Exon
+cg12577973,CHD3,chr17,7884827.0,Promoter (<=1kb),31.0,chromodomain helicase DNA binding protein 3,True,True,Exon
+cg12642246,CDK5RAP3,chr17,47982387.0,"Intron (ENST00000578239.1/ENST00000578239.1, intron 1 of 1)",1281.0,CDK5 regulatory subunit associated protein 3,True,False,Intron
+cg12933950,RTN4RL1,chr17,1996667.0,"Intron (ENST00000574520.3/ENST00000574520.3, intron 1 of 2)",28666.0,reticulon 4 receptor like 1,True,False,Intron
+cg13830021,CACNA1G,chr17,50621694.0,"Exon (ENST00000359106.10/8913, exon 35 of 38)",60979.0,calcium voltage-gated channel subunit alpha1 G,True,False,Exon
+cg13916600,BAHCC1,chr17,81395342.0,Promoter (<=1kb),-132.0,BAH domain and coiled-coil containing 1,False,True,Promoter
+cg14045036,PIP4K2B,chr17,38799302.0,Promoter (<=1kb),554.0,phosphatidylinositol-5-phosphate 4-kinase type 2 beta,True,True,Exon
+cg14880272,NEUROD2,chr17,39607875.0,Promoter (<=1kb),44.0,neuronal differentiation 2,True,True,fiveUTR
+cg15182157,MLLT6,chr17,38729727.0,3' UTR,24454.0,"MLLT6, PHD finger containing",True,False,threeUTR
+cg15701287,MYO18A,chr17,29081208.0,"Intron (ENST00000527372.6/399687, intron 41 of 41)",99203.0,myosin XVIIIA,True,False,Intron
+cg16848873,HOXB6,chr17,48604946.0,Promoter (<=1kb),39.0,homeobox B6,True,True,fiveUTR
+cg17049911,SOCS3,chr17,78359071.0,"Exon (ENST00000330871.3/9021, exon 2 of 2)",1005.0,suppressor of cytokine signaling 3,True,False,Exon
+cg17114460,FLOT2,chr17,28884283.0,"Exon (ENST00000394906.6/2319, exon 5 of 13)",13368.0,flotillin 2,True,False,Exon
+cg17369088,NSRP1,chr17,30117050.0,5' UTR,1529.0,nuclear speckle splicing regulatory protein 1,True,False,fiveUTR
+cg17417202,HOXB7,chr17,48626252.0,"Exon (ENST00000311177.7/3219, exon 1 of 2)",7319.0,homeobox B7,True,False,Exon
+cg17542246,DCAF7,chr17,63583649.0,"Exon (ENST00000614556.5/10238, exon 5 of 7)",33172.0,DDB1 and CUL4 associated factor 7,True,False,Exon
+cg17554167,SMG6,chr17,2063331.0,"Intron (ENST00000263073.11/23293, intron 18 of 18)",240453.0,SMG6 nonsense mediated mRNA decay factor,True,False,Intron
+cg18349747,NAA38,chr17,7884380.0,Promoter (<=1kb),828.0,"N(alpha)-acetyltransferase 38, NatC auxiliary subunit",True,True,Promoter
+cg18684142,HOXB-AS3,chr17,48605032.0,"Intron (ENST00000467155.6/404266, intron 2 of 2)",14555.0,HOXB cluster antisense RNA 3,True,False,Intron
+cg18787121,HOXB7,chr17,48625777.0,"Exon (ENST00000311177.7/3219, exon 1 of 2)",7794.0,homeobox B7,True,False,Exon
+cg18955753,NR1D1,chr17,40100679.0,Promoter (<=1kb),-91.0,nuclear receptor subfamily 1 group D member 1,False,True,Promoter
+cg19017031,MIR132,chr17,2049917.0,Promoter (<=1kb),90.0,microRNA 132,True,True,Exon
+cg19233240,BCAS3,chr17,61289642.0,"Intron (ENST00000589222.5/54828, intron 22 of 25)",611790.0,BCAS3 microtubule associated cell migration factor,True,False,Intron
+cg19513247,UBTF,chr17,44219685.0,5' UTR,1277.0,upstream binding transcription factor,True,False,fiveUTR
+cg20033770,CHD3,chr17,7910553.0,3' UTR,25757.0,chromodomain helicase DNA binding protein 3,True,False,threeUTR
+cg20265593,NOG,chr17,56594853.0,"Exon (ENST00000332822.5/9241, exon 1 of 1)",1154.0,noggin,True,False,Exon
+cg20738648,DERL2,chr17,5481351.0,3' UTR,4826.0,derlin 2,True,False,threeUTR
+cg20865948,AKAP10,chr17,19940990.0,3' UTR,36837.0,A-kinase anchoring protein 10,True,False,threeUTR
+cg20867091,MRM1,chr17,36721897.0,Distal Intergenic,119935.0,mitochondrial rRNA methyltransferase 1,False,False,Intergenic_downstream
+cg21086539,SMG6,chr17,2179694.0,"Intron (ENST00000263073.11/23293, intron 12 of 18)",124090.0,SMG6 nonsense mediated mRNA decay factor,True,False,Intron
+cg21590845,SOCS7,chr17,38365302.0,"Exon (ENST00000612932.6/30837, exon 4 of 10)",13458.0,suppressor of cytokine signaling 7,True,False,Exon
+cg22031066,RAI1,chr17,17758108.0,"Intron (ENST00000353383.6/10743, intron 2 of 5)",76650.0,retinoic acid induced 1,True,False,Intron
+cg22144210,MSI2,chr17,57679579.0,3' UTR,423728.0,musashi RNA binding protein 2,True,False,threeUTR
+cg22825729,MIR4738,chr17,75784934.0,Promoter (<=1kb),958.0,microRNA 4738,True,True,Exon
+cg23320654,AXIN2,chr17,65558878.0,"Intron (ENST00000307078.10/8313, intron 1 of 10)",2769.0,axin 2,True,False,Intron
+cg24357465,SGSM2,chr17,2367303.0,"Exon (ENST00000268989.8/9905, exon 12 of 24)",29802.0,small G protein signaling modulator 2,True,False,Exon
+cg24924928,NUFIP2,chr17,29286101.0,"Exon (ENST00000225388.9/57532, exon 2 of 4)",8046.0,nuclear FMR1 interacting protein 2,True,False,Exon
+cg24975211,THRA,chr17,40093013.0,3' UTR,30820.0,thyroid hormone receptor alpha,True,False,threeUTR
+cg25055739,CA10,chr17,52157819.0,5' UTR,2182.0,carbonic anhydrase 10,True,False,fiveUTR
+cg25140691,RARA,chr17,40351071.0,"Intron (ENST00000254066.10/5914, intron 4 of 8)",41891.0,retinoic acid receptor alpha,True,False,Intron
+cg25622623,LOC101927855,chr17,61399779.0,Promoter (<=1kb),463.0,uncharacterized LOC101927855,True,True,Promoter
+cg26032884,HIC1,chr17,2058657.0,"Exon (ENST00000399849.4/3090, exon 2 of 2)",3558.0,HIC ZBTB transcriptional repressor 1,True,False,Exon
+cg26072749,HOXB3,chr17,48579912.0,"Exon (ENST00000548801.1/406902, exon 1 of 1)",10328.0,homeobox B3,True,False,Exon
+cg26598122,MSL1,chr17,40129591.0,"Exon (ENST00000398532.9/339287, exon 3 of 9)",7620.0,MSL complex subunit 1,True,False,Exon
+cg27294582,HOXB7,chr17,48615092.0,5' UTR,18479.0,homeobox B7,True,False,fiveUTR
+cg27430422,TAF15,chr17,35824152.0,"Exon (ENST00000604879.5/8148, exon 7 of 10)",110361.0,TATA-box binding protein associated factor 15,True,False,Exon
+cg27492942,MLLT6,chr17,38729712.0,3' UTR,24439.0,"MLLT6, PHD finger containing",True,False,threeUTR
+cg27495736,MIR132,chr17,2050006.0,Promoter (<=1kb),1.0,microRNA 132,True,True,Exon
+cg27637521,SOCS3,chr17,78359121.0,Promoter (<=1kb),955.0,suppressor of cytokine signaling 3,True,True,fiveUTR
+cg01352789,NOL4,chr18,34223228.0,Promoter (<=1kb),322.0,nucleolar protein 4,True,True,Exon
+cg01450059,ZNF521,chr18,25140479.0,"Intron (ENST00000361524.8/25925, intron 5 of 7)",211686.0,zinc finger protein 521,True,False,Intron
+cg02184281,SMAD7,chr18,48921427.0,"Exon (ENST00000262158.7/4092, exon 4 of 4)",30624.0,SMAD family member 7,True,False,Exon
+cg03185524,CELF4,chr18,37351229.0,"Intron (ENST00000420428.7/56853, intron 2 of 12)",214568.0,CUGBP Elav-like family member 4,True,False,Intron
+cg03387624,SKOR2,chr18,47251694.0,Promoter (<=1kb),-92.0,SKI family transcriptional corepressor 2,False,True,Promoter
+cg03663497,CCDC178,chr18,32975004.0,"Intron (ENST00000581852.5/374864, intron 1 of 2)",161072.0,coiled-coil domain containing 178,True,False,Intron
+cg05562063,WDR7,chr18,56873931.0,"Exon (ENST00000586391.1/ENST00000586391.1, exon 1 of 2)",222588.0,WD repeat domain 7,True,False,Exon
+cg07499079,ONECUT2,chr18,57486199.0,3' UTR,50825.0,one cut homeobox 2,True,False,threeUTR
+cg07776022,ZNF521,chr18,25287482.0,"Intron (ENST00000361524.8/25925, intron 3 of 7)",64683.0,zinc finger protein 521,True,False,Intron
+cg07843244,SALL3,chr18,78722543.0,Distal Intergenic,-257732.0,spalt like transcription factor 3,False,False,Intergenic_upstream
+cg07903650,ONECUT2,chr18,57435872.0,Promoter (<=1kb),498.0,one cut homeobox 2,True,True,Exon
+cg08849105,KLHL14,chr18,32770558.0,"Exon (ENST00000359358.9/57565, exon 2 of 9)",2464.0,kelch like family member 14,True,False,Exon
+cg09364634,ZNF521,chr18,25176130.0,"Intron (ENST00000361524.8/25925, intron 5 of 7)",176035.0,zinc finger protein 521,True,False,Intron
+cg09482204,ZNF407,chr18,74651247.0,"Intron (ENST00000582337.5/55628, intron 3 of 4)",53377.0,zinc finger protein 407,True,False,Intron
+cg10324939,CTAGE1,chr18,22559629.0,Distal Intergenic,-141714.0,cutaneous T cell lymphoma-associated antigen 1,False,False,Intergenic_upstream
+cg10402101,TCF4,chr18,55587100.0,5' UTR,1091.0,transcription factor 4,True,False,fiveUTR
+cg11803466,SMAD7,chr18,48948569.0,"Intron (ENST00000262158.7/4092, intron 1 of 3)",3482.0,SMAD family member 7,True,False,Intron
+cg12053353,MIR924HG,chr18,39059095.0,Distal Intergenic,281542.0,MIR924 host gene,False,False,Intergenic_downstream
+cg13608832,ZNF521,chr18,25231172.0,"Intron (ENST00000361524.8/25925, intron 3 of 7)",120993.0,zinc finger protein 521,True,False,Intron
+cg14241460,NOL4,chr18,34225049.0,Promoter (1-2kb),-1499.0,nucleolar protein 4,False,True,Promoter
+cg14701342,LINC01029,chr18,77833139.0,Distal Intergenic,149576.0,long intergenic non-protein coding RNA 1029,False,False,Intergenic_downstream
+cg15580396,ZNF521,chr18,25231018.0,"Intron (ENST00000361524.8/25925, intron 3 of 7)",121147.0,zinc finger protein 521,True,False,Intron
+cg16570119,TSHZ1,chr18,75288831.0,3' UTR,78076.0,teashirt zinc finger homeobox 1,True,False,threeUTR
+cg17769560,NOL4,chr18,34223154.0,Promoter (<=1kb),396.0,nucleolar protein 4,True,True,Exon
+cg18221275,RNF165,chr18,46460595.0,3' UTR,126577.0,ring finger protein 165,True,False,threeUTR
+cg18961151,SKOR2,chr18,47251684.0,Promoter (<=1kb),-82.0,SKI family transcriptional corepressor 2,False,True,Promoter
+cg18963985,TSHZ1,chr18,75210780.0,Promoter (<=1kb),25.0,teashirt zinc finger homeobox 1,True,True,fiveUTR
+cg20025209,RELCH,chr18,62264820.0,"Exon (ENST00000644646.1/57614, exon 18 of 29)",77565.0,"RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing",True,False,Exon
+cg20345626,ZNF521,chr18,25176283.0,"Intron (ENST00000361524.8/25925, intron 5 of 7)",175882.0,zinc finger protein 521,True,False,Intron
+cg21602520,BCL2,chr18,63318147.0,"Exon (ENST00000333681.5/596, exon 2 of 3)",1621.0,BCL2 apoptosis regulator,True,False,Exon
+cg25410683,SMAD7,chr18,48921744.0,"Exon (ENST00000262158.7/4092, exon 4 of 4)",30307.0,SMAD family member 7,True,False,Exon
+cg26418994,CELF4,chr18,37351224.0,"Intron (ENST00000420428.7/56853, intron 2 of 12)",214573.0,CUGBP Elav-like family member 4,True,False,Intron
+cg27593991,TCF4,chr18,55587081.0,5' UTR,1110.0,transcription factor 4,True,False,fiveUTR
+cg00314427,ERCC1,chr19,45472862.0,3' UTR,5965.0,"ERCC excision repair 1, endonuclease non-catalytic subunit",True,False,threeUTR
+cg01631669,TSHZ3,chr19,31346540.0,"Intron (ENST00000651361.1/57616, intron 1 of 6)",2701.0,teashirt zinc finger homeobox 3,True,False,Intron
+cg02376954,DAZAP1,chr19,1425897.0,"Exon (ENST00000336761.10/26528, exon 7 of 13)",18328.0,DAZ associated protein 1,True,False,Exon
+cg02753151,SLC44A2,chr19,10642919.0,"Exon (ENST00000586078.5/57153, exon 22 of 22)",40409.0,solute carrier family 44 member 2,True,False,Exon
+cg03708116,SPRED3,chr19,38390357.0,"Exon (ENST00000586301.5/399473, exon 2 of 6)",1936.0,sprouty related EVH1 domain containing 3,True,False,Exon
+cg05191959,POU2F2,chr19,42177335.0,"Intron (ENST00000532176.2/5452, intron 1 of 5)",19249.0,POU class 2 homeobox 2,True,False,Intron
+cg05196683,KMT2B,chr19,35719524.0,"Exon (ENST00000420124.2/9757, exon 2 of 37)",1505.0,lysine methyltransferase 2B,True,False,Exon
+cg05524242,ATP13A1,chr19,19654063.0,"Exon (ENST00000357324.11/57130, exon 14 of 26)",9612.0,ATPase 13A1,True,False,Exon
+cg05750171,ZNF574,chr19,42080086.0,"Exon (ENST00000222339.7/64763, exon 2 of 2)",11609.0,zinc finger protein 574,True,False,Exon
+cg06197482,NFIX,chr19,12996438.0,Promoter (<=1kb),830.0,nuclear factor I X,True,True,Promoter
+cg06459870,DAZAP1,chr19,1425865.0,"Intron (ENST00000336761.10/26528, intron 6 of 12)",18296.0,DAZ associated protein 1,True,False,Intron
+cg06461219,NFIX,chr19,13022927.0,"Intron (ENST00000397661.6/4784, intron 1 of 9)",27319.0,nuclear factor I X,True,False,Intron
+cg11642756,NFIX,chr19,13022960.0,"Intron (ENST00000397661.6/4784, intron 1 of 9)",27352.0,nuclear factor I X,True,False,Intron
+cg11666770,LOC100505585,chr19,41926758.0,"Intron (ENST00000599589.5/9138, intron 19 of 20)",3664.0,uncharacterized LOC100505585,True,False,Intron
+cg12289045,SYT3,chr19,50638104.0,"Intron (ENST00000593901.5/84258, intron 2 of 10)",1722.0,synaptotagmin 3,True,False,Intron
+cg13496662,APOC1,chr19,44913112.0,Promoter (1-2kb),-1134.0,apolipoprotein C1,True,True,Exon
+cg14443903,ZNF536,chr19,30718448.0,Distal Intergenic,169102.0,zinc finger protein 536,False,False,Intergenic_downstream
+cg14458704,LOC100505585,chr19,41937216.0,Distal Intergenic,8396.0,uncharacterized LOC100505585,False,False,Intergenic_downstream
+cg14919591,KCTD15,chr19,33796112.0,Promoter (<=1kb),179.0,potassium channel tetramerization domain containing 15,True,True,Promoter
+cg15547854,TNPO2,chr19,12702167.0,"Exon (ENST00000425528.5/30000, exon 22 of 26)",21828.0,transportin 2,True,False,Exon
+cg18024395,SNRNP70,chr19,49102146.0,3' UTR,16727.0,small nuclear ribonucleoprotein U1 subunit 70,True,False,threeUTR
+cg18577444,ZNF536,chr19,30360436.0,"Intron (ENST00000585628.5/9745, intron 3 of 5)",131922.0,zinc finger protein 536,True,False,Intron
+cg20236179,ERCC1,chr19,45470664.0,"Exon (ENST00000615753.4/2354, exon 2 of 5)",8163.0,"ERCC excision repair 1, endonuclease non-catalytic subunit",True,False,Exon
+cg20565386,CLASRP,chr19,45068090.0,"Exon (ENST00000585432.1/11129, exon 2 of 2)",29045.0,CLK4 associating serine/arginine rich protein,True,False,Exon
+cg21089733,ZNF536,chr19,30686844.0,"Intron (ENST00000592773.2/9745, intron 1 of 1)",137498.0,zinc finger protein 536,True,False,Intron
+cg21246299,NFIX,chr19,13091530.0,"Intron (ENST00000397661.6/4784, intron 9 of 9)",95922.0,nuclear factor I X,True,False,Intron
+cg21839725,KMT2B,chr19,35723809.0,"Exon (ENST00000420124.2/9757, exon 8 of 37)",5790.0,lysine methyltransferase 2B,True,False,Exon
+cg23314464,KMT2B,chr19,35723890.0,"Exon (ENST00000420124.2/9757, exon 8 of 37)",5871.0,lysine methyltransferase 2B,True,False,Exon
+cg23344477,LOC100505585,chr19,41928629.0,"Exon (ENST00000594513.1/100505585, exon 1 of 2)",5535.0,uncharacterized LOC100505585,True,False,Exon
+cg23567910,ZNF536,chr19,30224550.0,Promoter (3-4kb),-3964.0,zinc finger protein 536,True,True,Promoter
+cg24080303,DAZAP1,chr19,1425903.0,"Exon (ENST00000336761.10/26528, exon 7 of 13)",18334.0,DAZ associated protein 1,True,False,Exon
+cg24707133,RAB4B-EGLN2,chr19,40807237.0,3' UTR,28966.0,RAB4B-EGLN2 readthrough (NMD candidate),True,False,threeUTR
+cg25383995,MIDN,chr19,1253999.0,"Exon (ENST00000586843.2/90007, exon 3 of 4)",5446.0,midnolin,True,False,Exon
+cg00535482,TBR1,chr2,161415802.0,Promoter (<=1kb),-494.0,T-box brain transcription factor 1,False,True,Promoter
+cg00587168,DLX1,chr2,172093840.0,Distal Intergenic,6473.0,distal-less homeobox 1,False,False,Intergenic_downstream
+cg00643485,CCDC88A,chr2,55303112.0,3' UTR,116500.0,coiled-coil domain containing 88A,True,False,threeUTR
+cg01059743,EGR4,chr2,73293656.0,Promoter (<=1kb),44.0,early growth response 4,True,True,fiveUTR
+cg01571965,BCL11A,chr2,60460693.0,3' UTR,93773.0,BAF chromatin remodeling complex subunit BCL11A,True,False,threeUTR
+cg01585174,TEX41,chr2,144774661.0,"Intron (ENST00000654442.1/401014, intron 4 of 8)",108349.0,testis expressed 41,True,False,Intron
+cg01698540,MIR4432HG,chr2,60110580.0,Distal Intergenic,272456.0,MIR4432 host gene,False,False,Intergenic_downstream
+cg01846532,ARHGAP15,chr2,143390235.0,"Intron (ENST00000552641.5/55843, intron 6 of 7)",260822.0,Rho GTPase activating protein 15,True,False,Intron
+cg01998606,ZEB2,chr2,144403976.0,5' UTR,26957.0,zinc finger E-box binding homeobox 2,True,False,fiveUTR
+cg02007453,DLX1,chr2,172085716.0,Promoter (<=1kb),976.0,distal-less homeobox 1,True,True,Exon
+cg02177464,BAZ2B,chr2,159453749.0,"Exon (ENST00000392783.7/29994, exon 4 of 37)",162798.0,bromodomain adjacent to zinc finger domain 2B,True,False,Exon
+cg02471195,ARHGAP15,chr2,143594437.0,"Intron (ENST00000295095.11/55843, intron 11 of 13)",465018.0,Rho GTPase activating protein 15,True,False,Intron
+cg02629039,PAX8-AS1,chr2,113244617.0,"Exon (ENST00000263335.11/7849, exon 4 of 10)",9413.0,PAX8 antisense RNA 1,True,False,Exon
+cg02766818,BCL11A,chr2,60555120.0,Promoter (<=1kb),-654.0,BAF chromatin remodeling complex subunit BCL11A,False,True,Promoter
+cg02828846,KCNH7,chr2,162421588.0,"Intron (ENST00000618399.4/90134, intron 8 of 14)",116487.0,potassium voltage-gated channel subfamily H member 7,True,False,Intron
+cg03588035,RAB11FIP5,chr2,73081656.0,"Exon (ENST00000486777.6/26056, exon 4 of 6)",31126.0,RAB11 family interacting protein 5,True,False,Exon
+cg03957108,OTX1,chr2,63049410.0,Promoter (<=1kb),-646.0,orthodenticle homeobox 1,False,True,Promoter
+cg04291050,SP9,chr2,174339424.0,Distal Intergenic,4470.0,Sp9 transcription factor,False,False,Intergenic_downstream
+cg04318752,EVX2,chr2,176078557.0,3' UTR,5355.0,even-skipped homeobox 2,True,False,threeUTR
+cg04707251,HNRNPLL,chr2,38581978.0,"Exon (ENST00000449105.8/92906, exon 6 of 13)",20949.0,heterogeneous nuclear ribonucleoprotein L like,True,False,Exon
+cg05243338,SATB2,chr2,199380434.0,"Exon (ENST00000417098.6/23314, exon 5 of 11)",84673.0,SATB homeobox 2,True,False,Exon
+cg05322294,ZEB2-AS1,chr2,144520585.0,5' UTR,2607.0,ZEB2 antisense RNA 1,True,False,fiveUTR
+cg05359706,OSBPL6,chr2,178331552.0,"Exon (ENST00000392505.6/114880, exon 6 of 26)",137071.0,oxysterol binding protein like 6,True,False,Exon
+cg05535461,METAP1D,chr2,172072476.0,"Intron (ENST00000315796.5/254042, intron 6 of 9)",72523.0,"methionyl aminopeptidase type 1D, mitochondrial",True,False,Intron
+cg05690769,EVX2,chr2,176075868.0,Distal Intergenic,8045.0,even-skipped homeobox 2,False,False,Intergenic_downstream
+cg05801832,ZEB2-AS1,chr2,144520304.0,5' UTR,2326.0,ZEB2 antisense RNA 1,True,False,fiveUTR
+cg05967003,EVX2,chr2,176073495.0,Distal Intergenic,10418.0,even-skipped homeobox 2,False,False,Intergenic_downstream
+cg06158983,NRXN1,chr2,50054993.0,"Exon (ENST00000401669.7/9378, exon 20 of 23)",977138.0,neurexin 1,True,False,Exon
+cg06639082,BCL11A,chr2,60557356.0,Promoter (2-3kb),-2890.0,BAF chromatin remodeling complex subunit BCL11A,False,True,Promoter
+cg06807725,MYO3B,chr2,170214765.0,"Exon (ENST00000409940.6/140469, exon 5 of 30)",36620.0,myosin IIIB,True,False,Exon
+cg07071132,HOXD-AS2,chr2,176136390.0,Promoter (<=1kb),622.0,HOXD cluster antisense RNA 2,True,True,Promoter
+cg07279255,EN1,chr2,118847861.0,Promoter (<=1kb),-184.0,engrailed homeobox 1,False,True,Promoter
+cg07900685,IKZF2,chr2,213056893.0,3' UTR,94715.0,IKAROS family zinc finger 2,True,False,threeUTR
+cg08396875,DOCK10,chr2,224982328.0,"Exon (ENST00000644695.1/55619, exon 1 of 57)",60113.0,dedicator of cytokinesis 10,True,False,Exon
+cg08454381,PAX8-AS1,chr2,113244601.0,"Exon (ENST00000263335.11/7849, exon 4 of 10)",9397.0,PAX8 antisense RNA 1,True,False,Exon
+cg08627730,GTDC1,chr2,144096641.0,"Intron (ENST00000392869.6/79712, intron 5 of 10)",139098.0,glycosyltransferase like domain containing 1,True,False,Intron
+cg09227056,EVX2,chr2,176075721.0,Distal Intergenic,8192.0,even-skipped homeobox 2,False,False,Intergenic_downstream
+cg09557545,MEIS1-AS3,chr2,66433445.0,Promoter (<=1kb),24.0,MEIS1 antisense RNA 3,True,True,Exon
+cg09670972,YPEL5,chr2,30158652.0,"Exon (ENST00000379519.7/51646, exon 4 of 4)",11711.0,yippee like 5,True,False,Exon
+cg10233638,FIGN,chr2,163733520.0,"Intron (ENST00000409634.5/55137, intron 2 of 2)",2491.0,"fidgetin, microtubule severing factor",True,False,Intron
+cg10480998,HOXD3,chr2,176146250.0,"Intron (ENST00000432796.2/3232, intron 1 of 1)",9293.0,homeobox D3,True,False,Intron
+cg10801485,ZEB2,chr2,144465934.0,"Intron (ENST00000636820.1/9839, intron 1 of 8)",16406.0,zinc finger E-box binding homeobox 2,True,False,Intron
+cg11156581,SIX3,chr2,44942823.0,"Exon (ENST00000260653.5/6496, exon 1 of 2)",1121.0,SIX homeobox 3,True,False,Exon
+cg11235379,TBR1,chr2,161417813.0,"Exon (ENST00000389554.8/10716, exon 2 of 6)",1516.0,T-box brain transcription factor 1,True,False,Exon
+cg11355954,OLA1,chr2,174081855.0,"Intron (ENST00000284719.8/29789, intron 8 of 10)",166676.0,Obg like ATPase 1,True,False,Intron
+cg11405955,TEX41,chr2,145669043.0,"Intron (ENST00000651680.1/ENST00000651680.1, intron 1 of 1)",598224.0,testis expressed 41,True,False,Intron
+cg11458204,CCDC85A,chr2,56375774.0,"Intron (ENST00000607540.1/114800, intron 3 of 3)",228144.0,coiled-coil domain containing 85A,True,False,Intron
+cg11514832,ZEB2,chr2,144466014.0,"Intron (ENST00000636820.1/9839, intron 1 of 8)",16326.0,zinc finger E-box binding homeobox 2,True,False,Intron
+cg12818872,LRPPRC,chr2,43905666.0,"Intron (ENST00000260665.12/10128, intron 31 of 37)",90322.0,leucine rich pentatricopeptide repeat containing,True,False,Intron
+cg13233081,LINC01117,chr2,176818200.0,"Intron (ENST00000652227.1/102724224, intron 5 of 5)",180464.0,long intergenic non-protein coding RNA 1117,True,False,Intron
+cg13400013,EN1,chr2,118850010.0,Promoter (2-3kb),-2333.0,engrailed homeobox 1,False,True,Promoter
+cg13589316,LINC01831,chr2,104052556.0,"Intron (ENST00000537492.5/ENST00000537492.5, intron 1 of 3)",361451.0,long intergenic non-protein coding RNA 1831,True,False,Intron
+cg13851328,ATOH8,chr2,85764072.0,"Exon (ENST00000469442.5/84913, exon 2 of 3)",12728.0,atonal bHLH transcription factor 8,True,False,Exon
+cg14297772,EN1,chr2,118847634.0,Promoter (<=1kb),43.0,engrailed homeobox 1,True,True,fiveUTR
+cg14361875,LINC01812,chr2,67846376.0,Distal Intergenic,-20815.0,long intergenic non-protein coding RNA 1812,False,False,Intergenic_upstream
+cg14384416,SH3YL1,chr2,193393.0,Distal Intergenic,37765.0,SH3 and SYLF domain containing 1,False,False,Intergenic_downstream
+cg14811158,FIGN,chr2,163325312.0,Distal Intergenic,410671.0,"fidgetin, microtubule severing factor",False,False,Intergenic_downstream
+cg14821110,NEUROD1,chr2,181684526.0,Promoter (3-4kb),-3650.0,neuronal differentiation 1,True,True,Promoter
+cg15237969,PSMD14,chr2,161356198.0,"Intron (ENST00000409682.8/10213, intron 3 of 11)",47773.0,"proteasome 26S subunit, non-ATPase 14",True,False,Intron
+cg15253243,TMEM198,chr2,219544069.0,Promoter (<=1kb),406.0,transmembrane protein 198,True,True,fiveUTR
+cg15855274,HOXD-AS2,chr2,176136510.0,Promoter (<=1kb),502.0,HOXD cluster antisense RNA 2,True,True,Promoter
+cg16286672,FIGN,chr2,163732790.0,"Intron (ENST00000409634.5/55137, intron 2 of 2)",3221.0,"fidgetin, microtubule severing factor",True,False,Intron
+cg16367356,PSME4,chr2,53949164.0,"Exon (ENST00000404125.6/23198, exon 2 of 47)",21828.0,proteasome activator subunit 4,True,False,Exon
+cg16378867,XPO1,chr2,61538272.0,Promoter (<=1kb),83.0,exportin 1,True,True,fiveUTR
+cg16437032,PKP4,chr2,158577295.0,3' UTR,120331.0,plakophilin 4,True,False,threeUTR
+cg16542942,LOC101928386,chr2,143842306.0,Distal Intergenic,-94766.0,uncharacterized LOC101928386,False,False,Intergenic_upstream
+cg16636772,POU3F3,chr2,104862147.0,"Intron (ENST00000598623.1/ENST00000598623.1, intron 2 of 2)",8032.0,POU class 3 homeobox 3,True,False,Intron
+cg16745091,CLASP1,chr2,121418657.0,"Exon (ENST00000646274.1/23332, exon 22 of 39)",187402.0,cytoplasmic linker associated protein 1,True,False,Exon
+cg16764906,HAT1,chr2,171966532.0,"Exon (ENST00000392584.2/8520, exon 2 of 4)",44084.0,histone acetyltransferase 1,True,False,Exon
+cg16981766,INO80D,chr2,206062971.0,5' UTR,23154.0,INO80 complex subunit D,True,False,fiveUTR
+cg17251355,LINC01793,chr2,59278032.0,"Exon (ENST00000409590.1/101927285, exon 3 of 3)",60324.0,long intergenic non-protein coding RNA 1793,True,False,Exon
+cg17905888,LINC01876,chr2,155727368.0,Distal Intergenic,297244.0,long intergenic non-protein coding RNA 1876,False,False,Intergenic_downstream
+cg17986111,CTNNA2,chr2,80303544.0,"Exon (ENST00000417012.5/347730, exon 2 of 3)",1118313.0,catenin alpha 2,True,False,Exon
+cg18060631,PKDCC,chr2,42051539.0,"Intron (ENST00000294964.6/91461, intron 1 of 6)",3518.0,"protein kinase domain containing, cytoplasmic",True,False,Intron
+cg18141557,POU3F3,chr2,104855768.0,"Exon (ENST00000361360.4/5455, exon 1 of 1)",1653.0,POU class 3 homeobox 3,True,False,Exon
+cg18419637,MEIS1,chr2,66512232.0,"Exon (ENST00000272369.14/4211, exon 8 of 13)",77107.0,Meis homeobox 1,True,False,Exon
+cg18433728,CHN1,chr2,174846961.0,Promoter (<=1kb),593.0,chimerin 1,True,True,Exon
+cg18672716,SH3YL1,chr2,193256.0,Distal Intergenic,37902.0,SH3 and SYLF domain containing 1,False,False,Intergenic_downstream
+cg18679961,MIR4432HG,chr2,59924543.0,"Intron (ENST00000606382.1/ENST00000606382.1, intron 1 of 3)",458493.0,MIR4432 host gene,True,False,Intron
+cg18743610,ZEB2,chr2,144439566.0,"Intron (ENST00000637045.1/9839, intron 1 of 8)",15633.0,zinc finger E-box binding homeobox 2,True,False,Intron
+cg19195912,FIGN,chr2,163944507.0,"Intron (ENST00000429636.1/ENST00000429636.1, intron 3 of 4)",-208496.0,"fidgetin, microtubule severing factor",True,False,Intron
+cg19271316,TRIP12,chr2,229880039.0,"Exon (ENST00000283943.9/9320, exon 2 of 41)",41969.0,thyroid hormone receptor interactor 12,True,False,Exon
+cg19561061,LRPPRC,chr2,44033862.0,Distal Intergenic,-37874.0,leucine rich pentatricopeptide repeat containing,False,False,Intergenic_upstream
+cg19584582,EVX2,chr2,176075743.0,Distal Intergenic,8170.0,even-skipped homeobox 2,False,False,Intergenic_downstream
+cg19711579,NEUROD1,chr2,181680835.0,Promoter (<=1kb),40.0,neuronal differentiation 1,True,True,fiveUTR
+cg20059238,WDPCP,chr2,63434717.0,"Intron (ENST00000272321.12/51057, intron 8 of 17)",153759.0,WD repeat containing planar cell polarity effector,True,False,Intron
+cg20185523,SPOPL,chr2,138564953.0,3' UTR,63183.0,speckle type BTB/POZ protein like,True,False,threeUTR
+cg20391664,NR4A2,chr2,156326973.0,"Intron (ENST00000339562.9/4929, intron 5 of 7)",5747.0,nuclear receptor subfamily 4 group A member 2,True,False,Intron
+cg20583171,PAX3,chr2,222269347.0,"Intron (ENST00000392069.6/5077, intron 4 of 9)",29633.0,paired box 3,True,False,Intron
+cg20621276,KCNJ3,chr2,154699294.0,5' UTR,1439.0,potassium inwardly rectifying channel subfamily J member 3,True,False,fiveUTR
+cg20804050,EN1,chr2,118847865.0,Promoter (<=1kb),-188.0,engrailed homeobox 1,False,True,Promoter
+cg20884304,ARHGAP15,chr2,143401857.0,"Intron (ENST00000552641.5/55843, intron 6 of 7)",272444.0,Rho GTPase activating protein 15,True,False,Intron
+cg20895555,POU3F3,chr2,104853928.0,Promoter (<=1kb),-186.0,POU class 3 homeobox 3,True,True,Promoter
+cg21621248,CTNNA2,chr2,80304717.0,5' UTR,1119486.0,catenin alpha 2,True,False,fiveUTR
+cg21907062,OLA1,chr2,174081061.0,"Exon (ENST00000462000.1/29789, exon 4 of 4)",167470.0,Obg like ATPase 1,True,False,Exon
+cg22067905,LRPPRC,chr2,43905631.0,"Intron (ENST00000260665.12/10128, intron 31 of 37)",90357.0,leucine rich pentatricopeptide repeat containing,True,False,Intron
+cg22100382,ACVR2A,chr2,147512452.0,Distal Intergenic,-332016.0,activin A receptor type 2A,False,False,Intergenic_upstream
+cg22267613,ZEB2-AS1,chr2,144521227.0,Promoter (<=1kb),631.0,ZEB2 antisense RNA 1,True,True,Exon
+cg22454769,FHL2,chr2,105399310.0,Promoter (<=1kb),356.0,four and a half LIM domains 2,True,True,fiveUTR
+cg22943590,MEIS1,chr2,66421665.0,Distal Intergenic,-11787.0,Meis homeobox 1,False,False,Intergenic_upstream
+cg23183090,MEMO1,chr2,31893253.0,"Exon (ENST00000413686.1/51072, exon 6 of 7)",117303.0,mediator of cell motility 1,True,False,Exon
+cg23207462,MEIS1,chr2,66435465.0,5' UTR,2013.0,Meis homeobox 1,True,False,fiveUTR
+cg23627331,FAP,chr2,162188580.0,"Intron (ENST00000422436.5/2191, intron 6 of 12)",10245.0,fibroblast activation protein alpha,True,False,Intron
+cg23940242,FIGN,chr2,163735054.0,Promoter (<=1kb),957.0,"fidgetin, microtubule severing factor",True,True,fiveUTR
+cg23948922,EPHA4,chr2,221425936.0,3' UTR,146367.0,EPH receptor A4,True,False,threeUTR
+cg23998570,EVX2,chr2,176075839.0,Distal Intergenic,8074.0,even-skipped homeobox 2,False,False,Intergenic_downstream
+cg24087602,TTN-AS1,chr2,178752226.0,"Intron (ENST00000659121.1/101927055, intron 6 of 12)",229001.0,TTN antisense RNA 1,True,False,Intron
+cg24488281,ZEB2-AS1,chr2,144520539.0,"Exon (ENST00000427278.8/100303491, exon 3 of 3)",2561.0,ZEB2 antisense RNA 1,True,False,Exon
+cg24615318,FIGN,chr2,163735042.0,Promoter (<=1kb),969.0,"fidgetin, microtubule severing factor",True,True,fiveUTR
+cg25118671,PRKCE,chr2,45652096.0,Promoter (<=1kb),751.0,protein kinase C epsilon,True,True,fiveUTR
+cg25424883,WDR33,chr2,127763116.0,3' UTR,48054.0,WD repeat domain 33,True,False,threeUTR
+cg25530799,TEX41,chr2,144615974.0,Distal Intergenic,-50337.0,testis expressed 41,False,False,Intergenic_upstream
+cg26012482,LINC00299,chr2,8283025.0,"Intron (ENST00000430192.5/339789, intron 6 of 7)",41604.0,long intergenic non-protein coding RNA 299,True,False,Intron
+cg26067250,DLX1,chr2,172085721.0,Promoter (<=1kb),981.0,distal-less homeobox 1,True,True,Exon
+cg26260350,OTX1,chr2,63050797.0,Promoter (<=1kb),740.0,orthodenticle homeobox 1,True,True,Exon
+cg26294431,ERBB4,chr2,212536145.0,"Intron (ENST00000342788.9/2066, intron 1 of 27)",2656.0,erb-b2 receptor tyrosine kinase 4,True,False,Intron
+cg26363341,PIKFYVE,chr2,208304946.0,3' UTR,38691.0,"phosphoinositide kinase, FYVE-type zinc finger containing",True,False,threeUTR
+cg26736130,LINC01305,chr2,174331833.0,Distal Intergenic,3061.0,long intergenic non-protein coding RNA 1305,False,False,Intergenic_downstream
+cg27052685,LINC01831,chr2,104052707.0,"Intron (ENST00000537492.5/ENST00000537492.5, intron 1 of 3)",361300.0,long intergenic non-protein coding RNA 1831,True,False,Intron
+cg27242082,NR4A2,chr2,156328905.0,"Intron (ENST00000339562.9/4929, intron 3 of 7)",3815.0,nuclear receptor subfamily 4 group A member 2,True,False,Intron
+cg27435767,LINC01798,chr2,66693638.0,"Intron (ENST00000433396.5/100507073, intron 5 of 5)",119608.0,long intergenic non-protein coding RNA 1798,True,False,Intron
+cg27553955,KCNG3,chr2,42493186.0,Promoter (<=1kb),795.0,potassium voltage-gated channel modifier subfamily G member 3,True,True,Exon
+cg27698932,GACAT3,chr2,16166859.0,Distal Intergenic,86027.0,gastric cancer associated transcript 3,False,False,Intergenic_downstream
+cg05704605,ZMYND8,chr20,47238916.0,"Exon (ENST00000311275.11/23613, exon 15 of 22)",116740.0,zinc finger MYND-type containing 8,True,False,Exon
+cg07547549,SLC12A5,chr20,46029586.0,"Intron (ENST00000454036.6/57468, intron 1 of 25)",7896.0,solute carrier family 12 member 5,True,False,Intron
+cg07878283,LINC00237,chr20,21099887.0,"Intron (ENST00000655093.1/105372556, intron 1 of 3)",6465.0,long intergenic non-protein coding RNA 237,True,False,Intron
+cg08402623,TASP1,chr20,13516396.0,"Intron (ENST00000480436.5/55617, intron 10 of 13)",122506.0,taspase 1,True,False,Intron
+cg08918292,SLC32A1,chr20,38715913.0,Promoter (8-9kb),-8573.0,solute carrier family 32 member 1,False,True,Promoter
+cg09629523,NOL4L,chr20,32581346.0,"Intron (ENST00000375671.7/149950, intron 1 of 2)",3543.0,nucleolar protein 4 like,True,False,Intron
+cg11997199,ZNF335,chr20,45962112.0,"Exon (ENST00000322927.3/63925, exon 10 of 28)",10090.0,zinc finger protein 335,True,False,Exon
+cg12492738,INSM1,chr20,20363127.0,Promoter (4-5kb),-4976.0,INSM transcriptional repressor 1,False,True,Promoter
+cg12761282,TGM3,chr20,2295925.0,"Intron (ENST00000651531.1/7053, intron 2 of 13)",88597.0,transglutaminase 3,True,False,Intron
+cg12945551,LINC01524,chr20,52615822.0,"Intron (ENST00000656501.1/101927700, intron 4 of 4)",405179.0,long intergenic non-protein coding RNA 1524,True,False,Intron
+cg13182287,RBM39,chr20,35738990.0,3' UTR,3245.0,RNA binding motif protein 39,True,False,threeUTR
+cg13884903,LINC00261,chr20,22578708.0,Promoter (<=1kb),-67.0,long intergenic non-protein coding RNA 261,False,True,Promoter
+cg14172937,SLC12A5,chr20,46029210.0,5' UTR,7520.0,solute carrier family 12 member 5,True,False,fiveUTR
+cg14299268,PLCB4,chr20,9373073.0,"Exon (ENST00000378473.7/5332, exon 11 of 38)",304019.0,phospholipase C beta 4,True,False,Exon
+cg14666740,SLC32A1,chr20,38728096.0,"Exon (ENST00000217420.2/140679, exon 2 of 2)",3610.0,solute carrier family 32 member 1,True,False,Exon
+cg14762358,VSTM2L,chr20,37905847.0,"Intron (ENST00000373459.4/128434, intron 1 of 1)",2736.0,V-set and transmembrane domain containing 2 like,True,False,Intron
+cg15471501,LINC00237,chr20,21103492.0,"Intron (ENST00000655093.1/105372556, intron 1 of 3)",2812.0,long intergenic non-protein coding RNA 237,True,False,Intron
+cg17318138,SCRT2,chr20,676643.0,Promoter (<=1kb),-842.0,scratch family transcriptional repressor 2,False,True,Promoter
+cg17633063,PTPRT,chr20,42897077.0,"Intron (ENST00000356100.6/11122, intron 1 of 30)",292655.0,protein tyrosine phosphatase receptor type T,True,False,Intron
+cg18188156,KIZ,chr20,21233098.0,"Intron (ENST00000619574.4/55857, intron 9 of 10)",107115.0,kizuna centrosomal protein,True,False,Intron
+cg18851565,ZMYND8,chr20,47238847.0,"Exon (ENST00000311275.11/23613, exon 15 of 22)",116809.0,zinc finger MYND-type containing 8,True,False,Exon
+cg19358608,PDYN-AS1,chr20,1943919.0,Promoter (3-4kb),-3326.0,PDYN antisense RNA 1,False,True,Promoter
+cg22703759,LINC00489,chr20,37627644.0,Promoter (4-5kb),-4526.0,long intergenic non-protein coding RNA 489,False,True,Promoter
+cg04787747,DONSON,chr21,33576435.0,3' UTR,12234.0,downstream neighbor of SON,True,False,threeUTR
+cg08909367,OLIG1,chr21,33096020.0,Distal Intergenic,25880.0,oligodendrocyte transcription factor 1,False,False,Intergenic_downstream
+cg09984378,SON,chr21,33560685.0,"Intron (ENST00000356577.9/6651, intron 6 of 11)",17647.0,SON DNA binding protein,True,False,Intron
+cg10644072,DSCAM,chr21,40846625.0,Promoter (<=1kb),532.0,DS cell adhesion molecule,True,True,Exon
+cg11417778,PAXBP1,chr21,32755277.0,"Exon (ENST00000331923.9/94104, exon 8 of 18)",16477.0,PAX3 and PAX7 binding protein 1,True,False,Exon
+cg16095149,DSCAM,chr21,40846623.0,Promoter (<=1kb),534.0,DS cell adhesion molecule,True,True,Exon
+cg00984060,CACNA1I,chr22,39685515.0,"Intron (ENST00000404898.5/8911, intron 35 of 35)",114762.0,calcium voltage-gated channel subunit alpha1 I,True,False,Intron
+cg01061575,PRR5-ARHGAP8,chr22,44702487.0,Promoter (<=1kb),254.0,PRR5-ARHGAP8 readthrough,True,True,fiveUTR
+cg01594275,EP300,chr22,41160539.0,"Intron (ENST00000263253.9/2033, intron 19 of 30)",67947.0,E1A binding protein p300,True,False,Intron
+cg02042055,CACNG2,chr22,36702522.0,"Exon (ENST00000300105.6/10369, exon 1 of 4)",1035.0,calcium voltage-gated channel auxiliary subunit gamma 2,True,False,Exon
+cg05172686,CABP7,chr22,29729506.0,"Exon (ENST00000216144.4/164633, exon 5 of 5)",9503.0,calcium binding protein 7,True,False,Exon
+cg07423797,SCUBE1,chr22,43262719.0,"Exon (ENST00000360835.9/80274, exon 5 of 22)",80652.0,"signal peptide, CUB domain and EGF like domain containing 1",True,False,Exon
+cg08665685,SMTN,chr22,31104411.0,3' UTR,23092.0,smoothelin,True,False,threeUTR
+cg09462662,TNRC6B,chr22,40261868.0,"Exon (ENST00000301923.13/23112, exon 7 of 24)",217051.0,trinucleotide repeat containing adaptor 6B,True,False,Exon
+cg10160701,FBLN1,chr22,45535274.0,"Exon (ENST00000402984.7/2192, exon 9 of 16)",32391.0,fibulin 1,True,False,Exon
+cg10677704,EWSR1,chr22,29290395.0,"Exon (ENST00000483415.5/2130, exon 8 of 8)",22386.0,EWS RNA binding protein 1,True,False,Exon
+cg12373771,TMEM121B,chr22,17120491.0,Promoter (<=1kb),868.0,transmembrane protein 121B,True,True,Exon
+cg15746205,EWSR1,chr22,29290369.0,"Exon (ENST00000483415.5/2130, exon 8 of 8)",22360.0,EWS RNA binding protein 1,True,False,Exon
+cg16886381,EWSR1,chr22,29291488.0,"Exon (ENST00000479135.5/2130, exon 4 of 12)",23479.0,EWS RNA binding protein 1,True,False,Exon
+cg18194685,MN1,chr22,27557962.0,Distal Intergenic,233921.0,"MN1 proto-oncogene, transcriptional regulator",False,False,Intergenic_downstream
+cg22929401,KCNJ4,chr22,38460126.0,Promoter (4-5kb),-4928.0,potassium inwardly rectifying channel subfamily J member 4,False,True,Promoter
+cg24597392,RBFOX2,chr22,35768289.0,"Exon (ENST00000405409.6/23543, exon 5 of 12)",72249.0,RNA binding fox-1 homolog 2,True,False,Exon
+cg25694286,DDX17,chr22,38489317.0,3' UTR,16993.0,DEAD-box helicase 17,True,False,threeUTR
+cg00106940,SOX2-OT,chr3,181712691.0,"Exon (ENST00000325404.3/6657, exon 1 of 1)",722921.0,SOX2 overlapping transcript,True,False,Exon
+cg00292639,DNAH1,chr3,52393402.0,"Exon (ENST00000420323.6/25981, exon 66 of 78)",77083.0,dynein axonemal heavy chain 1,True,False,Exon
+cg00568797,FOXP1,chr3,70960237.0,"Intron (ENST00000318789.9/27086, intron 20 of 20)",623755.0,forkhead box P1,True,False,Intron
+cg01309159,TNIK,chr3,171066272.0,"Exon (ENST00000436636.7/23043, exon 32 of 33)",394132.0,TRAF2 and NCK interacting kinase,True,False,Exon
+cg01337143,SEMA5B,chr3,122926542.0,"Exon (ENST00000357599.8/54437, exon 9 of 23)",101220.0,semaphorin 5B,True,False,Exon
+cg02692845,SOX2-OT,chr3,181712998.0,"Exon (ENST00000325404.3/6657, exon 1 of 1)",723228.0,SOX2 overlapping transcript,True,False,Exon
+cg03600207,LOC440982,chr3,147395953.0,"Exon (ENST00000383075.7/84107, exon 3 of 5)",2531.0,uncharacterized LOC440982,True,False,Exon
+cg04186556,MECOM,chr3,169121172.0,"Exon (ENST00000264674.7/2122, exon 7 of 17)",25132.0,MDS1 and EVI1 complex locus,True,False,Exon
+cg04533279,RBM6,chr3,49999414.0,"Intron (ENST00000442092.5/10180, intron 2 of 16)",59407.0,RNA binding motif protein 6,True,False,Intron
+cg04913399,CACNA1D,chr3,53497337.0,"Exon (ENST00000637424.1/776, exon 2 of 47)",168374.0,calcium voltage-gated channel subunit alpha1 D,True,False,Exon
+cg05261703,SETD5,chr3,9434050.0,3' UTR,36435.0,SET domain containing 5,True,False,threeUTR
+cg05736341,SATB1,chr3,18370871.0,"Intron (ENST00000414318.2/9779, intron 1 of 8)",54467.0,SATB homeobox 1,True,False,Intron
+cg05844902,SLC9A9,chr3,143848183.0,Promoter (<=1kb),284.0,solute carrier family 9 member A9,True,True,Exon
+cg05911522,LOC440982,chr3,147406611.0,5' UTR,13189.0,uncharacterized LOC440982,True,False,fiveUTR
+cg06156376,RSRC1,chr3,158106025.0,Promoter (<=1kb),170.0,arginine and serine rich coiled-coil 1,True,True,fiveUTR
+cg06796779,GATA2,chr3,128486084.0,"Exon (ENST00000341105.6/2624, exon 3 of 6)",7100.0,GATA binding protein 2,True,False,Exon
+cg07225115,LOC440982,chr3,147407679.0,"Intron (ENST00000472523.1/440982, intron 1 of 1)",14257.0,uncharacterized LOC440982,True,False,Intron
+cg08375909,FOXP1,chr3,71004785.0,"Exon (ENST00000647741.1/27086, exon 1 of 10)",579207.0,forkhead box P1,True,False,Exon
+cg08438614,SOX14,chr3,137606468.0,Distal Intergenic,-157847.0,SRY-box transcription factor 14,False,False,Intergenic_upstream
+cg08938156,LOC440982,chr3,147409417.0,5' UTR,15995.0,uncharacterized LOC440982,True,False,fiveUTR
+cg09061197,MSL2,chr3,136151421.0,"Exon (ENST00000309993.3/55167, exon 2 of 2)",44913.0,MSL complex subunit 2,True,False,Exon
+cg10146459,BCL6,chr3,187743875.0,5' UTR,1849.0,BCL6 transcription repressor,True,False,fiveUTR
+cg10246778,MECOM,chr3,169574481.0,"Intron (ENST00000651503.2/2122, intron 1 of 16)",89230.0,MDS1 and EVI1 complex locus,True,False,Intron
+cg10609096,ARMC8,chr3,138245202.0,3' UTR,57954.0,armadillo repeat containing 8,True,False,threeUTR
+cg10710448,LOC440982,chr3,147410944.0,"Exon (ENST00000282928.5/7545, exon 1 of 3)",17522.0,uncharacterized LOC440982,True,False,Exon
+cg11084334,LHFPL4,chr3,9552580.0,"Exon (ENST00000287585.8/375323, exon 2 of 4)",1241.0,LHFPL tetraspan subfamily member 4,True,False,Exon
+cg12722365,LINC02032,chr3,148075939.0,Promoter (<=1kb),-493.0,long intergenic non-protein coding RNA 2032,True,True,Promoter
+cg12830057,MITF,chr3,69879222.0,"Exon (ENST00000352241.8/4286, exon 2 of 10)",139787.0,melanocyte inducing transcription factor,True,False,Exon
+cg12841266,LHFPL4,chr3,9552409.0,"Exon (ENST00000287585.8/375323, exon 2 of 4)",1412.0,LHFPL tetraspan subfamily member 4,True,False,Exon
+cg12965599,LOC440982,chr3,147408137.0,"Intron (ENST00000472523.1/440982, intron 1 of 1)",14715.0,uncharacterized LOC440982,True,False,Intron
+cg13383038,FOXP1,chr3,71524984.0,"Intron (ENST00000318789.9/27086, intron 2 of 20)",59008.0,forkhead box P1,True,False,Intron
+cg13655781,P2RY1,chr3,152835992.0,Promoter (<=1kb),861.0,purinergic receptor P2Y1,True,True,Exon
+cg13702222,MBNL1,chr3,152299451.0,5' UTR,55623.0,muscleblind like splicing regulator 1,True,False,fiveUTR
+cg14322760,TRIM59-IFT80,chr3,160402676.0,5' UTR,47152.0,TRIM59-IFT80 protein,True,False,fiveUTR
+cg14412072,ZBTB20,chr3,114716274.0,"Intron (ENST00000357258.8/26137, intron 4 of 9)",430996.0,zinc finger and BTB domain containing 20,True,False,Intron
+cg15030317,RSRC1,chr3,158234032.0,"Intron (ENST00000480820.5/51319, intron 4 of 9)",128177.0,arginine and serine rich coiled-coil 1,True,False,Intron
+cg15094970,SOX2-OT,chr3,181699580.0,"Exon (ENST00000600801.7/347689, exon 1 of 3)",709810.0,SOX2 overlapping transcript,True,False,Exon
+cg15809488,RARB,chr3,25428622.0,5' UTR,254290.0,retinoic acid receptor beta,True,False,fiveUTR
+cg15810562,FOXP1,chr3,71054581.0,"Intron (ENST00000318789.9/27086, intron 7 of 20)",529411.0,forkhead box P1,True,False,Intron
+cg15903282,EPHB1,chr3,134794848.0,"Intron (ENST00000460895.5/2047, intron 2 of 3)",179483.0,EPH receptor B1,True,False,Intron
+cg16366505,SMIM4,chr3,52558410.0,"Exon (ENST00000296302.11/55193, exon 26 of 30)",21805.0,small integral membrane protein 4,True,False,Exon
+cg16591739,CNBP,chr3,129171214.0,"Exon (ENST00000502976.5/7555, exon 4 of 5)",12690.0,CCHC-type zinc finger nucleic acid binding protein,True,False,Exon
+cg17041137,STAG1,chr3,136568767.0,5' UTR,183610.0,stromal antigen 1,True,False,fiveUTR
+cg17356452,ZBTB38,chr3,141387078.0,"Exon (ENST00000507657.1/253461, exon 4 of 4)",62865.0,zinc finger and BTB domain containing 38,True,False,Exon
+cg17708456,MECOM,chr3,169663775.0,Promoter (<=1kb),0.0,MDS1 and EVI1 complex locus,True,True,fiveUTR
+cg17819031,SEMA5B,chr3,122926485.0,"Exon (ENST00000357599.8/54437, exon 9 of 23)",101277.0,semaphorin 5B,True,False,Exon
+cg18169540,DVL3,chr3,184170708.0,"Exon (ENST00000313143.9/1857, exon 15 of 15)",15331.0,dishevelled segment polarity protein 3,True,False,Exon
+cg18418719,FOXP1,chr3,70972083.0,3' UTR,611909.0,forkhead box P1,True,False,threeUTR
+cg18987683,KPNA4,chr3,160565270.0,Promoter (<=1kb),300.0,karyopherin subunit alpha 4,True,True,Exon
+cg19054310,MECOM,chr3,169579380.0,"Intron (ENST00000651503.2/2122, intron 1 of 16)",84331.0,MDS1 and EVI1 complex locus,True,False,Intron
+cg19719499,GSK3B,chr3,119923407.0,"Exon (ENST00000264235.12/2932, exon 4 of 11)",171009.0,glycogen synthase kinase 3 beta,True,False,Exon
+cg19931377,ZBTB20,chr3,114616166.0,"Intron (ENST00000357258.8/26137, intron 5 of 9)",531104.0,zinc finger and BTB domain containing 20,True,False,Intron
+cg19981759,LOC440982,chr3,147409413.0,5' UTR,15991.0,uncharacterized LOC440982,True,False,fiveUTR
+cg20076842,ZCWPW2,chr3,28576252.0,5' UTR,227074.0,zinc finger CW-type and PWWP domain containing 2,True,False,fiveUTR
+cg20452275,EIF4G1,chr3,184320228.0,"Intron (ENST00000346169.6/1981, intron 7 of 32)",5733.0,eukaryotic translation initiation factor 4 gamma 1,True,False,Intron
+cg21132526,SATB1,chr3,18370886.0,"Intron (ENST00000414318.2/9779, intron 1 of 8)",54452.0,SATB homeobox 1,True,False,Intron
+cg21608448,MSL2,chr3,136151451.0,"Exon (ENST00000309993.3/55167, exon 2 of 2)",44883.0,MSL complex subunit 2,True,False,Exon
+cg21871906,MECOM,chr3,169241235.0,"Intron (ENST00000651503.2/2122, intron 2 of 16)",422476.0,MDS1 and EVI1 complex locus,True,False,Intron
+cg22057106,ZBTB20-AS5,chr3,114484274.0,"Intron (ENST00000628886.1/101929754, intron 2 of 2)",38753.0,ZBTB20 antisense RNA 5,True,False,Intron
+cg22264409,PROK2,chr3,71779257.0,"Intron (ENST00000295619.4/60675, intron 2 of 3)",5890.0,prokineticin 2,True,False,Intron
+cg22380921,CADM2,chr3,84959635.0,Promoter (<=1kb),654.0,cell adhesion molecule 2,True,True,Exon
+cg23449696,LOC440982,chr3,147408155.0,"Intron (ENST00000472523.1/440982, intron 1 of 1)",14733.0,uncharacterized LOC440982,True,False,Intron
+cg23752476,ZBTB20-AS3,chr3,114875122.0,"Intron (ENST00000498630.1/104413890, intron 2 of 2)",2008.0,ZBTB20 antisense RNA 3,True,False,Intron
+cg24866418,LHFPL4,chr3,9552398.0,"Exon (ENST00000287585.8/375323, exon 2 of 4)",1423.0,LHFPL tetraspan subfamily member 4,True,False,Exon
+cg24952195,SATB1,chr3,18356048.0,"Intron (ENST00000414318.2/9779, intron 1 of 8)",69290.0,SATB homeobox 1,True,False,Intron
+cg25033328,MBNL1,chr3,152446541.0,"Intron (ENST00000282486.10/4154, intron 5 of 9)",178501.0,muscleblind like splicing regulator 1,True,False,Intron
+cg25731502,MBNL1,chr3,152299732.0,5' UTR,55904.0,muscleblind like splicing regulator 1,True,False,fiveUTR
+cg26614073,SCAP,chr3,47476329.0,Promoter (<=1kb),796.0,SREBF chaperone,True,True,Promoter
+cg27096599,PTPRG,chr3,61562277.0,Promoter (<=1kb),708.0,protein tyrosine phosphatase receptor type G,True,True,fiveUTR
+cg27208811,ZBTB20-AS5,chr3,114455346.0,"Intron (ENST00000628886.1/101929754, intron 2 of 2)",9825.0,ZBTB20 antisense RNA 5,True,False,Intron
+cg27275508,SOX2-OT,chr3,181707923.0,"Intron (ENST00000660576.1/347689, intron 5 of 6)",718153.0,SOX2 overlapping transcript,True,False,Intron
+cg27291552,ZBTB47,chr3,42659736.0,"Exon (ENST00000232974.11/92999, exon 2 of 6)",6039.0,zinc finger and BTB domain containing 47,True,False,Exon
+cg00788877,FAM53A,chr4,1598753.0,Distal Intergenic,46200.0,family with sequence similarity 53 member A,False,False,Intergenic_downstream
+cg01511232,LRAT,chr4,154740777.0,"Intron (ENST00000502525.5/9227, intron 3 of 3)",113816.0,lecithin retinol acyltransferase,True,False,Intron
+cg01648756,LRBA,chr4,150490965.0,3' UTR,524318.0,LPS responsive beige-like anchor protein,True,False,threeUTR
+cg01712842,NEUROG2-AS1,chr4,112523624.0,"Intron (ENST00000504009.1/105377372, intron 1 of 3)",8193.0,NEUROG2 and ZGRF1 antisense RNA 1,True,False,Intron
+cg02553697,LRBA,chr4,150794947.0,"Intron (ENST00000651943.1/987, intron 34 of 56)",220336.0,LPS responsive beige-like anchor protein,True,False,Intron
+cg02658193,LEF1-AS1,chr4,108173473.0,"Exon (ENST00000436413.5/641518, exon 2 of 3)",5948.0,LEF1 antisense RNA 1,True,False,Exon
+cg02783173,NEUROG2-AS1,chr4,112521614.0,"Intron (ENST00000504009.1/105377372, intron 1 of 3)",6183.0,NEUROG2 and ZGRF1 antisense RNA 1,True,False,Intron
+cg02953590,MAML3,chr4,140153008.0,"Exon (ENST00000509479.6/55534, exon 1 of 5)",1175.0,mastermind like transcriptional coactivator 3,True,False,Exon
+cg03103192,SPATA18,chr4,52051105.0,Promoter (<=1kb),-198.0,spermatogenesis associated 18,False,True,Promoter
+cg03605454,IQCM,chr4,149885131.0,"Intron (ENST00000508106.5/285423, intron 1 of 6)",11101.0,IQ motif containing M,True,False,Intron
+cg04577801,HAND2-AS1,chr4,173531182.0,"Exon (ENST00000505032.5/79804, exon 3 of 3)",3912.0,HAND2 antisense RNA 1,True,False,Exon
+cg05474883,HNRNPD,chr4,82354926.0,3' UTR,19064.0,heterogeneous nuclear ribonucleoprotein D,True,False,threeUTR
+cg05584618,UNC5C,chr4,95505316.0,"Intron (ENST00000453304.6/8633, intron 1 of 15)",43656.0,unc-5 netrin receptor C,True,False,Intron
+cg06679388,MAML3,chr4,140094103.0,"Intron (ENST00000509479.6/55534, intron 1 of 4)",60080.0,mastermind like transcriptional coactivator 3,True,False,Intron
+cg06679868,GRIA2,chr4,157363026.0,"Exon (ENST00000507898.5/2891, exon 15 of 16)",142883.0,glutamate ionotropic receptor AMPA type subunit 2,True,False,Exon
+cg10603790,LEF1,chr4,108141597.0,"Intron (ENST00000379951.6/51176, intron 3 of 9)",27358.0,lymphoid enhancer binding factor 1,True,False,Intron
+cg11128281,LRBA,chr4,150599078.0,3' UTR,416205.0,LPS responsive beige-like anchor protein,True,False,threeUTR
+cg11252613,LINC02360,chr4,11869369.0,Distal Intergenic,-99901.0,long intergenic non-protein coding RNA 2360,False,False,Intergenic_upstream
+cg11664765,TENM3,chr4,182601068.0,"Exon (ENST00000511685.6/55714, exon 4 of 28)",357666.0,teneurin transmembrane protein 3,True,False,Exon
+cg12428891,LCORL,chr4,17884546.0,"Exon (ENST00000382224.5/254251, exon 7 of 7)",137329.0,ligand dependent nuclear receptor corepressor like,True,False,Exon
+cg13006563,GRID2,chr4,93772112.0,"Exon (ENST00000282020.9/2895, exon 16 of 16)",1468146.0,glutamate ionotropic receptor delta type subunit 2,True,False,Exon
+cg14656600,MAML3,chr4,140151379.0,"Intron (ENST00000509479.6/55534, intron 1 of 4)",2804.0,mastermind like transcriptional coactivator 3,True,False,Intron
+cg15741341,EPHA5,chr4,65490521.0,"Exon (ENST00000273854.7/2044, exon 5 of 18)",179821.0,EPH receptor A5,True,False,Exon
+cg15809618,MSX1,chr4,4855709.0,Promoter (3-4kb),-3955.0,msh homeobox 1,False,True,Promoter
+cg17213306,LOC105377480,chr4,148949977.0,Promoter (7-8kb),-7562.0,uncharacterized LOC105377480,True,True,Promoter
+cg19604874,PCDH7,chr4,30920159.0,"Exon (ENST00000511884.6/5099, exon 2 of 3)",197805.0,protocadherin 7,True,False,Exon
+cg19692957,POU4F2,chr4,146654806.0,Distal Intergenic,15913.0,POU class 4 homeobox 2,False,False,Intergenic_downstream
+cg20049544,CNOT6L,chr4,77776300.0,"Exon (ENST00000649644.1/246175, exon 2 of 12)",43019.0,CCR4-NOT transcription complex subunit 6 like,True,False,Exon
+cg20140365,CHIC2,chr4,54015737.0,"Intron (ENST00000507166.5/5156, intron 12 of 23)",48867.0,cysteine rich hydrophobic domain 2,True,False,Intron
+cg20306751,NDUFC1,chr4,139301542.0,5' UTR,1008.0,NADH:ubiquinone oxidoreductase subunit C1,True,False,fiveUTR
+cg20370622,PHOX2B,chr4,41748222.0,Promoter (<=1kb),747.0,paired like homeobox 2B,True,True,Promoter
+cg23783364,NKX6-1,chr4,84443569.0,Distal Intergenic,53381.0,NK6 homeobox 1,False,False,Intergenic_downstream
+cg24713486,C1QTNF7-AS1,chr4,15008358.0,"Exon (ENST00000507071.6/132864, exon 3 of 11)",419507.0,C1QTNF7 antisense RNA 1,True,False,Exon
+cg25518911,STOX2,chr4,183906880.0,"Exon (ENST00000308497.9/56977, exon 1 of 4)",109188.0,storkhead box 2,True,False,Exon
+cg25662803,LRBA,chr4,150490968.0,3' UTR,524315.0,LPS responsive beige-like anchor protein,True,False,threeUTR
+cg00249943,TRPC7,chr5,136274770.0,"Exon (ENST00000513104.5/57113, exon 4 of 12)",90766.0,transient receptor potential cation channel subfamily C member 7,True,False,Exon
+cg00296110,PSD2-AS1,chr5,139759648.0,Distal Intergenic,-12243.0,PSD2 antisense RNA 1,False,False,Intergenic_upstream
+cg00422680,RANBP17,chr5,171294749.0,"Intron (ENST00000389118.8/64901, intron 28 of 29)",432817.0,RAN binding protein 17,True,False,Intron
+cg00817637,TBCA,chr5,77844514.0,"Intron (ENST00000522370.1/6902, intron 1 of 3)",24265.0,tubulin folding cofactor A,True,False,Intron
+cg00900456,PITX1,chr5,135031343.0,"Exon (ENST00000265340.12/5307, exon 2 of 3)",2884.0,paired like homeodomain 1,True,False,Exon
+cg01036016,NIPBL,chr5,36995702.0,"Exon (ENST00000282516.13/25836, exon 11 of 47)",118933.0,NIPBL cohesin loading factor,True,False,Exon
+cg02474352,AP3B1,chr5,78062859.0,"Intron (ENST00000255194.10/8546, intron 22 of 26)",231895.0,adaptor related protein complex 3 subunit beta 1,True,False,Intron
+cg03225070,DBN1,chr5,177456945.0,3' UTR,16795.0,drebrin 1,True,False,threeUTR
+cg03225697,NRG2,chr5,139847724.0,3' UTR,195574.0,neuregulin 2,True,False,threeUTR
+cg03603997,TMEM161B,chr5,87944608.0,"Intron (ENST00000668454.1/ENST00000668454.1, intron 2 of 3)",253843.0,transmembrane protein 161B,True,False,Intron
+cg03683773,AP3B1,chr5,78129253.0,"Exon (ENST00000255194.10/8546, exon 16 of 27)",165501.0,adaptor related protein complex 3 subunit beta 1,True,False,Exon
+cg03856216,TGFBI,chr5,136059173.0,5' UTR,30185.0,transforming growth factor beta induced,True,False,fiveUTR
+cg04363039,AP3B1,chr5,78017237.0,"Intron (ENST00000255194.10/8546, intron 25 of 26)",277517.0,adaptor related protein complex 3 subunit beta 1,True,False,Intron
+cg04373810,ZNF608,chr5,124747495.0,"Intron (ENST00000509799.5/57507, intron 1 of 4)",1311.0,zinc finger protein 608,True,False,Intron
+cg04998737,OTP,chr5,77645403.0,Promoter (5-6kb),-5716.0,orthopedia homeobox,False,True,Promoter
+cg05035366,TENM2,chr5,168126846.0,"Exon (ENST00000518659.5/57451, exon 12 of 29)",842047.0,teneurin transmembrane protein 2,True,False,Exon
+cg05207134,DDX46,chr5,134790076.0,"Intron (ENST00000628477.2/9879, intron 11 of 11)",31305.0,DEAD-box helicase 46,True,False,Intron
+cg05475048,TRPC7,chr5,136274834.0,"Exon (ENST00000513104.5/57113, exon 4 of 12)",90702.0,transient receptor potential cation channel subfamily C member 7,True,False,Exon
+cg06259996,NR2F1-AS1,chr5,93585317.0,Promoter (<=1kb),304.0,NR2F1 antisense RNA 1,True,True,Exon
+cg06482098,CTNND2,chr5,11384925.0,"Exon (ENST00000304623.13/1501, exon 7 of 22)",519520.0,catenin delta 2,True,False,Exon
+cg06721379,NDST1,chr5,150542966.0,"Exon (ENST00000523767.5/3340, exon 10 of 14)",45188.0,N-deacetylase and N-sulfotransferase 1,True,False,Exon
+cg07292994,NIPBL-DT,chr5,36876731.0,Promoter (<=1kb),-32.0,NIPBL divergent transcript,False,True,Promoter
+cg07332354,MEF2C-AS1,chr5,88883996.0,Promoter (<=1kb),668.0,MEF2C antisense RNA 1,True,True,Promoter
+cg07383477,LOC102546299,chr5,164560638.0,"Intron (ENST00000517508.5/102546299, intron 4 of 5)",263942.0,uncharacterized LOC102546299,True,False,Intron
+cg07875786,NR2F1,chr5,93583221.0,Promoter (<=1kb),0.0,nuclear receptor subfamily 2 group F member 1,True,True,fiveUTR
+cg08030321,NR2F1-AS1,chr5,93191253.0,Distal Intergenic,231081.0,NR2F1 antisense RNA 1,False,False,Intergenic_downstream
+cg08212459,TBCA,chr5,77847813.0,"Intron (ENST00000522370.1/6902, intron 1 of 3)",20966.0,tubulin folding cofactor A,True,False,Intron
+cg08508546,NR2F1-AS1,chr5,92713399.0,Distal Intergenic,708936.0,NR2F1 antisense RNA 1,False,False,Intergenic_downstream
+cg08662919,NR2F1-AS1,chr5,92695765.0,Distal Intergenic,726570.0,NR2F1 antisense RNA 1,False,False,Intergenic_downstream
+cg09578613,NIPBL,chr5,37060950.0,"Exon (ENST00000282516.13/25836, exon 45 of 47)",184181.0,NIPBL cohesin loading factor,True,False,Exon
+cg10040493,OTP,chr5,77641298.0,Promoter (1-2kb),-1611.0,orthopedia homeobox,False,True,Promoter
+cg11160393,TBCA,chr5,77725227.0,"Intron (ENST00000380377.8/6902, intron 1 of 3)",51133.0,tubulin folding cofactor A,True,False,Intron
+cg11217865,NRG2,chr5,139847733.0,3' UTR,195565.0,neuregulin 2,True,False,threeUTR
+cg11327514,RANBP17,chr5,171172262.0,"Intron (ENST00000389118.8/64901, intron 17 of 29)",310330.0,RAN binding protein 17,True,False,Intron
+cg11700079,TLX3,chr5,171310377.0,"Exon (ENST00000296921.6/30012, exon 2 of 3)",1129.0,T cell leukemia homeobox 3,True,False,Exon
+cg11904056,NR2F1-AS1,chr5,93583204.0,"Intron (ENST00000659336.1/441094, intron 1 of 4)",2417.0,NR2F1 antisense RNA 1,True,False,Intron
+cg12201500,LARP1,chr5,154811617.0,"Exon (ENST00000336314.9/23367, exon 18 of 19)",98774.0,"La ribonucleoprotein 1, translational regulator",True,False,Exon
+cg12394655,MIR9-2,chr5,88666933.0,Promoter (<=1kb),5.0,microRNA 9-2,True,True,Exon
+cg12791299,MEF2C-AS1,chr5,89377985.0,"Intron (ENST00000514092.5/101929423, intron 5 of 6)",488540.0,MEF2C antisense RNA 1,True,False,Intron
+cg12880090,LARP1,chr5,154811604.0,"Exon (ENST00000336314.9/23367, exon 18 of 19)",98761.0,"La ribonucleoprotein 1, translational regulator",True,False,Exon
+cg12942661,EBF1,chr5,158823229.0,"Exon (ENST00000622875.4/1879, exon 2 of 10)",16893.0,EBF transcription factor 1,True,False,Exon
+cg13151063,ANKHD1-EIF4EBP3,chr5,140440165.0,5' UTR,38257.0,ANKHD1-EIF4EBP3 readthrough,True,False,fiveUTR
+cg13242392,NIPBL-DT,chr5,36876728.0,Promoter (<=1kb),-29.0,NIPBL divergent transcript,False,True,Promoter
+cg14551953,TBCA,chr5,77847750.0,"Intron (ENST00000522370.1/6902, intron 1 of 3)",21029.0,tubulin folding cofactor A,True,False,Intron
+cg14640670,PURA,chr5,140115352.0,3' UTR,1243.0,purine rich element binding protein A,True,False,threeUTR
+cg15009537,PLPP1,chr5,55475402.0,"Exon (ENST00000307259.9/8611, exon 2 of 6)",59513.0,phospholipid phosphatase 1,True,False,Exon
+cg15426572,FGF18,chr5,171421174.0,"Intron (ENST00000274625.6/8817, intron 2 of 4)",1527.0,fibroblast growth factor 18,True,False,Intron
+cg15702573,NSD1,chr5,177293963.0,"Exon (ENST00000354179.8/64324, exon 24 of 24)",160884.0,nuclear receptor binding SET domain protein 1,True,False,Exon
+cg15828158,SNX2,chr5,122816986.0,3' UTR,41907.0,sorting nexin 2,True,False,threeUTR
+cg16376499,LINC00461,chr5,88666011.0,"Exon (ENST00000500197.6/645323, exon 4 of 4)",18796.0,long intergenic non-protein coding RNA 461,True,False,Exon
+cg16624401,PPARGC1B,chr5,149847621.0,3' UTR,117320.0,PPARG coactivator 1 beta,True,False,threeUTR
+cg17942396,MSX2,chr5,174734038.0,Distal Intergenic,9436.0,msh homeobox 2,False,False,Intergenic_downstream
+cg18223258,ISL1,chr5,51399170.0,Distal Intergenic,12966.0,ISL LIM homeobox 1,False,False,Intergenic_downstream
+cg18281552,CXXC5,chr5,139668241.0,"Intron (ENST00000502295.1/51523, intron 1 of 1)",20942.0,CXXC finger protein 5,True,False,Intron
+cg18304538,TBCA,chr5,77852294.0,"Intron (ENST00000522370.1/6902, intron 1 of 3)",16485.0,tubulin folding cofactor A,True,False,Intron
+cg18526971,NR2F1-AS1,chr5,93585447.0,Promoter (<=1kb),174.0,NR2F1 antisense RNA 1,True,True,Exon
+cg18814344,CXXC5,chr5,139660961.0,"Intron (ENST00000502295.1/51523, intron 1 of 1)",13662.0,CXXC finger protein 5,True,False,Intron
+cg19683912,LOC101929154,chr5,77971861.0,Distal Intergenic,13618.0,uncharacterized LOC101929154,False,False,Intergenic_downstream
+cg20113482,ARL15,chr5,54215550.0,"Intron (ENST00000504924.6/54622, intron 1 of 4)",95022.0,ADP ribosylation factor like GTPase 15,True,False,Intron
+cg20334331,TBCA,chr5,77847708.0,"Intron (ENST00000522370.1/6902, intron 1 of 3)",21071.0,tubulin folding cofactor A,True,False,Intron
+cg20421508,OTP,chr5,77645339.0,Promoter (5-6kb),-5652.0,orthopedia homeobox,False,True,Promoter
+cg20432508,SREK1,chr5,66162474.0,3' UTR,18174.0,splicing regulatory glutamic acid and lysine rich protein 1,True,False,threeUTR
+cg20453574,SREK1,chr5,66156139.0,3' UTR,16168.0,splicing regulatory glutamic acid and lysine rich protein 1,True,False,threeUTR
+cg20527060,ARRDC3,chr5,92147931.0,"Intron (ENST00000507217.5/ENST00000507217.5, intron 1 of 3)",-764614.0,arrestin domain containing 3,True,False,Intron
+cg20615601,PURA,chr5,140115517.0,3' UTR,1408.0,purine rich element binding protein A,True,False,threeUTR
+cg20945212,PPP2R2B,chr5,146701093.0,3' UTR,177548.0,protein phosphatase 2 regulatory subunit Bbeta,True,False,threeUTR
+cg21084050,PDLIM7,chr5,177490561.0,"Exon (ENST00000355572.6/9260, exon 8 of 8)",6999.0,PDZ and LIM domain 7,True,False,Exon
+cg21482536,SSBP2,chr5,81751012.0,Promoter (<=1kb),240.0,single stranded DNA binding protein 2,True,True,fiveUTR
+cg21617338,MEF2C-AS1,chr5,88884021.0,Promoter (<=1kb),693.0,MEF2C antisense RNA 1,True,True,Promoter
+cg21956144,CXXC5,chr5,139709400.0,"Intron (ENST00000515296.1/ENST00000515296.1, intron 2 of 5)",28442.0,CXXC finger protein 5,True,False,Intron
+cg22234802,RBM27,chr5,146230899.0,"Exon (ENST00000506502.2/54439, exon 6 of 20)",27349.0,RNA binding motif protein 27,True,False,Exon
+cg22560410,NRG2,chr5,140043040.0,Promoter (<=1kb),258.0,neuregulin 2,True,True,Exon
+cg23089474,SPRY4-AS1,chr5,142357056.0,"Intron (ENST00000510311.5/101926941, intron 3 of 3)",31763.0,SPRY4 antisense RNA 1,True,False,Intron
+cg23573900,CXXC5,chr5,139677209.0,"Intron (ENST00000502295.1/51523, intron 1 of 1)",29910.0,CXXC finger protein 5,True,False,Intron
+cg24119607,CXXC5,chr5,139668154.0,"Intron (ENST00000502295.1/51523, intron 1 of 1)",20855.0,CXXC finger protein 5,True,False,Intron
+cg24312350,NRG2,chr5,140042541.0,Promoter (<=1kb),757.0,neuregulin 2,True,True,Exon
+cg24352905,OTP,chr5,77645452.0,Promoter (5-6kb),-5765.0,orthopedia homeobox,False,True,Promoter
+cg24927890,SYNPO,chr5,150600964.0,Promoter (<=1kb),-115.0,synaptopodin,False,True,Promoter
+cg26014931,LOC101929154,chr5,77973118.0,Distal Intergenic,14875.0,uncharacterized LOC101929154,False,False,Intergenic_downstream
+cg26081366,HNRNPH1,chr5,179619396.0,"Exon (ENST00000393432.8/3187, exon 5 of 14)",4265.0,heterogeneous nuclear ribonucleoprotein H1,True,False,Exon
+cg26234822,RBM27,chr5,146251755.0,"Exon (ENST00000265271.7/54439, exon 9 of 21)",48205.0,RNA binding motif protein 27,True,False,Exon
+cg26472530,NR2F1-AS1,chr5,93585332.0,Promoter (<=1kb),289.0,NR2F1 antisense RNA 1,True,True,Exon
+cg26589497,PURA,chr5,140114941.0,Promoter (<=1kb),832.0,purine rich element binding protein A,True,True,Exon
+cg26659116,ZSWIM6,chr5,61472848.0,"Exon (ENST00000252744.6/57688, exon 2 of 14)",140590.0,zinc finger SWIM-type containing 6,True,False,Exon
+cg26844246,TLX3,chr5,171309273.0,Promoter (<=1kb),25.0,T cell leukemia homeobox 3,True,True,fiveUTR
+cg26845448,KCNN2,chr5,114362796.0,5' UTR,307251.0,potassium calcium-activated channel subfamily N member 2,True,False,fiveUTR
+cg26879535,LOC102546299,chr5,165105792.0,"Intron (ENST00000670703.1/ENST00000670703.1, intron 7 of 7)",808808.0,uncharacterized LOC102546299,True,False,Intron
+cg26885075,LINC00461,chr5,88555621.0,"Intron (ENST00000506978.5/645323, intron 3 of 6)",129186.0,long intergenic non-protein coding RNA 461,True,False,Intron
+cg27088374,CLINT1,chr5,157816777.0,"Exon (ENST00000523094.5/9685, exon 3 of 12)",42367.0,clathrin interactor 1,True,False,Exon
+cg00689383,GRM1,chr6,146399362.0,"Exon (ENST00000492807.6/2911, exon 8 of 10)",371580.0,glutamate metabotropic receptor 1,True,False,Exon
+cg01224972,AFG1L,chr6,108280569.0,Distal Intergenic,-14421.0,AFG1 like ATPase,False,False,Intergenic_upstream
+cg02041553,SYNCRIP,chr6,85614958.0,"Exon (ENST00000369622.8/10492, exon 11 of 11)",27963.0,synaptotagmin binding cytoplasmic RNA interacting protein,True,False,Exon
+cg02284095,SRSF3,chr6,36600231.0,3' UTR,5869.0,serine and arginine rich splicing factor 3,True,False,threeUTR
+cg02963786,TFAP2A,chr6,10395521.0,"Intron (ENST00000461628.5/7020, intron 2 of 2)",9072.0,transcription factor AP-2 alpha,True,False,Intron
+cg03127034,FOXP4,chr6,41593569.0,"Intron (ENST00000373060.5/116113, intron 13 of 16)",47143.0,forkhead box P4,True,False,Intron
+cg04087693,TFAP2D,chr6,50718303.0,"Intron (ENST00000008391.3/83741, intron 2 of 7)",4475.0,transcription factor AP-2 delta,True,False,Intron
+cg05330587,TFAP2D,chr6,50715397.0,"Exon (ENST00000008391.3/83741, exon 2 of 8)",1569.0,transcription factor AP-2 delta,True,False,Exon
+cg05844937,FOXC1,chr6,1613906.0,Distal Intergenic,3991.0,forkhead box C1,False,False,Intergenic_downstream
+cg06472065,SYNGAP1,chr6,33426669.0,Promoter (<=1kb),0.0,synaptic Ras GTPase activating protein 1,True,True,Exon
+cg07476673,DLL1,chr6,170293832.0,"Intron (ENST00000630384.2/84498, intron 1 of 10)",12684.0,delta like canonical Notch ligand 1,True,False,Intron
+cg08681110,MARCKS,chr6,113857322.0,Promoter (<=1kb),-22.0,myristoylated alanine rich protein kinase C substrate,False,True,Promoter
+cg09618893,EHMT2,chr6,31888996.0,"Exon (ENST00000480912.5/10919, exon 8 of 26)",7459.0,euchromatic histone lysine methyltransferase 2,True,False,Exon
+cg09817427,TBX18,chr6,84764595.0,Promoter (<=1kb),2.0,T-box transcription factor 18,True,True,fiveUTR
+cg10487127,ATXN1-AS1,chr6,16761437.0,Promoter (<=1kb),299.0,ATXN1 antisense RNA 1,True,True,fiveUTR
+cg10757510,PDSS2,chr6,107293217.0,"Intron (ENST00000369037.9/57107, intron 2 of 7)",166346.0,decaprenyl diphosphate synthase subunit 2,True,False,Intron
+cg10792727,HIVEP1,chr6,12013234.0,"Intron (ENST00000491710.5/3096, intron 1 of 3)",4472.0,HIVEP zinc finger 1,True,False,Intron
+cg10893516,PTCHD4,chr6,48068585.0,Promoter (<=1kb),103.0,patched domain containing 4,True,True,Exon
+cg11614630,DLL1,chr6,170293823.0,"Intron (ENST00000630384.2/84498, intron 1 of 10)",12693.0,delta like canonical Notch ligand 1,True,False,Intron
+cg13153497,FAXC,chr6,99349136.0,Promoter (<=1kb),537.0,"failed axon connections homolog, metaxin like GST domain containing",True,True,Exon
+cg13160087,POU3F2,chr6,98455100.0,Distal Intergenic,-379473.0,POU class 3 homeobox 2,False,False,Intergenic_upstream
+cg14116948,SUPT3H,chr6,44932730.0,"Exon (ENST00000475057.5/8464, exon 10 of 12)",445222.0,"SPT3 homolog, SAGA and STAGA complex component",True,False,Exon
+cg14155184,TMEM63B,chr6,44152688.0,"Exon (ENST00000259746.13/55362, exon 20 of 24)",25774.0,transmembrane protein 63B,True,False,Exon
+cg14360110,FOXP4,chr6,41593678.0,"Intron (ENST00000373060.5/116113, intron 13 of 16)",47252.0,forkhead box P4,True,False,Intron
+cg14794469,SOX4,chr6,21598085.0,3' UTR,4334.0,SRY-box transcription factor 4,True,False,threeUTR
+cg14865782,TFAP2D,chr6,50715409.0,"Exon (ENST00000008391.3/83741, exon 2 of 8)",1581.0,transcription factor AP-2 delta,True,False,Exon
+cg15301611,OSTM1,chr6,108114691.0,"Intron (ENST00000440575.6/28962, intron 2 of 6)",51148.0,osteoclastogenesis associated transmembrane protein 1,True,False,Intron
+cg15813523,JARID2,chr6,15508396.0,"Exon (ENST00000341776.7/3720, exon 12 of 18)",262327.0,jumonji and AT-rich interaction domain containing 2,True,False,Exon
+cg16356803,NRN1,chr6,6006777.0,Promoter (<=1kb),147.0,neuritin 1,True,True,fiveUTR
+cg16867657,ELOVL2-AS1,chr6,11044644.0,"Exon (ENST00000607275.6/100506409, exon 1 of 3)",1162.0,ELOVL2 antisense RNA 1,True,False,Exon
+cg17215796,RIMS1,chr6,72266042.0,"Exon (ENST00000491071.6/22999, exon 20 of 28)",379339.0,regulating synaptic membrane exocytosis 1,True,False,Exon
+cg17266282,LINC02527,chr6,111973329.0,Distal Intergenic,-63910.0,long intergenic non-protein coding RNA 2527,False,False,Intergenic_upstream
+cg17668518,PRDM13,chr6,99604583.0,Promoter (2-3kb),-2146.0,PR/SET domain 13,False,True,Promoter
+cg17783618,SAMD5,chr6,147868304.0,"Intron (ENST00000427015.1/ENST00000427015.1, intron 1 of 2)",359078.0,sterile alpha motif domain containing 5,True,False,Intron
+cg17820491,HTR1B,chr6,77462515.0,"Exon (ENST00000369947.4/3351, exon 1 of 1)",1257.0,5-hydroxytryptamine receptor 1B,True,False,Exon
+cg18093751,NR2E1,chr6,108165979.0,Promoter (<=1kb),-78.0,nuclear receptor subfamily 2 group E member 1,False,True,Promoter
+cg18411550,L3MBTL3,chr6,130018588.0,Promoter (<=1kb),0.0,L3MBTL histone methyl-lysine binding protein 3,True,True,fiveUTR
+cg18468088,TULP1,chr6,35523041.0,Distal Intergenic,-10146.0,TUB like protein 1,False,False,Intergenic_upstream
+cg18918349,NR2E1,chr6,108165956.0,Promoter (<=1kb),-101.0,nuclear receptor subfamily 2 group E member 1,False,True,Promoter
+cg19098934,BACH2,chr6,90079771.0,"Intron (ENST00000257749.9/60468, intron 5 of 8)",217071.0,BTB domain and CNC homolog 2,True,False,Intron
+cg19109204,TFAP2B,chr6,50821677.0,"Intron (ENST00000344788.7/7021, intron 1 of 3)",2954.0,transcription factor AP-2 beta,True,False,Intron
+cg19323953,LOC100506207,chr6,8838794.0,"Exon (ENST00000643058.1/100506207, exon 5 of 5)",403226.0,uncharacterized LOC100506207,True,False,Exon
+cg19361075,ZFAND3,chr6,38119581.0,"Intron (ENST00000287218.9/60685, intron 5 of 5)",299854.0,zinc finger AN1-type containing 3,True,False,Intron
+cg19854621,C6orf62,chr6,24718649.0,Promoter (<=1kb),504.0,chromosome 6 open reading frame 62,True,True,Exon
+cg20212950,QKI,chr6,163566741.0,3' UTR,152741.0,"QKI, KH domain containing RNA binding",True,False,threeUTR
+cg21351544,TAB2,chr6,149369995.0,5' UTR,151354.0,TGF-beta activated kinase 1 (MAP3K7) binding protein 2,True,False,fiveUTR
+cg21703944,SCUBE3,chr6,35243580.0,"Intron (ENST00000274938.8/222663, intron 15 of 21)",29624.0,"signal peptide, CUB domain and EGF like domain containing 3",True,False,Intron
+cg22040809,HCG11,chr6,26522350.0,Promoter (<=1kb),641.0,HLA complex group 11,True,True,Exon
+cg22188876,SCUBE3,chr6,35243603.0,"Exon (ENST00000274938.8/222663, exon 16 of 22)",29647.0,"signal peptide, CUB domain and EGF like domain containing 3",True,False,Exon
+cg22457719,USP49,chr6,41798796.0,3' UTR,95363.0,ubiquitin specific peptidase 49,True,False,threeUTR
+cg23148651,SOX4,chr6,21593626.0,Promoter (<=1kb),-124.0,SRY-box transcription factor 4,True,True,Promoter
+cg23423329,FLOT1,chr6,30741603.0,"Exon (ENST00000376389.8/10211, exon 4 of 13)",1035.0,flotillin 1,True,False,Exon
+cg23646867,FOXP4,chr6,41593729.0,"Intron (ENST00000373060.5/116113, intron 13 of 16)",47303.0,forkhead box P4,True,False,Intron
+cg23687194,ID4,chr6,19839144.0,"Intron (ENST00000378700.8/3400, intron 2 of 2)",1774.0,"inhibitor of DNA binding 4, HLH protein",True,False,Intron
+cg24055081,HIVEP1,chr6,12013251.0,"Intron (ENST00000491710.5/3096, intron 1 of 3)",4489.0,HIVEP zinc finger 1,True,False,Intron
+cg24104506,TFAP2D,chr6,50718313.0,"Intron (ENST00000008391.3/83741, intron 2 of 7)",4485.0,transcription factor AP-2 delta,True,False,Intron
+cg25066947,OSTM1-AS1,chr6,108157712.0,"Exon (ENST00000658282.1/100287366, exon 2 of 2)",34255.0,OSTM1 antisense RNA 1,True,False,Exon
+cg25699407,ID4,chr6,19839215.0,3' UTR,1845.0,"inhibitor of DNA binding 4, HLH protein",True,False,threeUTR
+cg26603143,SOX4,chr6,21597740.0,3' UTR,3989.0,SRY-box transcription factor 4,True,False,threeUTR
+cg00096922,DLX5,chr7,97024873.0,Promoter (<=1kb),76.0,distal-less homeobox 5,True,True,fiveUTR
+cg00195533,FLNC,chr7,128832266.0,"Intron (ENST00000325888.12/2318, intron 1 of 47)",1889.0,filamin C,True,False,Intron
+cg00250826,CALU,chr7,128754670.0,"Exon (ENST00000542996.6/813, exon 4 of 8)",15378.0,calumenin,True,False,Exon
+cg00384342,DYNC1I1,chr7,96075137.0,"Intron (ENST00000537881.5/1780, intron 14 of 16)",302631.0,dynein cytoplasmic 1 intermediate chain 1,True,False,Intron
+cg00399596,MIR148A,chr7,25951186.0,Promoter (1-2kb),-1201.0,microRNA 148a,False,True,Promoter
+cg01019040,LHFPL3,chr7,104328968.0,Promoter (<=1kb),268.0,LHFPL tetraspan subfamily member 3,True,True,Exon
+cg01053290,FOXP2,chr7,114659903.0,"Intron (ENST00000412402.5/93986, intron 16 of 19)",573576.0,forkhead box P2,True,False,Intron
+cg03820088,TRA2A,chr7,23522229.0,5' UTR,9751.0,transformer 2 alpha homolog,True,False,fiveUTR
+cg04051518,CDK6,chr7,92755491.0,"Intron (ENST00000265734.8/1021, intron 3 of 7)",78425.0,cyclin dependent kinase 6,True,False,Intron
+cg05544360,GLI3,chr7,42153000.0,"Intron (ENST00000395925.8/2737, intron 2 of 14)",84208.0,GLI family zinc finger 3,True,False,Intron
+cg05861987,CADPS2,chr7,122329496.0,"Intron (ENST00000482375.5/ENST00000482375.5, intron 1 of 3)",556963.0,calcium dependent secretion activator 2,True,False,Intron
+cg07056567,GNB2,chr7,100676320.0,"Exon (ENST00000451587.5/2783, exon 2 of 9)",2753.0,G protein subunit beta 2,True,False,Exon
+cg07293320,UNCX,chr7,1237655.0,Distal Intergenic,4783.0,UNC homeobox,False,False,Intergenic_downstream
+cg07323940,DGKB,chr7,14197482.0,"Intron (ENST00000399322.7/1607, intron 22 of 24)",643919.0,diacylglycerol kinase beta,True,False,Intron
+cg07867602,FOXP2,chr7,114660309.0,"Intron (ENST00000412402.5/93986, intron 16 of 19)",573982.0,forkhead box P2,True,False,Intron
+cg08074329,IGF2BP3,chr7,23470655.0,Promoter (<=1kb),-165.0,insulin like growth factor 2 mRNA binding protein 3,False,True,Promoter
+cg08570512,DGKI,chr7,137623483.0,5' UTR,223052.0,diacylglycerol kinase iota,True,False,fiveUTR
+cg09108310,LINC-PINT,chr7,131107319.0,Promoter (<=1kb),608.0,"long intergenic non-protein coding RNA, p53 induced transcript",True,True,Promoter
+cg09474015,HOXA10-HOXA9,chr7,27165104.0,"Exon (ENST00000343483.7/3205, exon 1 of 2)",14908.0,HOXA10-HOXA9 readthrough,True,False,Exon
+cg09710440,LHFPL3,chr7,104328932.0,Promoter (<=1kb),232.0,LHFPL tetraspan subfamily member 3,True,True,Exon
+cg09784081,LINC-PINT,chr7,131107300.0,Promoter (<=1kb),627.0,"long intergenic non-protein coding RNA, p53 induced transcript",True,True,Promoter
+cg10042482,CUX1,chr7,101948104.0,"Intron (ENST00000437600.9/1523, intron 2 of 22)",132200.0,cut like homeobox 1,True,False,Intron
+cg10125423,UNCX,chr7,1239561.0,Distal Intergenic,6689.0,UNC homeobox,False,False,Intergenic_downstream
+cg11321459,HDAC9,chr7,18495640.0,"Intron (ENST00000417496.6/9734, intron 3 of 12)",408691.0,histone deacetylase 9,True,False,Intron
+cg11438204,CALU,chr7,128754286.0,"Exon (ENST00000535011.6/813, exon 3 of 6)",14994.0,calumenin,True,False,Exon
+cg11516694,HOXA-AS3,chr7,27147848.0,"Intron (ENST00000518848.5/100133311, intron 1 of 2)",17871.0,HOXA cluster antisense RNA 3,True,False,Intron
+cg11864223,HOXA10-HOXA9,chr7,27165020.0,"Exon (ENST00000343483.7/3205, exon 1 of 2)",14992.0,HOXA10-HOXA9 readthrough,True,False,Exon
+cg12307242,CADPS2,chr7,122328825.0,"Intron (ENST00000482375.5/ENST00000482375.5, intron 1 of 3)",557634.0,calcium dependent secretion activator 2,True,False,Intron
+cg12459916,HOXA-AS3,chr7,27143439.0,"Exon (ENST00000222726.4/3202, exon 1 of 2)",13462.0,HOXA cluster antisense RNA 3,True,False,Exon
+cg12685265,KMT2E,chr7,105015676.0,"Intron (ENST00000257745.8/55904, intron 1 of 25)",1486.0,lysine methyltransferase 2E,True,False,Intron
+cg12981876,GIGYF1,chr7,100682172.0,"Exon (ENST00000275732.5/64599, exon 22 of 24)",7275.0,GRB10 interacting GYF protein 1,True,False,Exon
+cg13188467,DLX6-AS1,chr7,96998781.0,"Intron (ENST00000430027.3/285987, intron 1 of 2)",15283.0,DLX6 antisense RNA 1,True,False,Intron
+cg14361627,KLF14,chr7,130734307.0,Promoter (<=1kb),-131.0,Kruppel like factor 14,False,True,Promoter
+cg14397160,AUTS2,chr7,70132461.0,"Intron (ENST00000644939.1/26053, intron 3 of 18)",534165.0,activator of transcription and developmental regulator AUTS2,True,False,Intron
+cg14548925,ATXN7L1,chr7,105876510.0,Promoter (<=1kb),93.0,ataxin 7 like 1,True,True,Exon
+cg14728312,AUTS2,chr7,70446526.0,"Intron (ENST00000644939.1/26053, intron 5 of 18)",848230.0,activator of transcription and developmental regulator AUTS2,True,False,Intron
+cg14991111,CNOT4,chr7,135394031.0,"Exon (ENST00000451834.5/4850, exon 10 of 12)",116048.0,CCR4-NOT transcription complex subunit 4,True,False,Exon
+cg15171944,MIR148A,chr7,25949963.0,Promoter (<=1kb),22.0,microRNA 148a,True,True,Exon
+cg15571405,MKLN1,chr7,131111408.0,"Intron (ENST00000421797.6/4289, intron 1 of 18)",1312.0,muskelin 1,True,False,Intron
+cg16701192,CREB5,chr7,28409311.0,"Intron (ENST00000396299.6/9586, intron 1 of 9)",109990.0,cAMP responsive element binding protein 5,True,False,Intron
+cg16848740,HOXA11,chr7,27184373.0,Promoter (<=1kb),849.0,homeobox A11,True,True,Promoter
+cg17311369,NEUROD6,chr7,31362864.0,Distal Intergenic,-22139.0,neuronal differentiation 6,False,False,Intergenic_upstream
+cg17455697,AGAP3,chr7,151136648.0,"Intron (ENST00000463381.5/116988, intron 11 of 15)",50781.0,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 3",True,False,Intron
+cg18691948,NXPH1,chr7,8441437.0,"Intron (ENST00000405863.6/30010, intron 2 of 2)",7828.0,neurexophilin 1,True,False,Intron
+cg19111172,CREB5,chr7,28409306.0,"Intron (ENST00000396299.6/9586, intron 1 of 9)",109985.0,cAMP responsive element binding protein 5,True,False,Intron
+cg19291109,LOC101927870,chr7,103482241.0,"Exon (ENST00000473945.1/5649, exon 4 of 4)",37034.0,uncharacterized LOC101927870,True,False,Exon
+cg19296935,ZPBP,chr7,50180223.0,Distal Intergenic,-58894.0,zona pellucida binding protein,False,False,Intergenic_upstream
+cg19319735,TNRC18,chr7,5423744.0,"Intron (ENST00000399434.2/84629, intron 1 of 2)",1669.0,trinucleotide repeat containing 18,True,False,Intron
+cg19663246,PDE1C,chr7,32299483.0,"Intron (ENST00000672256.1/5137, intron 1 of 1)",128647.0,phosphodiesterase 1C,True,False,Intron
+cg20705693,MIR148A,chr7,25951193.0,Promoter (1-2kb),-1208.0,microRNA 148a,False,True,Promoter
+cg20726505,LHFPL3,chr7,104328818.0,Promoter (<=1kb),118.0,LHFPL tetraspan subfamily member 3,True,True,fiveUTR
+cg22454306,LINC02860,chr7,26656018.0,Distal Intergenic,17561.0,long intergenic non-protein coding RNA 2860,False,False,Intergenic_downstream
+cg22661206,IKZF1,chr7,50382076.0,"Intron (ENST00000645066.1/10320, intron 3 of 5)",77993.0,IKAROS family zinc finger 1,True,False,Intron
+cg23059642,AUTS2,chr7,69599955.0,"Exon (ENST00000644939.1/26053, exon 1 of 19)",1659.0,activator of transcription and developmental regulator AUTS2,True,False,Exon
+cg23126309,FOXP2,chr7,114415330.0,5' UTR,329003.0,forkhead box P2,True,False,fiveUTR
+cg24977387,FOXP2,chr7,114431542.0,"Intron (ENST00000412402.5/93986, intron 3 of 19)",345215.0,forkhead box P2,True,False,Intron
+cg25073174,ATXN7L1,chr7,105639406.0,"Intron (ENST00000419735.7/222255, intron 6 of 11)",237197.0,ataxin 7 like 1,True,False,Intron
+cg25468783,AGAP3,chr7,151136533.0,"Exon (ENST00000467250.1/116988, exon 2 of 2)",50666.0,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 3",True,False,Exon
+cg25960060,HOXA7,chr7,27156519.0,Promoter (<=1kb),155.0,homeobox A7,True,True,Exon
+cg26154615,AUTS2,chr7,70446597.0,"Intron (ENST00000644939.1/26053, intron 5 of 18)",848301.0,activator of transcription and developmental regulator AUTS2,True,False,Intron
+cg26312920,NEUROD6,chr7,31340776.0,Promoter (<=1kb),-51.0,neuronal differentiation 6,False,True,Promoter
+cg26420776,UNCX,chr7,1237756.0,Distal Intergenic,4884.0,UNC homeobox,False,False,Intergenic_downstream
+cg26512254,HOTTIP,chr7,27200144.0,"Intron (ENST00000421733.1/100316868, intron 1 of 1)",1569.0,HOXA distal transcript antisense RNA,True,False,Intron
+cg26973693,UNCX,chr7,1232388.0,Promoter (<=1kb),-483.0,UNC homeobox,False,True,Promoter
+cg27072792,GTF2IRD1,chr7,74453839.0,Promoter (<=1kb),49.0,GTF2I repeat domain containing 1,True,True,fiveUTR
+cg27657271,CUX1,chr7,101816336.0,Promoter (<=1kb),432.0,cut like homeobox 1,True,True,Promoter
+cg02040024,EGR3,chr8,22691369.0,3' UTR,2110.0,early growth response 3,True,False,threeUTR
+cg02273345,CSMD3,chr8,112408371.0,"Exon (ENST00000343508.7/114788, exon 35 of 72)",968781.0,CUB and Sushi multiple domains 3,True,False,Exon
+cg03513784,EBF2,chr8,25909498.0,"Intron (ENST00000520164.6/64641, intron 6 of 15)",135914.0,EBF transcription factor 2,True,False,Intron
+cg03962027,ZFPM2,chr8,105321706.0,"Intron (ENST00000518180.1/23414, intron 4 of 4)",617987.0,"zinc finger protein, FOG family member 2",True,False,Intron
+cg04680480,MAFA,chr8,143429571.0,"Exon (ENST00000528185.1/ENST00000528185.1, exon 1 of 2)",1160.0,MAF bZIP transcription factor A,True,False,Exon
+cg04847707,CHD7,chr8,60822702.0,"Exon (ENST00000423902.7/55636, exon 12 of 38)",143962.0,chromodomain helicase DNA binding protein 7,True,False,Exon
+cg06250511,NSMCE2,chr8,125219571.0,"Intron (ENST00000517532.5/286053, intron 5 of 6)",127727.0,"NSE2 (MMS21) homolog, SMC5-SMC6 complex SUMO ligase",True,False,Intron
+cg06878766,PLAG1,chr8,56210721.0,Promoter (<=1kb),551.0,PLAG1 zinc finger,True,True,Promoter
+cg08247363,LINC01414,chr8,64267135.0,"Intron (ENST00000523191.5/102724623, intron 1 of 5)",101422.0,long intergenic non-protein coding RNA 1414,True,False,Intron
+cg08321639,TRPS1,chr8,115668975.0,Promoter (<=1kb),25.0,transcriptional repressor GATA binding 1,True,True,fiveUTR
+cg09681292,ST18,chr8,52327626.0,"Intron (ENST00000276480.11/9705, intron 2 of 25)",82116.0,ST18 C2H2C-type zinc finger transcription factor,True,False,Intron
+cg10681713,KCNU1,chr8,37147888.0,Distal Intergenic,218983.0,potassium calcium-activated channel subfamily U member 1,False,False,Intergenic_downstream
+cg11728741,ANK1,chr8,41896469.0,Promoter (<=1kb),292.0,ankyrin 1,True,True,Exon
+cg11765970,EXT1,chr8,118110695.0,"Exon (ENST00000378204.6/2131, exon 1 of 11)",1157.0,exostosin glycosyltransferase 1,True,False,Exon
+cg12289788,KCNU1,chr8,37206152.0,Distal Intergenic,277247.0,potassium calcium-activated channel subfamily U member 1,False,False,Intergenic_downstream
+cg12382554,ZFPM2,chr8,104869303.0,"Intron (ENST00000521923.5/ENST00000521923.5, intron 4 of 4)",165584.0,"zinc finger protein, FOG family member 2",True,False,Intron
+cg12813831,LOC100505501,chr8,59657932.0,Distal Intergenic,537986.0,uncharacterized LOC100505501,False,False,Intergenic_downstream
+cg12815291,ZC3H3,chr8,143439468.0,"Intron (ENST00000262577.6/23144, intron 11 of 11)",101978.0,zinc finger CCCH-type containing 3,True,False,Intron
+cg13087210,KHDRBS3,chr8,135542684.0,"Exon (ENST00000355849.10/10656, exon 3 of 9)",85228.0,"KH RNA binding domain containing, signal transduction associated 3",True,False,Exon
+cg15391310,RUNX1T1,chr8,92169298.0,Distal Intergenic,-66013.0,RUNX1 partner transcriptional co-repressor 1,False,False,Intergenic_upstream
+cg16296826,ADGRB1,chr8,142449388.0,Promoter (<=1kb),-41.0,adhesion G protein-coupled receptor B1,False,True,Promoter
+cg18168101,BAALC-AS2,chr8,103141399.0,Promoter (<=1kb),75.0,BAALC antisense RNA 2,True,True,Promoter
+cg18502834,EGR3,chr8,22692929.0,Promoter (<=1kb),550.0,early growth response 3,True,True,Exon
+cg18635807,EYA1,chr8,71354785.0,"Exon (ENST00000388742.8/2138, exon 2 of 17)",1892.0,EYA transcriptional coactivator and phosphatase 1,True,False,Exon
+cg19384462,GPAT4,chr8,41629387.0,Distal Intergenic,10681.0,glycerol-3-phosphate acyltransferase 4,False,False,Intergenic_downstream
+cg19643847,ZFPM2,chr8,104869327.0,"Intron (ENST00000521923.5/ENST00000521923.5, intron 4 of 4)",165608.0,"zinc finger protein, FOG family member 2",True,False,Intron
+cg19691778,GDF6,chr8,96145528.0,"Intron (ENST00000287020.7/392255, intron 1 of 1)",15277.0,growth differentiation factor 6,True,False,Intron
+cg22146484,PLAG1,chr8,56211303.0,Promoter (<=1kb),20.0,PLAG1 zinc finger,True,True,Exon
+cg22416332,XPO7,chr8,21990865.0,"Exon (ENST00000252512.14/23039, exon 18 of 28)",71203.0,exportin 7,True,False,Exon
+cg22882174,FGFR1,chr8,38423109.0,"Exon (ENST00000341462.8/2260, exon 8 of 19)",44597.0,fibroblast growth factor receptor 1,True,False,Exon
+cg23076498,ZFHX4-AS1,chr8,76681260.0,5' UTR,1895.0,ZFHX4 antisense RNA 1,True,False,fiveUTR
+cg23108693,GPAT4,chr8,41629392.0,Distal Intergenic,10686.0,glycerol-3-phosphate acyltransferase 4,False,False,Intergenic_downstream
+cg23274273,NSD3,chr8,38317888.0,3' UTR,64382.0,nuclear receptor binding SET domain protein 3,True,False,threeUTR
+cg25217825,LINC02055,chr8,136042419.0,"Intron (ENST00000650054.1/ENST00000650054.1, intron 2 of 5)",-155826.0,long intergenic non-protein coding RNA 2055,True,False,Intron
+cg26045960,PDE7A,chr8,65841464.0,Promoter (<=1kb),487.0,phosphodiesterase 7A,True,True,Exon
+cg02499612,LMX1B,chr9,126615424.0,Promoter (<=1kb),981.0,LIM homeobox transcription factor 1 beta,True,True,Exon
+cg03320248,MED27,chr9,132099317.0,Distal Intergenic,-19451.0,mediator complex subunit 27,False,False,Intergenic_upstream
+cg03942000,MIR219A2,chr9,128393488.0,Promoter (<=1kb),21.0,microRNA 219a-2,True,True,Exon
+cg04111974,MVB12B,chr9,126429465.0,"Intron (ENST00000361171.8/89853, intron 7 of 9)",102636.0,multivesicular body subunit 12B,True,False,Intron
+cg04902782,MLLT3,chr9,20379093.0,"Intron (ENST00000380338.9/4300, intron 5 of 10)",243405.0,MLLT3 super elongation complex subunit,True,False,Intron
+cg05111574,MLLT3,chr9,20619597.0,"Intron (ENST00000380338.9/4300, intron 2 of 10)",2901.0,MLLT3 super elongation complex subunit,True,False,Intron
+cg06220792,INVS,chr9,100168552.0,"Intron (ENST00000262457.7/27130, intron 3 of 16)",69309.0,inversin,True,False,Intron
+cg06799948,NFIB,chr9,14314636.0,"Intron (ENST00000635877.1/4781, intron 1 of 9)",7311.0,nuclear factor I B,True,False,Intron
+cg08026739,KLF4,chr9,107638135.0,Distal Intergenic,-147654.0,Kruppel like factor 4,False,False,Intergenic_upstream
+cg08160490,NFIB,chr9,14087940.0,3' UTR,92861.0,nuclear factor I B,True,False,threeUTR
+cg08538268,ELAVL2,chr9,23765097.0,5' UTR,56177.0,ELAV like RNA binding protein 2,True,False,fiveUTR
+cg08912313,CNTLN,chr9,17502326.0,"Intron (ENST00000380647.8/54875, intron 25 of 25)",367286.0,centlein,True,False,Intron
+cg09009312,DENND1A,chr9,123654382.0,"Intron (ENST00000473039.5/57706, intron 6 of 17)",144132.0,DENN domain containing 1A,True,False,Intron
+cg09191327,PRDM12,chr9,130664721.0,Promoter (<=1kb),127.0,PR/SET domain 12,True,True,Exon
+cg09377007,MLLT3,chr9,20603560.0,"Intron (ENST00000380338.9/4300, intron 2 of 10)",18938.0,MLLT3 super elongation complex subunit,True,False,Intron
+cg10013179,KLF4,chr9,107638123.0,Distal Intergenic,-147642.0,Kruppel like factor 4,False,False,Intergenic_upstream
+cg10186512,MAPKAP1,chr9,125546052.0,"Intron (ENST00000373511.6/79109, intron 6 of 10)",161178.0,MAPK associated protein 1,True,False,Intron
+cg10404717,MIR219B,chr9,128392683.0,Promoter (<=1kb),62.0,microRNA 219b,True,True,Exon
+cg10439738,MAPKAP1,chr9,125542176.0,"Intron (ENST00000373511.6/79109, intron 7 of 10)",165054.0,MAPK associated protein 1,True,False,Intron
+cg10932472,PBX3,chr9,125885630.0,"Intron (ENST00000342287.9/5090, intron 2 of 7)",138285.0,PBX homeobox 3,True,False,Intron
+cg10975089,TLE1,chr9,81683503.0,"Intron (ENST00000376499.8/7088, intron 4 of 19)",6043.0,"TLE family member 1, transcriptional corepressor",True,False,Intron
+cg12648670,PTPRD-AS2,chr9,10615210.0,"Intron (ENST00000429581.2/101929428, intron 1 of 2)",2008.0,PTPRD antisense RNA 2 (head to head),True,False,Intron
+cg12850734,ZNF618,chr9,113965190.0,"Intron (ENST00000374126.9/114991, intron 1 of 14)",88908.0,zinc finger protein 618,True,False,Intron
+cg13959241,NACC2,chr9,136012869.0,"Intron (ENST00000371753.5/138151, intron 4 of 4)",37710.0,NACC family member 2,True,False,Intron
+cg14136214,DAB2IP,chr9,121783622.0,3' UTR,216520.0,DAB2 interacting protein,True,False,threeUTR
+cg15254020,DENND1A,chr9,123422950.0,"Intron (ENST00000473039.5/57706, intron 14 of 17)",375564.0,DENN domain containing 1A,True,False,Intron
+cg15437942,LHX2,chr9,124018172.0,"Intron (ENST00000373615.9/9355, intron 3 of 4)",6404.0,LIM homeobox 2,True,False,Intron
+cg16454989,GRIN3A,chr9,101737926.0,Promoter (<=1kb),653.0,glutamate ionotropic receptor NMDA type subunit 3A,True,True,Exon
+cg16571746,NFIB,chr9,14314661.0,"Intron (ENST00000635877.1/4781, intron 1 of 9)",7286.0,nuclear factor I B,True,False,Intron
+cg16764258,DENND1A,chr9,123422862.0,"Intron (ENST00000473039.5/57706, intron 14 of 17)",375652.0,DENN domain containing 1A,True,False,Intron
+cg17365410,MIR4475,chr9,36819253.0,"Intron (ENST00000658385.1/ENST00000658385.1, intron 2 of 2)",4345.0,microRNA 4475,True,False,Intron
+cg17437489,PBX3,chr9,125763666.0,"Intron (ENST00000342287.9/5090, intron 2 of 7)",16321.0,PBX homeobox 3,True,False,Intron
+cg17516812,BNC2,chr9,16773158.0,"Intron (ENST00000380672.9/54796, intron 1 of 6)",97511.0,basonuclin 2,True,False,Intron
+cg17604804,PTCH1,chr9,95460145.0,"Intron (ENST00000331920.10/5727, intron 16 of 23)",48515.0,patched 1,True,False,Intron
+cg17856858,S1PR3,chr9,89001452.0,"Exon (ENST00000358157.3/1903, exon 2 of 2)",9984.0,sphingosine-1-phosphate receptor 3,True,False,Exon
+cg19342019,LINC01507,chr9,79936513.0,Distal Intergenic,-38509.0,long intergenic non-protein coding RNA 1507,False,False,Intergenic_upstream
+cg19614548,LURAP1L-AS1,chr9,12775767.0,"Exon (ENST00000319264.4/286343, exon 1 of 2)",38577.0,LURAP1L antisense RNA 1,True,False,Exon
+cg19756587,MIR181A2HG,chr9,124658727.0,Promoter (<=1kb),260.0,MIR181A2 host gene,True,True,Exon
+cg20194417,NPR2,chr9,35801926.0,"Exon (ENST00000342694.6/4882, exon 9 of 22)",9772.0,natriuretic peptide receptor 2,True,False,Exon
+cg20331456,MLLT3,chr9,20606794.0,"Intron (ENST00000380338.9/4300, intron 2 of 10)",15704.0,MLLT3 super elongation complex subunit,True,False,Intron
+cg20766695,PAX5,chr9,37026581.0,"Intron (ENST00000358127.9/5079, intron 1 of 9)",7686.0,paired box 5,True,False,Intron
+cg21633990,COL5A1,chr9,134830033.0,"Exon (ENST00000371817.7/1289, exon 64 of 66)",188259.0,collagen type V alpha 1 chain,True,False,Exon
+cg21694863,FBXW2,chr9,120788196.0,"Exon (ENST00000608872.6/26190, exon 3 of 8)",5219.0,F-box and WD repeat domain containing 2,True,False,Exon
+cg22661680,LINC01505,chr9,106638018.0,"Intron (ENST00000637185.1/100996590, intron 3 of 7)",644708.0,long intergenic non-protein coding RNA 1505,True,False,Intron
+cg23510032,SMARCA2,chr9,2159889.0,"Exon (ENST00000635133.1/6595, exon 2 of 6)",144703.0,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",True,False,Exon
+cg24024857,NR6A1,chr9,124769884.0,"Intron (ENST00000487099.7/2649, intron 1 of 9)",1426.0,nuclear receptor subfamily 6 group A member 1,True,False,Intron
+cg24557436,TLE1,chr9,81687376.0,"Exon (ENST00000376499.8/7088, exon 2 of 20)",2170.0,"TLE family member 1, transcriptional corepressor",True,False,Exon
+cg24638399,PBX3,chr9,125845524.0,"Intron (ENST00000342287.9/5090, intron 2 of 7)",98179.0,PBX homeobox 3,True,False,Intron
+cg25108269,MVB12B,chr9,126437685.0,"Intron (ENST00000361171.8/89853, intron 7 of 9)",110856.0,multivesicular body subunit 12B,True,False,Intron
+cg25229850,CNTLN,chr9,17332620.0,"Exon (ENST00000380647.8/54875, exon 10 of 26)",197580.0,centlein,True,False,Exon
+cg25430089,PBX3,chr9,125763648.0,"Intron (ENST00000342287.9/5090, intron 2 of 7)",16303.0,PBX homeobox 3,True,False,Intron
+cg25651791,NR6A1,chr9,124769837.0,"Intron (ENST00000487099.7/2649, intron 1 of 9)",1473.0,nuclear receptor subfamily 6 group A member 1,True,False,Intron
+cg25905455,LINC00963,chr9,129437326.0,"Intron (ENST00000436510.1/ENST00000436510.1, intron 1 of 1)",-39620.0,long intergenic non-protein coding RNA 963,True,False,Intron
+cg26275174,SMARCA2,chr9,2159835.0,"Exon (ENST00000635133.1/6595, exon 2 of 6)",144649.0,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",True,False,Exon
+cg26425570,KLF9,chr9,70406687.0,"Intron (ENST00000377126.3/687, intron 1 of 1)",7936.0,Kruppel like factor 9,True,False,Intron
+cg26581729,NPDC1,chr9,137045340.0,Promoter (<=1kb),836.0,"neural proliferation, differentiation and control 1",True,True,Promoter
+cg26616379,PTCH1,chr9,95506573.0,5' UTR,2087.0,patched 1,True,False,fiveUTR
+cg26917960,DENND1A,chr9,123422796.0,"Intron (ENST00000473039.5/57706, intron 14 of 17)",375718.0,DENN domain containing 1A,True,False,Intron
+cg26920416,CACNA1B,chr9,138102700.0,"Intron (ENST00000371372.6/774, intron 37 of 46)",224918.0,calcium voltage-gated channel subunit alpha1 B,True,False,Intron
+cg27547112,HNRNPK,chr9,83973650.0,"Intron (ENST00000448389.1/ENST00000448389.1, intron 1 of 1)",6564.0,heterogeneous nuclear ribonucleoprotein K,True,False,Intron
+cg01090334,CNKSR2,chrX,21516521.0,3' UTR,143720.0,connector enhancer of kinase suppressor of Ras 2,True,False,threeUTR
+cg01301326,BCOR,chrX,40155180.0,"Intron (ENST00000378455.8/54880, intron 1 of 13)",22148.0,BCL6 corepressor,True,False,Intron
+cg01797373,FHL1,chrX,136169556.0,5' UTR,22854.0,four and a half LIM domains 1,True,False,fiveUTR
+cg02287493,CNKSR2,chrX,21374917.0,"Exon (ENST00000642359.1/22866, exon 1 of 21)",2116.0,connector enhancer of kinase suppressor of Ras 2,True,False,Exon
+cg02606236,DMD,chrX,31178668.0,"Exon (ENST00000378723.7/1756, exon 9 of 17)",88283.0,dystrophin,True,False,Exon
+cg03222030,OGT,chrX,71547046.0,"Exon (ENST00000488174.5/8473, exon 4 of 20)",13942.0,O-linked N-acetylglucosamine (GlcNAc) transferase,True,False,Exon
+cg04103301,OGT,chrX,71547703.0,"Exon (ENST00000488174.5/8473, exon 4 of 20)",14599.0,O-linked N-acetylglucosamine (GlcNAc) transferase,True,False,Exon
+cg04958293,CASK,chrX,41520354.0,3' UTR,402814.0,calcium/calmodulin dependent serine protein kinase,True,False,threeUTR
+cg05620664,MIR106A,chrX,134187454.0,Distal Intergenic,-17177.0,microRNA 106a,False,False,Intergenic_upstream
+cg05901294,NLGN3,chrX,71148868.0,"Exon (ENST00000358741.3/54413, exon 3 of 8)",4037.0,neuroligin 3,True,False,Exon
+cg07117595,FHL1,chrX,136209314.0,"Exon (ENST00000394155.8/2273, exon 7 of 8)",62612.0,four and a half LIM domains 1,True,False,Exon
+cg07459759,EDA,chrX,69615634.0,Promoter (<=1kb),-432.0,ectodysplasin A,False,True,Promoter
+cg08430237,RBM10,chrX,47171262.0,"Intron (ENST00000377604.8/8241, intron 4 of 23)",26041.0,RNA binding motif protein 10,True,False,Intron
+cg09337540,BCOR,chrX,40168824.0,"Intron (ENST00000378455.8/54880, intron 1 of 13)",8504.0,BCL6 corepressor,True,False,Intron
+cg09939922,ARHGAP4,chrX,153932370.0,"Exon (ENST00000494813.5/393, exon 5 of 14)",2628.0,Rho GTPase activating protein 4,True,False,Exon
+cg10128645,TBC1D8B,chrX,106848291.0,"Exon (ENST00000357242.10/54885, exon 11 of 21)",45618.0,TBC1 domain family member 8B,True,False,Exon
+cg10426441,TSPYL2,chrX,53083258.0,Promoter (<=1kb),891.0,TSPY like 2,True,True,Exon
+cg11108049,NLGN3,chrX,71153499.0,"Exon (ENST00000612180.4/54413, exon 3 of 8)",8668.0,neuroligin 3,True,False,Exon
+cg12325485,BCOR,chrX,40146141.0,"Intron (ENST00000378455.8/54880, intron 1 of 13)",31187.0,BCL6 corepressor,True,False,Intron
+cg13068315,OGT,chrX,71546390.0,"Exon (ENST00000488174.5/8473, exon 4 of 20)",13286.0,O-linked N-acetylglucosamine (GlcNAc) transferase,True,False,Exon
+cg15600660,CSTF2,chrX,100830839.0,"Exon (ENST00000415585.6/1478, exon 9 of 15)",10480.0,cleavage stimulation factor subunit 2,True,False,Exon
+cg17829569,LINC01282,chrX,39514829.0,Distal Intergenic,-123023.0,long intergenic non-protein coding RNA 1282,False,False,Intergenic_upstream
+cg19450032,FHL1,chrX,136208580.0,"Exon (ENST00000629039.2/2273, exon 6 of 7)",61878.0,four and a half LIM domains 1,True,False,Exon
+cg22212874,CASK,chrX,41519436.0,3' UTR,403732.0,calcium/calmodulin dependent serine protein kinase,True,False,threeUTR
+cg22710034,RBMX,chrX,136874425.0,3' UTR,6299.0,RNA binding motif protein X-linked,True,False,threeUTR
+cg22901671,FRMPD3,chrX,107604355.0,3' UTR,81905.0,FERM and PDZ domain containing 3,True,False,threeUTR
+cg23120731,PJA1,chrX,69082336.0,Distal Intergenic,83101.0,praja ring finger ubiquitin ligase 1,False,False,Intergenic_downstream
+cg23292987,EDA,chrX,69617284.0,3' UTR,1217.0,ectodysplasin A,True,False,threeUTR
+cg23597501,BCOR,chrX,40189345.0,Distal Intergenic,-12017.0,BCL6 corepressor,False,False,Intergenic_upstream
+cg25326872,BCOR,chrX,40005294.0,Distal Intergenic,50938.0,BCL6 corepressor,False,False,Intergenic_downstream
+cg25467897,NLGN3,chrX,71153510.0,"Exon (ENST00000612180.4/54413, exon 3 of 8)",8679.0,neuroligin 3,True,False,Exon
+cg25906744,LOC389895,chrX,140088074.0,Promoter (3-4kb),-3668.0,chromosome 16 open reading frame 72-like,False,True,Promoter
+cg26748472,BCOR,chrX,40154474.0,"Intron (ENST00000378455.8/54880, intron 1 of 13)",22854.0,BCL6 corepressor,True,False,Intron
+cg26989456,GPR101,chrX,137237781.0,Distal Intergenic,-206108.0,G protein-coupled receptor 101,False,False,Intergenic_upstream
+cg27035369,BCOR,chrX,40155247.0,"Intron (ENST00000378455.8/54880, intron 1 of 13)",22081.0,BCL6 corepressor,True,False,Intron
+cg27069680,MED12,chrX,71129831.0,"Exon (ENST00000333646.10/9968, exon 27 of 45)",11275.0,mediator complex subunit 12,True,False,Exon
+cg27208859,GPC3,chrX,133999650.0,Distal Intergenic,-13755.0,glypican 3,False,False,Intergenic_upstream

@@ -1,0 +1,68 @@
+{
+  "species": "Tursiops truncatus (bottlenose dolphin)",
+  "tissue": "Blood",
+  "n_samples": 50,
+  "n_cpgs": 37554,
+  "age_range_years": [
+    0.572210815,
+    57.87
+  ],
+  "traits": {
+    "max_age": 67.0,
+    "gestation_y": 1.03013698630137,
+    "maturity_y": 8.93150684931507,
+    "high_max_age": 87.10000000000001
+  },
+  "published_clocks": {
+    "clock1": {
+      "pearson_r": 0.8472374018858688,
+      "median_AE": 2.8409557902094074,
+      "mean_AE": 5.023164737306528,
+      "n_cpgs_used": 335
+    },
+    "clock2": {
+      "pearson_r": 0.948054227323645,
+      "median_AE": 1.9071762761036588,
+      "mean_AE": 3.1031982435622454,
+      "n_cpgs_used": 816
+    },
+    "clock3": {
+      "pearson_r": 0.9106106432406756,
+      "median_AE": 2.108479403627004,
+      "mean_AE": 3.6912941178938983,
+      "n_cpgs_used": 760
+    }
+  },
+  "from_scratch_clock": {
+    "loo_pearson_r": 0.9146472367689568,
+    "loo_pearson_r_transformed": 0.9382248929989478,
+    "loo_median_AE_years": 2.4872081896166156,
+    "loo_mean_AE_years": 3.823201856006605,
+    "n_cpgs_selected": 31,
+    "alpha": 0.005933243489967425,
+    "l1_ratio": 0.9,
+    "permutation": {
+      "n": 100,
+      "null_mean_r": -0.03488348440126815,
+      "null_sd_r": 0.17123210851407164,
+      "null_p95_r": 0.22978463877178415,
+      "empirical_p": 0.009900990099009901
+    },
+    "overlap_with_published": {
+      "n_selected": 31,
+      "n_overlap": 7,
+      "expected_by_chance": 1.0755978058262767,
+      "hypergeom_p": 7.539056673715029e-05,
+      "cpgs": [
+        "cg00250826",
+        "cg03668418",
+        "cg03708116",
+        "cg17437489",
+        "cg24551749",
+        "cg25184464",
+        "cg26957053"
+      ]
+    },
+    "median_nonzero_across_folds": 66.0
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "n_species": 126,
+  "n_states": 54,
+  "most_variable_states": [
+    {
+      "state": "PromF4+",
+      "family": "PromF",
+      "mean_contrast": 0.7434964702397543,
+      "cv_across_species": 0.6885862444974865,
+      "min": 0.001746760422899443,
+      "max": 2.7809304529907104
+    },
+    {
+      "state": "PromF3-",
+      "family": "PromF",
+      "mean_contrast": 0.8198383827719643,
+      "cv_across_species": 0.6754458715262202,
+      "min": 0.0004954391419803648,
+      "max": 3.9569420691350152
+    },
+    {
+      "state": "PromF4-",
+      "family": "PromF",
+      "mean_contrast": 0.7147758656460305,
+      "cv_across_species": 0.6685056350200878,
+      "min": 0.027024470334442014,
+      "max": 2.3466143943400226
+    },
+    {
+      "state": "PromF3+",
+      "family": "PromF",
+      "mean_contrast": 0.8274793460657135,
+      "cv_across_species": 0.6503984745572633,
+      "min": 0.0037758982446008064,
+      "max": 2.6729671184555617
+    },
+    {
+      "state": "PromF1+",
+      "family": "PromF",
+      "mean_contrast": 0.8145465016847364,
+      "cv_across_species": 0.6273919456255986,
+      "min": 0.013212122941423002,
+      "max": 2.06395714997939
+    },
+    {
+      "state": "PromF2+",
+      "family": "PromF",
+      "mean_contrast": 0.7860163790196087,
+      "cv_across_species": 0.6098718133900664,
+      "min": 0.013496339207807262,
+      "max": 2.4073738458609055
+    },
+    {
+      "state": "TSS1+",
+      "family": "TSS",
+      "mean_contrast": 0.8490069449124534,
+      "cv_across_species": 0.6094386109914242,
+      "min": 0.01631579261337574,
+      "max": 2.7061848102541055
+    },
+    {
+      "state": "TSS1-",
+      "family": "TSS",
+      "mean_contrast": 0.7731889804464316,
+      "cv_across_species": 0.5990614110550995,
+      "min": 0.008759296196885749,
+      "max": 2.3161163285646795
+    },
+    {
+      "state": "Tx6-",
+      "family": "Tx",
+      "mean_contrast": 0.764536440153423,
+      "cv_across_species": 0.5912434212567491,
+      "min": 0.018547840206540437,
+      "max": 2.2909845880390285
+    },
+    {
+      "state": "BivProm4+",
+      "family": "BivProm",
+      "mean_contrast": 0.9979840094616698,
+      "cv_across_species": 0.5564360152081748,
+      "min": 0.021468731128110555,
+      "max": 2.187170511152733
+    }
+  ],
+  "n_states_lifespan_significant": 6,
+  "top_lifespan_states": [
+    {
+      "state": "PromF5-",
+      "family": "PromF",
+      "spearman_rho": -0.3221289280017299,
+      "spearman_p": 0.0002346997620605961,
+      "pearson_logr": -0.26465571871276317,
+      "pearson_p": 0.0027468339749701434,
+      "q": 0.01267378715127219
+    },
+    {
+      "state": "EnhA2-",
+      "family": "EnhA",
+      "spearman_rho": 0.2848469038523799,
+      "spearman_p": 0.0012259376529618652,
+      "pearson_logr": 0.2846907589695817,
+      "pearson_p": 0.0012338966896468838,
+      "q": 0.01867239987210256
+    },
+    {
+      "state": "BivProm1+",
+      "family": "BivProm",
+      "spearman_rho": -0.2846939119605536,
+      "spearman_p": 0.0012337355097928966,
+      "pearson_logr": -0.19740446856067104,
+      "pearson_p": 0.026717127002278233,
+      "q": 0.01867239987210256
+    },
+    {
+      "state": "BivProm1-",
+      "family": "BivProm",
+      "spearman_rho": -0.28046113628669356,
+      "spearman_p": 0.0014682555179428417,
+      "pearson_logr": -0.1626893856831288,
+      "pearson_p": 0.0687392429204971,
+      "q": 0.01867239987210256
+    },
+    {
+      "state": "PromF5+",
+      "family": "PromF",
+      "spearman_rho": -0.2744404553671775,
+      "spearman_p": 0.0018720026981246926,
+      "pearson_logr": -0.1854315601142642,
+      "pearson_p": 0.03763720152883376,
+      "q": 0.01867239987210256
+    },
+    {
+      "state": "TxEnh5-",
+      "family": "TxEnh",
+      "spearman_rho": 0.27185159257019575,
+      "spearman_p": 0.0020747110969002846,
+      "pearson_logr": 0.21339673888268915,
+      "pearson_p": 0.016430763304978332,
+      "q": 0.01867239987210256
+    },
+    {
+      "state": "BivProm2-",
+      "family": "BivProm",
+      "spearman_rho": -0.23195970673675065,
+      "spearman_p": 0.008960974012222265,
+      "pearson_logr": -0.26715608959984205,
+      "pearson_p": 0.0024937625893206197,
+      "q": 0.06463908578037296
+    },
+    {
+      "state": "TSS2-",
+      "family": "TSS",
+      "spearman_rho": -0.2291248569764404,
+      "spearman_p": 0.009859585979337762,
+      "pearson_logr": -0.19118099108152486,
+      "pearson_p": 0.03199805319003524,
+      "q": 0.06463908578037296
+    },
+    {
+      "state": "TxEx3-",
+      "family": "TxEx",
+      "spearman_rho": 0.226466997836086,
+      "spearman_p": 0.010773180963395492,
+      "pearson_logr": 0.2629732951232292,
+      "pearson_p": 0.0029299263733067833,
+      "q": 0.06463908578037296
+    },
+    {
+      "state": "BivProm2+",
+      "family": "BivProm",
+      "spearman_rho": -0.2188144034037565,
+      "spearman_p": 0.013831327265394334,
+      "pearson_logr": -0.20123738719179457,
+      "pearson_p": 0.023849873758386063,
+      "q": 0.0746891672331294
+    }
+  ],
+  "ml": {
+    "elastic_net": {
+      "r": -0.0703415480089374,
+      "r2_oos": -0.4071503650846666,
+      "mae_years": 17.06358951762601
+    },
+    "random_forest": {
+      "r": -0.11546470393994526,
+      "r2_oos": -0.26399885352294294,
+      "mae_years": 15.30363527547856
+    },
+    "permutation": {
+      "n": 200,
+      "null_mean_r": -0.039183823317722306,
+      "null_p95": 0.16802820713349856,
+      "empirical_p": 0.6268656716417911
+    },
+    "n_states_selected": 30,
+    "alpha": 0.09563934632950785
+  },
+  "top_elasticnet_states": [
+    {
+      "state": "EnhA2-",
+      "family": "EnhA",
+      "coef": 0.1872853800686104,
+      "abs": 0.1872853800686104
+    },
+    {
+      "state": "TxEx4-",
+      "family": "TxEx",
+      "coef": -0.16522292394844965,
+      "abs": 0.16522292394844965
+    },
+    {
+      "state": "ReprPC1-",
+      "family": "ReprPC",
+      "coef": 0.14437599097214862,
+      "abs": 0.14437599097214862
+    },
+    {
+      "state": "PromF5-",
+      "family": "PromF",
+      "coef": -0.11963583625058115,
+      "abs": 0.11963583625058115
+    },
+    {
+      "state": "BivProm3-",
+      "family": "BivProm",
+      "coef": 0.10869750651603366,
+      "abs": 0.10869750651603366
+    },
+    {
+      "state": "BivProm2-",
+      "family": "BivProm",
+      "coef": -0.07454453717232284,
+      "abs": 0.07454453717232284
+    },
+    {
+      "state": "ReprPC4-",
+      "family": "ReprPC",
+      "coef": 0.059184138231074074,
+      "abs": 0.059184138231074074
+    },
+    {
+      "state": "ReprPC5-",
+      "family": "ReprPC",
+      "coef": -0.058095727548100176,
+      "abs": 0.058095727548100176
+    },
+    {
+      "state": "TSS1+",
+      "family": "TSS",
+      "coef": 0.045122108207971114,
+      "abs": 0.045122108207971114
+    },
+    {
+      "state": "ReprPC2+",
+      "family": "ReprPC",
+      "coef": -0.04392579533817936,
+      "abs": 0.04392579533817936
+    }
+  ],
+  "top_rf_states": [
+    {
+      "state": "EnhA2-",
+      "family": "EnhA",
+      "importance": 0.1613598492113672,
+      "importance_sd": 0.024167543562992628
+    },
+    {
+      "state": "BivProm1-",
+      "family": "BivProm",
+      "importance": 0.07825863635208011,
+      "importance_sd": 0.014252090145465836
+    },
+    {
+      "state": "BivProm3-",
+      "family": "BivProm",
+      "importance": 0.07057603838847766,
+      "importance_sd": 0.011765050051547593
+    },
+    {
+      "state": "TxEx4-",
+      "family": "TxEx",
+      "importance": 0.04573639099045797,
+      "importance_sd": 0.00876734436238732
+    },
+    {
+      "state": "PromF5-",
+      "family": "PromF",
+      "importance": 0.036367255142833545,
+      "importance_sd": 0.00700259478718285
+    },
+    {
+      "state": "ReprPC7-",
+      "family": "ReprPC",
+      "importance": 0.03361782892891136,
+      "importance_sd": 0.005816046713422595
+    },
+    {
+      "state": "BivProm1+",
+      "family": "BivProm",
+      "importance": 0.032450041791728224,
+      "importance_sd": 0.004618627498134544
+    },
+    {
+      "state": "TxEnh5-",
+      "family": "TxEnh",
+      "importance": 0.02837745626664732,
+      "importance_sd": 0.004258073872227672
+    },
+    {
+      "state": "EnhWk8-",
+      "family": "EnhWk",
+      "importance": 0.02244015977405358,
+      "importance_sd": 0.00252734895732098
+    },
+    {
+      "state": "ReprPC5-",
+      "family": "ReprPC",
+      "importance": 0.021067356187280097,
+      "importance_sd": 0.004459397233328233
+    }
+  ],
+  "clock_cpg_enrichment": [
+    {
+      "category": "fiveUTR",
+      "clock_n": 123,
+      "clock_pct": 9.439754412893324,
+      "bg_pct": 7.027041027766266,
+      "odds_ratio": 1.3791365490700769,
+      "p": 0.0014360617355225988,
+      "q": 0.0033508107162193972
+    },
+    {
+      "category": "Exon",
+      "clock_n": 427,
+      "clock_pct": 32.77052954719877,
+      "bg_pct": 28.641732283464567,
+      "odds_ratio": 1.2144196519637842,
+      "p": 0.0013495897125267128,
+      "q": 0.0033508107162193972
+    },
+    {
+      "category": "Promoter",
+      "clock_n": 104,
+      "clock_pct": 7.981580966999233,
+      "bg_pct": 6.749896394529631,
+      "odds_ratio": 1.1983022434274662,
+      "p": 0.08274213013738729,
+      "q": 0.1158389821923422
+    },
+    {
+      "category": "threeUTR",
+      "clock_n": 127,
+      "clock_pct": 9.746738296239448,
+      "bg_pct": 10.148155822627436,
+      "odds_ratio": 0.9561725404812257,
+      "p": 0.6744971807491367,
+      "q": 0.6744971807491366
+    },
+    {
+      "category": "Intron",
+      "clock_n": 405,
+      "clock_pct": 31.08211818879509,
+      "bg_pct": 32.094384583506006,
+      "odds_ratio": 0.9542349600318789,
+      "p": 0.45072688356126533,
+      "q": 0.5258480308214762
+    },
+    {
+      "category": "Intergenic_upstream",
+      "clock_n": 57,
+      "clock_pct": 4.374520337682272,
+      "bg_pct": 5.630957314546208,
+      "odds_ratio": 0.766662335111732,
+      "p": 0.0569800335665665,
+      "q": 0.09971505874149138
+    },
+    {
+      "category": "Intergenic_downstream",
+      "clock_n": 60,
+      "clock_pct": 4.604758250191865,
+      "bg_pct": 6.941566514711977,
+      "odds_ratio": 0.6471103853219822,
+      "p": 0.0006638053526251038,
+      "q": 0.0033508107162193972
+    }
+  ],
+  "top_clock_genes": {
+    "PAX2": 9,
+    "HOXB7": 9,
+    "LOC440982": 8,
+    "NPAS3": 8,
+    "CASZ1": 8,
+    "ZFHX3": 7,
+    "NR2F1-AS1": 7,
+    "BCOR": 7,
+    "EVX2": 6,
+    "FIGN": 6,
+    "ZNF521": 6,
+    "TBCA": 6,
+    "SOCS3": 5,
+    "BTRC": 5,
+    "MECOM": 5,
+    "FOXP1": 5,
+    "CXXC5": 5,
+    "RNF220": 5,
+    "ACIN1": 5,
+    "MEIS2": 5
+  }
+}
